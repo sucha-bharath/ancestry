@@ -3,9 +3,9 @@
 2 VERS AIO64-5.2.2-r1-f905d14
 2 NAME Gramps
 1 DATE 2 MAY 2024
-2 TIME 15:28:10
+2 TIME 18:57:58
 1 SUBM @SUBM@
-1 FILE C:\Users\sucha\GitHub\topola-webpack\ancestry.ged
+1 FILE C:\Users\sucha\GitHub\ancestry\ancestry_data\ancestry.ged
 1 COPR Copyright (c) 2024 .
 1 GEDC
 2 VERS 5.5.1
@@ -4243,9 +4243,10 @@
 1 SEX F
 1 FAMC @F0130@
 2 PEDI birth
+1 FAMS @F0142@
 1 CHAN
 2 DATE 2 MAY 2024
-3 TIME 14:40:01
+3 TIME 18:51:55
 0 @I0391@ INDI
 1 NAME (பாம்பே கண்ணன்) /சித்ரா/
 2 TYPE birth
@@ -4528,15 +4529,15 @@
 2 DATE 2 MAY 2024
 3 TIME 14:36:23
 0 @I0419@ INDI
-1 NAME  /நித்யா @@ ரேவதி/
+1 NAME  /நித்யா aka ரேவதி/
 2 TYPE birth
-2 SURN நித்யா @@ ரேவதி
+2 SURN நித்யா aka ரேவதி
 1 SEX F
 1 FAMC @F0138@
 2 PEDI birth
 1 CHAN
 2 DATE 2 MAY 2024
-3 TIME 14:36:23
+3 TIME 18:44:30
 0 @I0420@ INDI
 1 NAME (பாம்பே கண்ணன்) /ஸ்ரீதர்/
 2 TYPE birth
@@ -4545,9 +4546,10 @@
 1 SEX M
 1 FAMC @F0130@
 2 PEDI birth
+1 FAMS @F0143@
 1 CHAN
 2 DATE 2 MAY 2024
-3 TIME 14:40:01
+3 TIME 18:53:33
 0 @I0421@ INDI
 1 NAME (பாம்பே கண்ணன்) /ஸ்ரீநிவாசன்/
 2 TYPE birth
@@ -4556,9 +4558,10 @@
 1 SEX M
 1 FAMC @F0130@
 2 PEDI birth
+1 FAMS @F0144@
 1 CHAN
 2 DATE 2 MAY 2024
-3 TIME 14:40:01
+3 TIME 18:55:15
 0 @I0422@ INDI
 1 NAME (பாம்பே கண்ணன்) /மீரா/
 2 TYPE birth
@@ -4599,6 +4602,88 @@
 1 CHAN
 2 DATE 2 MAY 2024
 3 TIME 14:45:47
+0 @I0426@ INDI
+1 NAME (பாம்பே கண்ணன்) /ராமானுஜம்/
+2 TYPE birth
+2 GIVN (பாம்பே கண்ணன்)
+2 SURN ராமானுஜம்
+1 SEX M
+1 FAMS @F0142@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 18:51:55
+0 @I0427@ INDI
+1 NAME (பாம்பே கண்ணன்) /பிரியா/
+2 TYPE birth
+2 GIVN (பாம்பே கண்ணன்)
+2 SURN பிரியா
+1 SEX F
+1 FAMC @F0142@
+2 PEDI birth
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 18:51:55
+0 @I0428@ INDI
+1 NAME (பாம்பே கண்ணன்) /ஷோபா/
+2 TYPE birth
+2 GIVN (பாம்பே கண்ணன்)
+2 SURN ஷோபா
+1 SEX F
+1 FAMC @F0142@
+2 PEDI birth
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 18:51:55
+0 @I0429@ INDI
+1 NAME  /காஞ்சனா/
+2 TYPE birth
+2 SURN காஞ்சனா
+1 SEX F
+1 FAMS @F0143@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 18:53:33
+0 @I0430@ INDI
+1 NAME (பாம்பே கண்ணன்) /அனிதா/
+2 TYPE birth
+2 GIVN (பாம்பே கண்ணன்)
+2 SURN அனிதா
+1 SEX F
+1 FAMC @F0143@
+2 PEDI birth
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 18:53:33
+0 @I0431@ INDI
+1 NAME  /ராதிகா/
+2 TYPE birth
+2 SURN ராதிகா
+1 SEX F
+1 FAMS @F0144@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 18:55:15
+0 @I0432@ INDI
+1 NAME  /வந்தனா/
+2 TYPE birth
+2 SURN வந்தனா
+1 SEX F
+1 FAMC @F0144@
+2 PEDI birth
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 18:55:15
+0 @I0433@ INDI
+1 NAME (பாம்பே கண்ணன்) /ஸ்ரீகாந்த்/
+2 TYPE birth
+2 GIVN (பாம்பே கண்ணன்)
+2 SURN ஸ்ரீகாந்த்
+1 SEX M
+1 FAMC @F0144@
+2 PEDI birth
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 18:55:15
 0 @F0000@ FAM
 1 HUSB @I0000@
 1 WIFE @I0001@
@@ -5756,6 +5841,29 @@
 1 CHAN
 2 DATE 2 MAY 2024
 3 TIME 14:45:47
+0 @F0142@ FAM
+1 HUSB @I0426@
+1 WIFE @I0390@
+1 CHIL @I0427@
+1 CHIL @I0428@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 18:51:55
+0 @F0143@ FAM
+1 HUSB @I0420@
+1 WIFE @I0429@
+1 CHIL @I0430@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 18:53:33
+0 @F0144@ FAM
+1 HUSB @I0421@
+1 WIFE @I0431@
+1 CHIL @I0432@
+1 CHIL @I0433@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 18:55:15
 0 @N0000@ NOTE அச்சங்குளம் ஸ்வீகாரம்
 0 @N0001@ NOTE Second wife
 0 @N0002@ NOTE Also known as ஸ்ரீநிவாசன்?
