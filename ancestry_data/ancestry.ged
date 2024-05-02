@@ -1,0 +1,5762 @@
+0 HEAD
+1 SOUR Gramps
+2 VERS AIO64-5.2.2-r1-f905d14
+2 NAME Gramps
+1 DATE 2 MAY 2024
+2 TIME 15:28:10
+1 SUBM @SUBM@
+1 FILE C:\Users\sucha\GitHub\topola-webpack\ancestry.ged
+1 COPR Copyright (c) 2024 .
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @SUBM@ SUBM
+1 NAME
+0 @I0000@ INDI
+1 NAME (சிந்துபட்டி ஆரம்பம்) /ராமன்/
+2 TYPE birth
+2 GIVN (சிந்துபட்டி ஆரம்பம்)
+2 SURN ராமன்
+1 SEX M
+1 FACT ஸ்ரீவத்ஸ
+2 TYPE கோத்திரம்
+1 FAMS @F0000@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:55:14
+0 @I0001@ INDI
+1 NAME (சிந்துபட்டி ஆரம்பம்) /லக்ஷ்மி/
+2 TYPE birth
+2 GIVN (சிந்துபட்டி ஆரம்பம்)
+2 SURN லக்ஷ்மி
+1 SEX F
+1 FAMS @F0000@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:55:30
+0 @I0002@ INDI
+1 NAME  /ராஜம்/
+2 TYPE birth
+2 SURN ராஜம்
+1 SEX M
+1 FAMC @F0000@
+2 PEDI birth
+1 FAMS @F0001@
+1 CHAN
+2 DATE 15 MAR 2024
+3 TIME 16:58:03
+0 @I0003@ INDI
+1 NAME (செல்லம்) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (செல்லம்)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0000@
+2 PEDI birth
+1 FAMS @F0003@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:54:14
+0 @I0004@ INDI
+1 NAME (அச்சங்குளம் ஸ்வீகாரம்) /முத்து/
+2 TYPE birth
+2 GIVN (அச்சங்குளம் ஸ்வீகாரம்)
+2 SURN முத்து
+1 SEX M
+1 FAMC @F0000@
+2 PEDI birth
+1 FAMS @F0005@
+1 NOTE @N0000@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:55:49
+0 @I0005@ INDI
+1 NAME (தாயம்மாள்) /நாச்சியார்/
+2 TYPE birth
+2 GIVN (தாயம்மாள்)
+2 SURN நாச்சியார்
+1 SEX F
+1 FAMC @F0000@
+2 PEDI birth
+1 FAMS @F0004@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:19:31
+0 @I0006@ INDI
+1 NAME (கல்லூரணி) /கோமளம்/
+2 TYPE birth
+2 GIVN (கல்லூரணி)
+2 SURN கோமளம்
+1 SEX F
+1 FAMC @F0000@
+2 PEDI birth
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:17:21
+0 @I0007@ INDI
+1 NAME (திருவேங்கடத்தான் அப்பா) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (திருவேங்கடத்தான் அப்பா)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0001@
+2 PEDI birth
+1 FAMS @F0002@
+1 FAMS @F0036@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 14:41:52
+0 @I0008@ INDI
+1 NAME (பாட்டியின் பெரியம்மா) /ருக்மிணி/
+2 TYPE birth
+2 GIVN (பாட்டியின் பெரியம்மா)
+2 SURN ருக்மிணி
+1 SEX F
+1 FAMC @F0010@
+2 PEDI birth
+1 FAMS @F0001@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 15:08:34
+0 @I0009@ INDI
+1 NAME (திருவேங்கடத்தான் அம்மா) /ருக்மிணி/
+2 TYPE birth
+2 GIVN (திருவேங்கடத்தான் அம்மா)
+2 SURN ருக்மிணி
+1 SEX F
+1 FAMC @F0021@
+2 PEDI birth
+1 FAMS @F0002@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 15:08:23
+0 @I0010@ INDI
+1 NAME (அம்மாஞ்சி) /திருவேங்கடத்தான்/
+2 TYPE birth
+2 GIVN (அம்மாஞ்சி)
+2 SURN திருவேங்கடத்தான்
+1 SEX M
+1 FAMC @F0002@
+2 PEDI birth
+1 FAMS @F0059@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 15:18:24
+0 @I0011@ INDI
+1 NAME (அம்பி நானா அம்மா) /அலமேலு/
+2 TYPE birth
+2 GIVN (அம்பி நானா அம்மா)
+2 SURN அலமேலு
+1 SEX F
+1 FAMC @F0002@
+2 PEDI birth
+1 FAMS @F0039@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:50:14
+0 @I0013@ INDI
+1 NAME (செல்லப்பா அப்பா) /ரங்கன்/
+2 TYPE birth
+2 GIVN (செல்லப்பா அப்பா)
+2 SURN ரங்கன்
+1 SEX M
+1 FAMC @F0003@
+2 PEDI birth
+1 FAMS @F0007@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:57:16
+0 @I0014@ INDI
+1 NAME (ராமன் அப்பா) /ராமானுஜம்/
+2 TYPE birth
+2 GIVN (ராமன் அப்பா)
+2 SURN ராமானுஜம்
+1 SEX M
+1 BIRT
+2 DATE 5 OCT 1912
+1 FAMC @F0003@
+2 PEDI birth
+1 FAMS @F0017@
+1 CHAN
+2 DATE 22 APR 2024
+3 TIME 19:53:11
+0 @I0015@ INDI
+1 NAME  /வெங்கடாச்சாரி/
+2 TYPE birth
+2 SURN வெங்கடாச்சாரி
+1 SEX M
+1 CHAN
+2 DATE 9 MAR 2024
+3 TIME 13:50:54
+0 @I0016@ INDI
+1 NAME (ராமன் பாட்டி) /லக்ஷ்மி/
+2 TYPE birth
+2 GIVN (ராமன் பாட்டி)
+2 SURN லக்ஷ்மி
+1 SEX F
+1 FAMC @F0034@
+2 PEDI birth
+1 FAMS @F0003@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:53:49
+0 @I0017@ INDI
+1 NAME (வேம்பு) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (வேம்பு)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0006@
+2 PEDI birth
+1 FAMS @F0069@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 10:52:52
+0 @I0018@ INDI
+1 NAME (ஏட்டு) /ராமஸ்வாமி/
+2 TYPE birth
+2 GIVN (ஏட்டு)
+2 SURN ராமஸ்வாமி
+1 SEX M
+1 BIRT
+2 DATE 1914
+1 DEAT
+2 DATE 24 DEC 2006
+1 FAMC @F0004@
+2 PEDI birth
+1 FAMS @F0006@
+1 FAMS @F0061@
+1 CHAN
+2 DATE 22 APR 2024
+3 TIME 20:03:32
+0 @I0019@ INDI
+1 NAME (வேம்பு அம்மா) /பங்கஜம்/
+2 TYPE birth
+2 GIVN (வேம்பு அம்மா)
+2 SURN பங்கஜம்
+1 SEX F
+1 FAMC @F0005@
+2 PEDI birth
+1 FAMS @F0006@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:56:48
+0 @I0020@ INDI
+1 NAME (ஏட்டு அப்பா) /திருவேங்கடத்தான்/
+2 TYPE birth
+2 GIVN (ஏட்டு அப்பா)
+2 SURN திருவேங்கடத்தான்
+1 SEX M
+1 FACT கௌசிக
+2 TYPE கோத்திரம்
+1 FAMC @F0048@
+2 PEDI birth
+1 FAMS @F0004@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 15:14:13
+0 @I0021@ INDI
+1 NAME (தாத்தாவின் அக்கா) /ஸ்ரீரங்கம்/
+2 TYPE birth
+2 GIVN (தாத்தாவின் அக்கா)
+2 SURN ஸ்ரீரங்கம்
+1 SEX F
+1 FAMC @F0011@
+2 PEDI birth
+1 FAMS @F0005@
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:27:15
+0 @I0022@ INDI
+1 NAME (செல்லப்பா) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (செல்லப்பா)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0007@
+2 PEDI birth
+1 FAMS @F0079@
+1 FAMS @F0082@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:14:17
+0 @I0023@ INDI
+1 NAME (செல்லப்பா அம்மா) /ரங்கன்/
+2 TYPE birth
+2 GIVN (செல்லப்பா அம்மா)
+2 SURN ரங்கன்
+1 SEX F
+1 FAMS @F0007@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:57:43
+0 @I0024@ INDI
+1 NAME (ஸ்ரீரங்கம் அப்பா) /வெங்கடராமன்/
+2 TYPE birth
+2 GIVN (ஸ்ரீரங்கம் அப்பா)
+2 SURN வெங்கடராமன்
+1 SEX M
+1 FAMC @F0005@
+2 PEDI birth
+1 FAMS @F0008@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:26:18
+0 @I0025@ INDI
+1 NAME (சிவகாசி அம்பி) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (சிவகாசி அம்பி)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0008@
+2 PEDI birth
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 14:41:04
+0 @I0026@ INDI
+1 NAME (ஸ்ரீரங்கம் அம்மா) /ஜெயலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (ஸ்ரீரங்கம் அம்மா)
+2 SURN ஜெயலக்ஷ்மி
+1 SEX F
+1 FAMS @F0008@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:27:32
+0 @I0027@ INDI
+1 NAME (அச்சங்குளம் ஆரம்பம்) /வெங்கடராமன்/
+2 TYPE birth
+2 GIVN (அச்சங்குளம் ஆரம்பம்)
+2 SURN வெங்கடராமன்
+1 SEX M
+1 FAMS @F0058@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 14:51:26
+0 @I0028@ INDI
+1 NAME (அச்சங்குளம் ஆரம்பம்) /அலமேலு/
+2 TYPE birth
+2 GIVN (அச்சங்குளம் ஆரம்பம்)
+2 SURN அலமேலு
+1 SEX F
+1 FAMS @F0058@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 14:51:26
+0 @I0029@ INDI
+1 NAME (அப்பா குராயூர்) /முத்தப்பன்/
+2 TYPE birth
+2 GIVN (அப்பா குராயூர்)
+2 SURN முத்தப்பன்
+1 SEX M
+1 FAMS @F0009@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:21:32
+0 @I0030@ INDI
+1 NAME (அம்மா குராயூர்) /முத்தப்பன்/
+2 TYPE birth
+2 GIVN (அம்மா குராயூர்)
+2 SURN முத்தப்பன்
+1 SEX F
+1 FAMS @F0009@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:21:42
+0 @I0031@ INDI
+1 NAME (பாட்டி அப்பா) /முத்தப்பன்/
+2 TYPE birth
+2 GIVN (பாட்டி அப்பா)
+2 SURN முத்தப்பன்
+1 SEX M
+1 FAMC @F0009@
+2 PEDI birth
+1 FAMS @F0013@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:43:57
+0 @I0032@ INDI
+1 NAME (தாத்தாவின் அம்மா) /நாச்சியார்/
+2 TYPE birth
+2 GIVN (தாத்தாவின் அம்மா)
+2 SURN நாச்சியார்
+1 SEX F
+1 DEAT
+2 DATE 10 NOV 1933
+1 FAMC @F0009@
+2 PEDI birth
+1 FAMS @F0011@
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:23:02
+0 @I0033@ INDI
+1 NAME (எச்சம்மாள்) /சீதாலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (எச்சம்மாள்)
+2 SURN சீதாலக்ஷ்மி
+1 SEX F
+1 FAMC @F0010@
+2 PEDI birth
+1 FAMS @F0013@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 13:24:58
+0 @I0034@ INDI
+1 NAME (அப்பா) /எச்சம்மாள்/
+2 TYPE birth
+2 GIVN (அப்பா)
+2 SURN எச்சம்மாள்
+1 SEX M
+1 FAMS @F0010@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:27:47
+0 @I0035@ INDI
+1 NAME (அம்மா) /எச்சம்மாள்/
+2 TYPE birth
+2 GIVN (அம்மா)
+2 SURN எச்சம்மாள்
+1 SEX F
+1 FAMS @F0010@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:28:02
+0 @I0036@ INDI
+1 NAME (சுதர்சனம்   தாத்தாவின் அப்பா) /குப்புஸ்வாமி/
+2 TYPE birth
+2 GIVN (சுதர்சனம்   தாத்தாவின் அப்பா)
+2 SURN குப்புஸ்வாமி
+1 SEX M
+1 DEAT
+2 DATE 8 FEB 1926
+1 FACT ஹரித
+2 TYPE கோத்திரம்
+1 FAMC @F0058@
+2 PEDI birth
+1 FAMS @F0011@
+1 NOTE @N0002@
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:22:06
+0 @I0037@ INDI
+1 NAME (சுதர்சனம் தாத்தா) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (சுதர்சனம் தாத்தா)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 BIRT
+2 DATE 18 DEC 1891
+1 DEAT
+2 DATE 13 NOV 1975
+1 FAMC @F0011@
+2 PEDI birth
+1 FAMS @F0012@
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:27:15
+0 @I0038@ INDI
+1 NAME (செல்லாளி சுதர்சனம் பாட்டி) /செல்லம்மாள்/
+2 TYPE birth
+2 GIVN (செல்லாளி சுதர்சனம் பாட்டி)
+2 SURN செல்லம்மாள்
+1 SEX F
+1 BIRT
+2 DATE 17 DEC 1902
+1 DEAT
+2 DATE 12 JUL 1978
+1 FAMC @F0013@
+2 PEDI birth
+1 FAMS @F0012@
+1 CHAN
+2 DATE 22 APR 2024
+3 TIME 20:06:32
+0 @I0039@ INDI
+1 NAME (சுதர்சனம் அம்மா) /ராஜலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (சுதர்சனம் அம்மா)
+2 SURN ராஜலக்ஷ்மி
+1 SEX F
+1 FAMC @F0012@
+2 PEDI birth
+1 FAMS @F0056@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:23:15
+0 @I0040@ INDI
+1 NAME  /முத்துக்கிருஷ்ணன்/
+2 TYPE birth
+2 SURN முத்துக்கிருஷ்ணன்
+1 SEX M
+1 FAMC @F0012@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:23:15
+0 @I0041@ INDI
+1 NAME (சுதர்சனம் மாமா) /சுந்தரராஜன்/
+2 TYPE birth
+2 GIVN (சுதர்சனம் மாமா)
+2 SURN சுந்தரராஜன்
+1 SEX M
+1 BIRT
+2 DATE 5 NOV 1920
+1 FAMC @F0012@
+2 PEDI birth
+1 FAMS @F0057@
+1 CHAN
+2 DATE 22 APR 2024
+3 TIME 20:07:16
+0 @I0042@ INDI
+1 NAME (பட்டு மன்னி அம்மா) /சீமாசம்/
+2 TYPE birth
+2 GIVN (பட்டு மன்னி அம்மா)
+2 SURN சீமாசம்
+1 SEX F
+1 FAMC @F0005@
+2 PEDI birth
+1 FAMS @F0014@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 13:26:09
+0 @I0043@ INDI
+1 NAME (வெங்கடசேஷன் அம்மா) /அலமேலு/
+2 TYPE birth
+2 GIVN (வெங்கடசேஷன் அம்மா)
+2 SURN அலமேலு
+1 SEX F
+1 FAMC @F0005@
+2 PEDI birth
+1 FAMS @F0015@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 14:48:41
+0 @I0044@ INDI
+1 NAME (சீதாளு முத்து மகள்) /சீதாலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (சீதாளு முத்து மகள்)
+2 SURN சீதாலக்ஷ்மி
+1 SEX F
+1 FAMC @F0005@
+2 PEDI birth
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 13:25:41
+0 @I0045@ INDI
+1 NAME (சாரநாதன் அம்மா) /சுந்தரா/
+2 TYPE birth
+2 GIVN (சாரநாதன் அம்மா)
+2 SURN சுந்தரா
+1 SEX F
+1 FAMC @F0005@
+2 PEDI birth
+1 FAMS @F0016@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 14:46:49
+0 @I0047@ INDI
+1 NAME (கீதா ராதா அம்மா) /பட்டு/
+2 TYPE birth
+2 GIVN (கீதா ராதா அம்மா)
+2 SURN பட்டு
+1 SEX F
+1 BIRT
+2 DATE 1933
+1 FAMC @F0014@
+2 PEDI birth
+1 FAMS @F0026@
+1 CHAN
+2 DATE 22 APR 2024
+3 TIME 20:01:54
+0 @I0048@ INDI
+1 NAME (வெங்கடசேஷன் அப்பா) /திருவேங்கடம்/
+2 TYPE birth
+2 GIVN (வெங்கடசேஷன் அப்பா)
+2 SURN திருவேங்கடம்
+1 SEX M
+1 FAMS @F0015@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:19:18
+0 @I0049@ INDI
+1 NAME  /வெங்கடசேஷன்/
+2 TYPE birth
+2 SURN வெங்கடசேஷன்
+1 SEX M
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 10 MAR 2024
+3 TIME 14:17:44
+0 @I0051@ INDI
+1 NAME  /கிருஷ்ணமூர்த்தி/
+2 TYPE birth
+2 SURN கிருஷ்ணமூர்த்தி
+1 SEX M
+1 FAMC @F0016@
+2 PEDI birth
+1 FAMS @F0019@
+1 CHAN
+2 DATE 15 MAR 2024
+3 TIME 11:06:30
+0 @I0052@ INDI
+1 NAME  /சாரநாதன்/
+2 TYPE birth
+2 SURN சாரநாதன்
+1 SEX M
+1 FAMC @F0016@
+2 PEDI birth
+1 FAMS @F0028@
+1 CHAN
+2 DATE 16 MAR 2024
+3 TIME 19:37:21
+0 @I0053@ INDI
+1 NAME (ராமன் அம்மா) /சீதாலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (ராமன் அம்மா)
+2 SURN சீதாலக்ஷ்மி
+1 SEX F
+1 BIRT
+2 DATE 5 NOV 1924
+1 FAMC @F0023@
+2 PEDI birth
+1 FAMS @F0017@
+1 CHAN
+2 DATE 22 APR 2024
+3 TIME 19:53:59
+0 @I0054@ INDI
+1 NAME (ராமானி) /ராமன்/
+2 TYPE birth
+2 GIVN (ராமானி)
+2 SURN ராமன்
+1 SEX M
+1 FAMC @F0017@
+2 PEDI birth
+1 FAMS @F0076@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:38:19
+0 @I0055@ INDI
+1 NAME (சீமானி) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (சீமானி)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0017@
+2 PEDI birth
+1 FAMS @F0087@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:29:30
+0 @I0056@ INDI
+1 NAME (செல்லப்பா தம்பி) /ராஜகோபாலன்/
+2 TYPE birth
+2 GIVN (செல்லப்பா தம்பி)
+2 SURN ராஜகோபாலன்
+1 SEX M
+1 FAMC @F0007@
+2 PEDI birth
+1 FAMS @F0018@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:43:05
+0 @I0057@ INDI
+1 NAME (செல்லப்பா தம்பி) /ராமஸ்வாமி/
+2 TYPE birth
+2 GIVN (செல்லப்பா தம்பி)
+2 SURN ராமஸ்வாமி
+1 SEX M
+1 FAMC @F0007@
+2 PEDI birth
+1 FAMS @F0112@
+1 CHAN
+2 DATE 21 APR 2024
+3 TIME 15:10:47
+0 @I0058@ INDI
+1 NAME  /பிரேமா/
+2 TYPE birth
+2 SURN பிரேமா
+1 SEX F
+1 FAMC @F0007@
+2 PEDI birth
+1 CHAN
+2 DATE 18 MAR 2024
+3 TIME 12:20:13
+0 @I0059@ INDI
+1 NAME  /மதுபாலா/
+2 TYPE birth
+2 SURN மதுபாலா
+1 SEX F
+1 FAMC @F0007@
+2 PEDI birth
+1 CHAN
+2 DATE 18 MAR 2024
+3 TIME 12:20:13
+0 @I0060@ INDI
+1 NAME (ராஜகோபால் மனைவி) /பத்மா/
+2 TYPE birth
+2 GIVN (ராஜகோபால் மனைவி)
+2 SURN பத்மா
+1 SEX F
+1 FAMC @F0047@
+2 PEDI birth
+1 FAMS @F0018@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:20:12
+0 @I0061@ INDI
+1 NAME  /பிரசன்னா/
+2 TYPE birth
+2 SURN பிரசன்னா
+1 SEX M
+1 FAMC @F0018@
+2 PEDI birth
+1 FAMS @F0086@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:25:31
+0 @I0062@ INDI
+1 NAME (சிவகாசி அம்பி அக்கா) /ஸ்ரீரங்கம்/
+2 TYPE birth
+2 GIVN (சிவகாசி அம்பி அக்கா)
+2 SURN ஸ்ரீரங்கம்
+1 SEX F
+1 FAMC @F0008@
+2 PEDI birth
+1 FAMS @F0019@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 14:42:50
+0 @I0063@ INDI
+1 NAME  /வெங்கடகிருஷ்ணன்/
+2 TYPE birth
+2 SURN வெங்கடகிருஷ்ணன்
+1 SEX M
+1 FAMC @F0003@
+2 PEDI birth
+1 FAMS @F0020@
+1 CHAN
+2 DATE 15 MAR 2024
+3 TIME 17:00:54
+0 @I0064@ INDI
+1 NAME  /ராஜாமணி/
+2 TYPE birth
+2 SURN ராஜாமணி
+1 SEX F
+1 FAMS @F0020@
+1 CHAN
+2 DATE 11 MAR 2024
+3 TIME 15:08:54
+0 @I0065@ INDI
+1 NAME (ஸ்ரீரங்கம் பையன்) /ராஜகோபாலன்/
+2 TYPE birth
+2 GIVN (ஸ்ரீரங்கம் பையன்)
+2 SURN ராஜகோபாலன்
+1 SEX M
+1 FAMC @F0019@
+2 PEDI birth
+1 FAMS @F0090@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 13:58:36
+0 @I0066@ INDI
+1 NAME (ஜானகி பாட்டி அப்பா) /கோபாலன்/
+2 TYPE birth
+2 GIVN (ஜானகி பாட்டி அப்பா)
+2 SURN கோபாலன்
+1 SEX M
+1 FAMC @F0022@
+2 PEDI birth
+1 FAMS @F0021@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:16:51
+0 @I0067@ INDI
+1 NAME (தாத்தாவின் சகோதரி) /மதுரவல்லி/
+2 TYPE birth
+2 GIVN (தாத்தாவின் சகோதரி)
+2 SURN மதுரவல்லி
+1 SEX F
+1 FAMC @F0011@
+2 PEDI birth
+1 FAMS @F0021@
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:27:15
+0 @I0068@ INDI
+1 NAME (சீதா சித்தி தாத்தா அப்பா வழி) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (சீதா சித்தி தாத்தா அப்பா வழி)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMS @F0022@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 14:42:09
+0 @I0069@ INDI
+1 NAME (சீதா சித்தி பாட்டி அப்பா வழி) /அலமேலு/
+2 TYPE birth
+2 GIVN (சீதா சித்தி பாட்டி அப்பா வழி)
+2 SURN அலமேலு
+1 SEX F
+1 FAMS @F0022@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:12:01
+0 @I0070@ INDI
+1 NAME (சீதா சித்தி அப்பா) /சுந்தரராஜன்/
+2 TYPE birth
+2 GIVN (சீதா சித்தி அப்பா)
+2 SURN சுந்தரராஜன்
+1 SEX M
+1 BIRT
+2 DATE 1889
+1 FAMS @F0023@
+1 CHAN
+2 DATE 22 APR 2024
+3 TIME 19:55:01
+0 @I0071@ INDI
+1 NAME (சீதா சித்தி அம்மா) /ஆண்டாள்/
+2 TYPE birth
+2 GIVN (சீதா சித்தி அம்மா)
+2 SURN ஆண்டாள்
+1 SEX F
+1 BIRT
+2 DATE 1895
+1 FAMS @F0023@
+1 CHAN
+2 DATE 22 APR 2024
+3 TIME 19:55:27
+0 @I0072@ INDI
+1 NAME  /பரமசாமி/
+2 TYPE birth
+2 SURN பரமசாமி
+1 SEX M
+1 BIRT
+2 DATE 1931
+1 FAMC @F0023@
+2 PEDI birth
+1 FAMS @F0115@
+1 CHAN
+2 DATE 22 APR 2024
+3 TIME 19:57:48
+0 @I0073@ INDI
+1 NAME (அம்முக்குட்டி அம்மா) /ஜானகி/
+2 TYPE birth
+2 GIVN (அம்முக்குட்டி அம்மா)
+2 SURN ஜானகி
+1 SEX F
+1 FAMC @F0021@
+2 PEDI birth
+1 FAMS @F0032@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:51:25
+0 @I0074@ INDI
+1 NAME (குப்பு முத்தா அப்பா) /ராகவன்/
+2 TYPE birth
+2 GIVN (குப்பு முத்தா அப்பா)
+2 SURN ராகவன்
+1 SEX M
+1 FAMC @F0048@
+2 PEDI birth
+1 FAMS @F0024@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:22:48
+0 @I0075@ INDI
+1 NAME (குப்பு முத்தா அம்மா) /செல்லம்மாள்/
+2 TYPE birth
+2 GIVN (குப்பு முத்தா அம்மா)
+2 SURN செல்லம்மாள்
+1 SEX F
+1 FAMC @F0025@
+2 PEDI birth
+1 FAMS @F0024@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:18:50
+0 @I0076@ INDI
+1 NAME (கீதா ராதா அப்பா) /குப்புஸ்வாமி/
+2 TYPE birth
+2 GIVN (கீதா ராதா அப்பா)
+2 SURN குப்புஸ்வாமி
+1 SEX M
+1 BIRT
+2 DATE 1926
+1 FAMC @F0024@
+2 PEDI birth
+1 FAMS @F0026@
+1 CHAN
+2 DATE 22 APR 2024
+3 TIME 20:00:36
+0 @I0077@ INDI
+1 NAME (திருச்சேறை) /ராஜகோபாலன்/
+2 TYPE birth
+2 GIVN (திருச்சேறை)
+2 SURN ராஜகோபாலன்
+1 SEX M
+1 FAMS @F0016@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:42:48
+0 @I0078@ INDI
+1 NAME (தாத்தாவின் சகோதரி?) /அலமேலு/
+2 TYPE birth
+2 GIVN (தாத்தாவின் சகோதரி?)
+2 SURN அலமேலு
+1 SEX F
+1 FAMC @F0011@
+2 PEDI birth
+1 FAMS @F0025@
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:27:15
+0 @I0079@ INDI
+1 NAME (குப்பு முத்தா தாத்தாஅம்மா வழி) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (குப்பு முத்தா தாத்தாஅம்மா வழி)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMS @F0025@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 14:40:44
+0 @I0080@ INDI
+1 NAME (குப்பு) /கீதா/
+2 TYPE birth
+2 GIVN (குப்பு)
+2 SURN கீதா
+1 SEX F
+1 FAMC @F0026@
+2 PEDI birth
+1 FAMS @F0105@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:53:21
+0 @I0081@ INDI
+1 NAME  /ராதா/
+2 TYPE birth
+2 SURN ராதா
+1 SEX F
+1 FAMC @F0026@
+2 PEDI birth
+1 FAMS @F0037@
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 10:50:13
+0 @I0082@ INDI
+1 NAME (கோண்டு) /கோதண்டராமன்/
+2 TYPE birth
+2 GIVN (கோண்டு)
+2 SURN கோதண்டராமன்
+1 SEX M
+1 FAMC @F0027@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:07:16
+0 @I0083@ INDI
+1 NAME (கோண்டு அம்மா) /பட்டு/
+2 TYPE birth
+2 GIVN (கோண்டு அம்மா)
+2 SURN பட்டு
+1 SEX F
+1 FAMC @F0024@
+2 PEDI birth
+1 FAMS @F0027@
+1 CHAN
+2 DATE 29 MAR 2024
+3 TIME 18:52:38
+0 @I0084@ INDI
+1 NAME (ரோஜா கோண்டு அப்பா) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (ரோஜா கோண்டு அப்பா)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0043@
+2 PEDI birth
+1 FAMS @F0027@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:50:48
+0 @I0085@ INDI
+1 NAME (கோண்டு தம்பி) /வெங்கடேசன்/
+2 TYPE birth
+2 GIVN (கோண்டு தம்பி)
+2 SURN வெங்கடேசன்
+1 SEX M
+1 FAMC @F0027@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:07:16
+0 @I0086@ INDI
+1 NAME  /அம்புஜம்/
+2 TYPE birth
+2 SURN அம்புஜம்
+1 SEX F
+1 FAMC @F0003@
+2 PEDI birth
+1 FAMS @F0052@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:49:02
+0 @I0087@ INDI
+1 NAME (பட்டு மன்னி அப்பா) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (பட்டு மன்னி அப்பா)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0034@
+2 PEDI birth
+1 FAMS @F0014@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 14:42:25
+0 @I0088@ INDI
+1 NAME (சாரநாதன்) /கமலா/
+2 TYPE birth
+2 GIVN (சாரநாதன்)
+2 SURN கமலா
+1 SEX F
+1 FAMS @F0028@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:28:17
+0 @I0089@ INDI
+1 NAME (சாரநாதன்) /சுந்தரராஜன்/
+2 TYPE birth
+2 GIVN (சாரநாதன்)
+2 SURN சுந்தரராஜன்
+1 SEX M
+1 FAMC @F0028@
+2 PEDI birth
+1 FAMS @F0029@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:18:06
+0 @I0090@ INDI
+1 NAME (சாரநாதன்) /பாலாஜி/
+2 TYPE birth
+2 GIVN (சாரநாதன்)
+2 SURN பாலாஜி
+1 SEX M
+1 FAMC @F0028@
+2 PEDI birth
+1 FAMS @F0030@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:20:46
+0 @I0091@ INDI
+1 NAME  /ஹேமா/
+2 TYPE birth
+2 SURN ஹேமா
+1 SEX F
+1 FAMS @F0029@
+1 CHAN
+2 DATE 16 MAR 2024
+3 TIME 19:42:49
+0 @I0092@ INDI
+1 NAME  /அனுஷா/
+2 TYPE birth
+2 SURN அனுஷா
+1 SEX F
+1 FAMS @F0030@
+1 CHAN
+2 DATE 16 MAR 2024
+3 TIME 19:44:16
+0 @I0093@ INDI
+1 NAME Aviyanka /அவியங்கா/
+2 TYPE birth
+2 GIVN Aviyanka
+2 SURN அவியங்கா
+1 SEX F
+1 FAMC @F0030@
+2 PEDI birth
+1 CHAN
+2 DATE 18 MAR 2024
+3 TIME 12:34:05
+0 @I0094@ INDI
+1 NAME  /அஸ்வத் நாராயண்/
+2 TYPE birth
+2 SURN அஸ்வத் நாராயண்
+1 SEX M
+1 FAMC @F0030@
+2 PEDI birth
+1 CHAN
+2 DATE 16 MAR 2024
+3 TIME 19:44:16
+0 @I0095@ INDI
+1 NAME (மன்னார்) /ராஜகோபாலன்/
+2 TYPE birth
+2 GIVN (மன்னார்)
+2 SURN ராஜகோபாலன்
+1 SEX M
+1 FAMC @F0033@
+2 PEDI birth
+1 FAMS @F0031@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:45:53
+0 @I0096@ INDI
+1 NAME (அம்முக்குட்டி) /அலமேலு/
+2 TYPE birth
+2 GIVN (அம்முக்குட்டி)
+2 SURN அலமேலு
+1 SEX F
+1 FAMC @F0032@
+2 PEDI birth
+1 FAMS @F0031@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:11:35
+0 @I0097@ INDI
+1 NAME (சீமாச்சு) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (சீமாச்சு)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0031@
+2 PEDI birth
+1 FAMS @F0124@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:39:23
+0 @I0098@ INDI
+1 NAME (ராமு தாத்தா) /ராமஸ்வாமி/
+2 TYPE birth
+2 GIVN (ராமு தாத்தா)
+2 SURN ராமஸ்வாமி
+1 SEX M
+1 FAMC @F0122@
+2 PEDI birth
+1 FAMS @F0032@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:30:32
+0 @I0099@ INDI
+1 NAME (மன்னார் தாத்தா அப்பா வழி) /வெங்கடகிருஷ்ணன்/
+2 TYPE birth
+2 GIVN (மன்னார் தாத்தா அப்பா வழி)
+2 SURN வெங்கடகிருஷ்ணன்
+1 SEX M
+1 FAMS @F0034@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:25:45
+0 @I0100@ INDI
+1 NAME (மன்னார் பாட்டி  அப்பா வழி ) /அலமேலு/
+2 TYPE birth
+2 GIVN (மன்னார் பாட்டி  அப்பா வழி )
+2 SURN அலமேலு
+1 SEX F
+1 FAMS @F0034@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 10:02:35
+0 @I0101@ INDI
+1 NAME (மன்னார் அப்பா) /நாராயணன்/
+2 TYPE birth
+2 GIVN (மன்னார் அப்பா)
+2 SURN நாராயணன்
+1 SEX M
+1 FAMC @F0034@
+2 PEDI birth
+1 FAMS @F0033@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 10:03:28
+0 @I0102@ INDI
+1 NAME (மன்னார் அம்மா) /அலமேலு/
+2 TYPE birth
+2 GIVN (மன்னார் அம்மா)
+2 SURN அலமேலு
+1 SEX F
+1 FAMS @F0033@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:12:28
+0 @I0103@ INDI
+1 NAME (பிச்சை வாத்தியார்) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (பிச்சை வாத்தியார்)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0033@
+2 PEDI birth
+1 FAMS @F0111@
+1 CHAN
+2 DATE 21 APR 2024
+3 TIME 15:09:46
+0 @I0104@ INDI
+1 NAME  /செல்லையா/
+2 TYPE birth
+2 SURN செல்லையா
+1 SEX M
+1 FAMC @F0011@
+2 PEDI birth
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:27:15
+0 @I0105@ INDI
+1 NAME (காந்தி) /வெங்கடகிருஷ்ணன்/
+2 TYPE birth
+2 GIVN (காந்தி)
+2 SURN வெங்கடகிருஷ்ணன்
+1 SEX M
+1 FAMC @F0011@
+2 PEDI birth
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:27:15
+0 @I0106@ INDI
+1 NAME (முத்துக்குட்டி கணவர்) /ராமஸ்வாமி/
+2 TYPE birth
+2 GIVN (முத்துக்குட்டி கணவர்)
+2 SURN ராமஸ்வாமி
+1 SEX M
+1 FAMC @F0011@
+2 PEDI birth
+1 FAMS @F0035@
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:27:15
+0 @I0107@ INDI
+1 NAME  /முத்துக்குட்டி/
+2 TYPE birth
+2 SURN முத்துக்குட்டி
+1 SEX F
+1 FAMC @F0116@
+2 PEDI birth
+1 FAMS @F0035@
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:25:06
+0 @I0108@ INDI
+1 NAME (சோனி அம்மா) /ரங்கநாயகி/
+2 TYPE birth
+2 GIVN (சோனி அம்மா)
+2 SURN ரங்கநாயகி
+1 SEX F
+1 FAMC @F0101@
+2 PEDI birth
+1 FAMS @F0036@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 15:19:24
+0 @I0109@ INDI
+1 NAME (எச்சு சோனி) /சீதாலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (எச்சு சோனி)
+2 SURN சீதாலக்ஷ்மி
+1 SEX F
+1 FAMC @F0036@
+2 PEDI birth
+1 FAMS @F0074@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:08:48
+0 @I0110@ INDI
+1 NAME (சோனி) /நாராயணன்/
+2 TYPE birth
+2 GIVN (சோனி)
+2 SURN நாராயணன்
+1 SEX M
+1 FAMC @F0036@
+2 PEDI birth
+1 FAMS @F0071@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 10:57:22
+0 @I0111@ INDI
+1 NAME (சுந்தன் மன்னார்) /சுந்தரராஜன்/
+2 TYPE birth
+2 GIVN (சுந்தன் மன்னார்)
+2 SURN சுந்தரராஜன்
+1 SEX M
+1 FAMC @F0031@
+2 PEDI birth
+1 FAMS @F0037@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:04:10
+0 @I0112@ INDI
+1 NAME  /சரண்யா/
+2 TYPE birth
+2 SURN சரண்யா
+1 SEX F
+1 FAMC @F0037@
+2 PEDI birth
+1 FAMS @F0108@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:04:49
+0 @I0113@ INDI
+1 NAME (பாம்பே கண்ணன்  அப்பா) /சேஷன்/
+2 TYPE birth
+2 GIVN (பாம்பே கண்ணன்  அப்பா)
+2 SURN சேஷன்
+1 SEX M
+1 FAMC @F0034@
+2 PEDI birth
+1 FAMS @F0103@
+1 FAMS @F0129@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 10:32:08
+0 @I0114@ INDI
+1 NAME (பட்டு பெரியப்பா அம்மா) /வேதவல்லி/
+2 TYPE birth
+2 GIVN (பட்டு பெரியப்பா அம்மா)
+2 SURN வேதவல்லி
+1 SEX F
+1 FAMC @F0034@
+2 PEDI birth
+1 FAMS @F0040@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 10:05:01
+0 @I0116@ INDI
+1 NAME (டெல்லி சந்தானம் அப்பா) /திருவேங்கடம்/
+2 TYPE birth
+2 GIVN (டெல்லி சந்தானம் அப்பா)
+2 SURN திருவேங்கடம்
+1 SEX M
+1 FAMC @F0034@
+2 PEDI birth
+1 FAMS @F0099@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 16:01:04
+0 @I0117@ INDI
+1 NAME (அம்பி நானா தாத்தா) /கோபாலன்/
+2 TYPE birth
+2 GIVN (அம்பி நானா தாத்தா)
+2 SURN கோபாலன்
+1 SEX M
+1 FAMC @F0034@
+2 PEDI birth
+1 FAMS @F0038@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:16:39
+0 @I0118@ INDI
+1 NAME (அம்பி  நானா பாட்டி) /அலமேலு/
+2 TYPE birth
+2 GIVN (அம்பி  நானா பாட்டி)
+2 SURN அலமேலு
+1 SEX F
+1 FAMS @F0038@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:11:16
+0 @I0119@ INDI
+1 NAME (அம்பி  நானா அப்பா) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (அம்பி  நானா அப்பா)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0038@
+2 PEDI birth
+1 FAMS @F0039@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:50:02
+0 @I0120@ INDI
+1 NAME (அம்பி நானா) /நாராயணன்/
+2 TYPE birth
+2 GIVN (அம்பி நானா)
+2 SURN நாராயணன்
+1 SEX M
+1 FAMC @F0039@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:06:47
+0 @I0121@ INDI
+1 NAME (பட்டு பெரியப்பா அப்பா) /ராகவன்/
+2 TYPE birth
+2 GIVN (பட்டு பெரியப்பா அப்பா)
+2 SURN ராகவன்
+1 SEX M
+1 FAMS @F0040@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 10:04:45
+0 @I0122@ INDI
+1 NAME (பட்டு பெரியப்பா) /ஆரவாமுதன்/
+2 TYPE birth
+2 GIVN (பட்டு பெரியப்பா)
+2 SURN ஆரவாமுதன்
+1 SEX M
+1 FAMC @F0040@
+2 PEDI birth
+1 FAMS @F0055@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 10:08:41
+0 @I0123@ INDI
+1 NAME (சக்கரம்) /சக்கரபாணி/
+2 TYPE birth
+2 GIVN (சக்கரம்)
+2 SURN சக்கரபாணி
+1 SEX M
+1 FAMC @F0040@
+2 PEDI birth
+1 FAMS @F0051@
+1 FAMS @F0053@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:58:31
+0 @I0124@ INDI
+1 NAME (பட்டு பெரியப்பா) /விஜயம்/
+2 TYPE birth
+2 GIVN (பட்டு பெரியப்பா)
+2 SURN விஜயம்
+1 SEX F
+1 FAMC @F0040@
+2 PEDI birth
+1 FAMS @F0111@
+1 CHAN
+2 DATE 21 APR 2024
+3 TIME 15:09:46
+0 @I0125@ INDI
+1 NAME (தாத்தாவின் சகோதரி?) /லக்ஷ்மி/
+2 TYPE birth
+2 GIVN (தாத்தாவின் சகோதரி?)
+2 SURN லக்ஷ்மி
+1 SEX F
+1 FAMC @F0011@
+2 PEDI birth
+1 FAMS @F0041@
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:27:15
+0 @I0126@ INDI
+1 NAME (கொக்கு தாத்தா) /லக்ஷ்மி/
+2 TYPE birth
+2 GIVN (கொக்கு தாத்தா)
+2 SURN லக்ஷ்மி
+1 SEX M
+1 FAMS @F0041@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:24:41
+0 @I0127@ INDI
+1 NAME (அண்ணன் கோயில்) /வெங்கு பாட்டி/
+2 TYPE birth
+2 GIVN (அண்ணன் கோயில்)
+2 SURN வெங்கு பாட்டி
+1 SEX F
+1 FAMC @F0041@
+2 PEDI birth
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:26:58
+0 @I0128@ INDI
+1 NAME (அண்ணன் கோயில்) /ஆண்டாள்/
+2 TYPE birth
+2 GIVN (அண்ணன் கோயில்)
+2 SURN ஆண்டாள்
+1 SEX F
+1 FAMC @F0041@
+2 PEDI birth
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:27:30
+0 @I0129@ INDI
+1 NAME (அண்ணன் கோயில்) /ராஜம்/
+2 TYPE birth
+2 GIVN (அண்ணன் கோயில்)
+2 SURN ராஜம்
+1 SEX F
+1 FAMC @F0041@
+2 PEDI birth
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:23:47
+0 @I0130@ INDI
+1 NAME (மதுரம் அண்ணன் கோயில்) /மதுரவல்லி/
+2 TYPE birth
+2 GIVN (மதுரம் அண்ணன் கோயில்)
+2 SURN மதுரவல்லி
+1 SEX F
+1 FAMC @F0041@
+2 PEDI birth
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:47:07
+0 @I0131@ INDI
+1 NAME (காரைக்குடி) /கல்யாணி/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN கல்யாணி
+1 SEX F
+1 FAMS @F0042@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:28:39
+0 @I0132@ INDI
+1 NAME (காரைக்குடி கணவர்) /கல்யாணி/
+2 TYPE birth
+2 GIVN (காரைக்குடி கணவர்)
+2 SURN கல்யாணி
+1 SEX M
+1 FAMS @F0042@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:28:49
+0 @I0133@ INDI
+1 NAME (கோண்டு தாத்தா முத்தப்பன்?) /கோதண்டராமன்/
+2 TYPE birth
+2 GIVN (கோண்டு தாத்தா முத்தப்பன்?)
+2 SURN கோதண்டராமன்
+1 SEX M
+1 FAMC @F0011@
+2 PEDI birth
+1 FAMS @F0043@
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:27:15
+0 @I0134@ INDI
+1 NAME (கோண்டு பாட்டி) /கோதண்டராமன்/
+2 TYPE birth
+2 GIVN (கோண்டு பாட்டி)
+2 SURN கோதண்டராமன்
+1 SEX F
+1 FAMS @F0043@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:53:23
+0 @I0135@ INDI
+1 NAME (ரங்க  மாமா) /ரங்கன்/
+2 TYPE birth
+2 GIVN (ரங்க  மாமா)
+2 SURN ரங்கன்
+1 SEX M
+1 FAMC @F0043@
+2 PEDI birth
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:22:21
+0 @I0136@ INDI
+1 NAME (கோண்டு தம்பி) /மாதவன்/
+2 TYPE birth
+2 GIVN (கோண்டு தம்பி)
+2 SURN மாதவன்
+1 SEX M
+1 FAMC @F0027@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:07:16
+0 @I0137@ INDI
+1 NAME (சென்னம்பட்டி) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (சென்னம்பட்டி)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0021@
+2 PEDI birth
+1 FAMS @F0047@
+1 FAMS @F0050@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:55:00
+0 @I0138@ INDI
+1 NAME  /அம்மாளி/
+2 TYPE birth
+2 SURN அம்மாளி
+1 SEX F
+1 FAMC @F0021@
+2 PEDI birth
+1 FAMS @F0049@
+1 CHAN
+2 DATE 19 MAR 2024
+3 TIME 12:56:16
+0 @I0139@ INDI
+1 NAME (குப்பாளு) /ராஜலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (குப்பாளு)
+2 SURN ராஜலக்ஷ்மி
+1 SEX F
+1 FAMC @F0007@
+2 PEDI birth
+1 FAMS @F0044@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:24:00
+0 @I0140@ INDI
+1 NAME (ரமேஷ் அப்பா) /கோவிந்தன்/
+2 TYPE birth
+2 GIVN (ரமேஷ் அப்பா)
+2 SURN கோவிந்தன்
+1 SEX M
+1 FAMS @F0044@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 14:47:42
+0 @I0141@ INDI
+1 NAME (குப்பாளு) /ரமேஷ்/
+2 TYPE birth
+2 GIVN (குப்பாளு)
+2 SURN ரமேஷ்
+1 SEX M
+1 FAMC @F0044@
+2 PEDI birth
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:30:50
+0 @I0142@ INDI
+1 NAME (சாமா அப்பா) /ராகவன்/
+2 TYPE birth
+2 GIVN (சாமா அப்பா)
+2 SURN ராகவன்
+1 SEX M
+1 FAMC @F0046@
+2 PEDI birth
+1 FAMS @F0045@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:53:39
+0 @I0143@ INDI
+1 NAME (அம்மா) /சாமா/
+2 TYPE birth
+2 GIVN (அம்மா)
+2 SURN சாமா
+1 SEX F
+1 FAMS @F0045@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:53:50
+0 @I0144@ INDI
+1 NAME  /சாமா/
+2 TYPE birth
+2 SURN சாமா
+1 SEX M
+1 FAMC @F0045@
+2 PEDI birth
+1 CHAN
+2 DATE 18 MAR 2024
+3 TIME 12:49:25
+0 @I0145@ INDI
+1 NAME (தாத்தா அப்பா வழி) /சாமா/
+2 TYPE birth
+2 GIVN (தாத்தா அப்பா வழி)
+2 SURN சாமா
+1 SEX M
+1 FAMS @F0046@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:54:26
+0 @I0146@ INDI
+1 NAME (சாமா பாட்டி அப்பா வழி) /சாமா/
+2 TYPE birth
+2 GIVN (சாமா பாட்டி அப்பா வழி)
+2 SURN சாமா
+1 SEX F
+1 FAMS @F0046@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:54:46
+0 @I0147@ INDI
+1 NAME (சென்னம்பட்டி) /ஸ்ரீரங்கம்/
+2 TYPE birth
+2 GIVN (சென்னம்பட்டி)
+2 SURN ஸ்ரீரங்கம்
+1 SEX F
+1 FAMS @F0047@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:55:15
+0 @I0148@ INDI
+1 NAME (செல்லப்பா #1) /கமலா/
+2 TYPE birth
+2 GIVN (செல்லப்பா #1)
+2 SURN கமலா
+1 SEX F
+1 FAMC @F0047@
+2 PEDI birth
+1 FAMS @F0079@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:03:06
+0 @I0149@ INDI
+1 NAME (செல்லப்பா #2) /சரோஜா/
+2 TYPE birth
+2 GIVN (செல்லப்பா #2)
+2 SURN சரோஜா
+1 SEX F
+1 FAMC @F0047@
+2 PEDI birth
+1 FAMS @F0082@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:14:17
+0 @I0150@ INDI
+1 NAME (சென்னம்பட்டி) /கோபு/
+2 TYPE birth
+2 GIVN (சென்னம்பட்டி)
+2 SURN கோபு
+1 SEX M
+1 FAMC @F0047@
+2 PEDI birth
+1 FAMS @F0080@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:05:48
+0 @I0151@ INDI
+1 NAME (சென்னம்பட்டி) /சுந்தரராஜன்/
+2 TYPE birth
+2 GIVN (சென்னம்பட்டி)
+2 SURN சுந்தரராஜன்
+1 SEX M
+1 FAMC @F0047@
+2 PEDI birth
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 16:18:29
+0 @I0152@ INDI
+1 NAME (ஏட்டு தாத்தா) /ராமானுஜம்/
+2 TYPE birth
+2 GIVN (ஏட்டு தாத்தா)
+2 SURN ராமானுஜம்
+1 SEX M
+1 FAMC @F0060@
+2 PEDI birth
+1 FAMS @F0048@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 17:10:35
+0 @I0153@ INDI
+1 NAME (ஏட்டு பாட்டி) /கமலவல்லி/
+2 TYPE birth
+2 GIVN (ஏட்டு பாட்டி)
+2 SURN கமலவல்லி
+1 SEX F
+1 FAMC @F0062@
+2 PEDI birth
+1 FAMS @F0048@
+1 CHAN
+2 DATE 29 MAR 2024
+3 TIME 19:08:20
+0 @I0154@ INDI
+1 NAME (கணவர்) /அம்மாளி/
+2 TYPE birth
+2 GIVN (கணவர்)
+2 SURN அம்மாளி
+1 SEX M
+1 FAMS @F0049@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:26:51
+0 @I0155@ INDI
+1 NAME (மகள்) /அம்மாளி/
+2 TYPE birth
+2 GIVN (மகள்)
+2 SURN அம்மாளி
+1 SEX F
+1 FAMC @F0049@
+2 PEDI birth
+1 FAMS @F0050@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:27:03
+0 @I0156@ INDI
+1 NAME (சக்கரம்#2) /ரங்கநாயகி/
+2 TYPE birth
+2 GIVN (சக்கரம்#2)
+2 SURN ரங்கநாயகி
+1 SEX F
+1 FAMS @F0051@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:48:47
+0 @I0157@ INDI
+1 NAME (ராஜன் சக்கரம்) /சேஷாத்ரி/
+2 TYPE birth
+2 GIVN (ராஜன் சக்கரம்)
+2 SURN சேஷாத்ரி
+1 SEX M
+1 FAMC @F0051@
+2 PEDI birth
+1 FAMS @F0054@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:37:59
+0 @I0158@ INDI
+1 NAME (மதுரம் சக்கரம் #1) /மதுரவல்லி/
+2 TYPE birth
+2 GIVN (மதுரம் சக்கரம் #1)
+2 SURN மதுரவல்லி
+1 SEX F
+1 FAMC @F0052@
+2 PEDI birth
+1 FAMS @F0053@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 16:34:34
+0 @I0159@ INDI
+1 NAME (மன்னார் சகோதரர்) /கிருஷ்ணன்/
+2 TYPE birth
+2 GIVN (மன்னார் சகோதரர்)
+2 SURN கிருஷ்ணன்
+1 SEX M
+1 FAMC @F0033@
+2 PEDI birth
+1 FAMS @F0052@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:49:02
+0 @I0160@ INDI
+1 NAME (சக்கரம்) /பாரதி/
+2 TYPE birth
+2 GIVN (சக்கரம்)
+2 SURN பாரதி
+1 SEX F
+1 FAMS @F0054@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 10:00:48
+0 @I0161@ INDI
+1 NAME (சக்கரம்) /கெளஷிக்/
+2 TYPE birth
+2 GIVN (சக்கரம்)
+2 SURN கெளஷிக்
+1 SEX M
+1 FAMC @F0054@
+2 PEDI birth
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 10:00:48
+0 @I0162@ INDI
+1 NAME (சீதை பெரியம்மா) /சீதாலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (சீதை பெரியம்மா)
+2 SURN சீதாலக்ஷ்மி
+1 SEX F
+1 FAMS @F0055@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 10:08:03
+0 @I0163@ INDI
+1 NAME (பட்டு பெரியப்பா) /ராகவன்/
+2 TYPE birth
+2 GIVN (பட்டு பெரியப்பா)
+2 SURN ராகவன்
+1 SEX M
+1 FAMC @F0055@
+2 PEDI birth
+1 FAMS @F0100@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 15:13:47
+0 @I0164@ INDI
+1 NAME  /பத்மநாபன்/
+2 TYPE birth
+2 SURN பத்மநாபன்
+1 SEX M
+1 FAMC @F0127@
+2 PEDI birth
+1 FAMS @F0056@
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:32:10
+0 @I0165@ INDI
+1 NAME  /சுதர்சனம்/
+2 TYPE birth
+2 SURN சுதர்சனம்
+1 SEX M
+1 FAMC @F0056@
+2 PEDI birth
+1 FAMS @F0063@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:21:30
+0 @I0166@ INDI
+1 NAME (சீனு சுதர்சனம் தம்பி) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (சீனு சுதர்சனம் தம்பி)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0056@
+2 PEDI birth
+1 FAMS @F0066@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:21:30
+0 @I0167@ INDI
+1 NAME (சீதா சுதர்சனம் தங்கை) /சீதாலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (சீதா சுதர்சனம் தங்கை)
+2 SURN சீதாலக்ஷ்மி
+1 SEX F
+1 FAMC @F0056@
+2 PEDI birth
+1 FAMS @F0064@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:21:30
+0 @I0168@ INDI
+1 NAME (சுதர்சனம் தங்கை) /ஜெயஸ்ரீ/
+2 TYPE birth
+2 GIVN (சுதர்சனம் தங்கை)
+2 SURN ஜெயஸ்ரீ
+1 SEX F
+1 FAMC @F0056@
+2 PEDI birth
+1 FAMS @F0065@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:21:30
+0 @I0169@ INDI
+1 NAME (வாசன் சுந்தர மாமா மகன்) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (வாசன் சுந்தர மாமா மகன்)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0057@
+2 PEDI birth
+1 FAMS @F0094@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:32:22
+0 @I0170@ INDI
+1 NAME (சுந்தர மாமா மகன்) /கோபால்/
+2 TYPE birth
+2 GIVN (சுந்தர மாமா மகன்)
+2 SURN கோபால்
+1 SEX M
+1 FAMC @F0057@
+2 PEDI birth
+1 FAMS @F0091@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:26:12
+0 @I0171@ INDI
+1 NAME (சுந்தர மாமா மனைவி) /வேதவல்லி/
+2 TYPE birth
+2 GIVN (சுந்தர மாமா மனைவி)
+2 SURN வேதவல்லி
+1 SEX F
+1 FAMS @F0057@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:41:27
+0 @I0172@ INDI
+1 NAME  /வசந்தி/
+2 TYPE birth
+2 SURN வசந்தி
+1 SEX F
+1 FAMC @F0057@
+2 PEDI birth
+1 FAMS @F0093@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:29:28
+0 @I0173@ INDI
+1 NAME (சோனி) /ரங்கராஜன்/
+2 TYPE birth
+2 GIVN (சோனி)
+2 SURN ரங்கராஜன்
+1 SEX M
+1 FAMC @F0036@
+2 PEDI birth
+1 FAMS @F0095@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:04:54
+0 @I0174@ INDI
+1 NAME (கண்ணம்மா சோனி) /வேதவல்லி/
+2 TYPE birth
+2 GIVN (கண்ணம்மா சோனி)
+2 SURN வேதவல்லி
+1 SEX F
+1 FAMC @F0036@
+2 PEDI birth
+1 FAMS @F0136@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:24:53
+0 @I0175@ INDI
+1 NAME (கண்ணன்) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (கண்ணன்)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0059@
+2 PEDI birth
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:51:46
+0 @I0176@ INDI
+1 NAME  /சுந்தரி/
+2 TYPE birth
+2 SURN சுந்தரி
+1 SEX F
+1 FAMS @F0059@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 15:18:24
+0 @I0177@ INDI
+1 NAME  /மல்லிகா/
+2 TYPE birth
+2 SURN மல்லிகா
+1 SEX F
+1 FAMC @F0059@
+2 PEDI birth
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:51:46
+0 @I0178@ INDI
+1 NAME (ஏட்டு கொள்ளு தாத்தா) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (ஏட்டு கொள்ளு தாத்தா)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMS @F0060@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 17:10:35
+0 @I0179@ INDI
+1 NAME (ஏட்டு கொள்ளு பாட்டி) /அலமேலு/
+2 TYPE birth
+2 GIVN (ஏட்டு கொள்ளு பாட்டி)
+2 SURN அலமேலு
+1 SEX F
+1 FAMS @F0060@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 17:10:35
+0 @I0180@ INDI
+1 NAME (ஏட்டு #2) /செல்லம்மாள்/
+2 TYPE birth
+2 GIVN (ஏட்டு #2)
+2 SURN செல்லம்மாள்
+1 SEX F
+1 FAMS @F0061@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 17:15:47
+0 @I0181@ INDI
+1 NAME (ஏட்டு) /மோகன்/
+2 TYPE birth
+2 GIVN (ஏட்டு)
+2 SURN மோகன்
+1 SEX M
+1 FAMC @F0061@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:34:28
+0 @I0182@ INDI
+1 NAME (ஏட்டு மகள்) /பங்கஜம்/
+2 TYPE birth
+2 GIVN (ஏட்டு மகள்)
+2 SURN பங்கஜம்
+1 SEX F
+1 FAMC @F0061@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:34:28
+0 @I0183@ INDI
+1 NAME (குப்பு முத்தா) /ஜெயலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (குப்பு முத்தா)
+2 SURN ஜெயலக்ஷ்மி
+1 SEX F
+1 FAMC @F0024@
+2 PEDI birth
+1 CHAN
+2 DATE 29 MAR 2024
+3 TIME 18:52:38
+0 @I0184@ INDI
+1 NAME  /பூமா/
+2 TYPE birth
+2 SURN பூமா
+1 SEX F
+1 FAMC @F0024@
+2 PEDI birth
+1 CHAN
+2 DATE 29 MAR 2024
+3 TIME 18:52:38
+0 @I0185@ INDI
+1 NAME (ஏட்டு பாட்டி அப்பா) /கமலவல்லி அம்மா/
+2 TYPE birth
+2 GIVN (ஏட்டு பாட்டி அப்பா)
+2 SURN கமலவல்லி அம்மா
+1 SEX F
+1 FAMS @F0062@
+1 CHAN
+2 DATE 29 MAR 2024
+3 TIME 19:03:38
+0 @I0186@ INDI
+1 NAME (ஏட்டு பாட்டி அப்பா) /கமலவல்லி அப்பா/
+2 TYPE birth
+2 GIVN (ஏட்டு பாட்டி அப்பா)
+2 SURN கமலவல்லி அப்பா
+1 SEX M
+1 FAMS @F0062@
+1 CHAN
+2 DATE 29 MAR 2024
+3 TIME 19:05:40
+0 @I0187@ INDI
+1 NAME (கூடல் பாட்டி) /ஜானகி/
+2 TYPE birth
+2 GIVN (கூடல் பாட்டி)
+2 SURN ஜானகி
+1 SEX F
+1 FAMC @F0062@
+2 PEDI birth
+1 CHAN
+2 DATE 29 MAR 2024
+3 TIME 19:08:20
+0 @I0188@ INDI
+1 NAME (ஜெயந்தி அரங்கராஜன்) /கண்ணன் பாட்டி/
+2 TYPE birth
+2 GIVN (ஜெயந்தி அரங்கராஜன்)
+2 SURN கண்ணன் பாட்டி
+1 SEX F
+1 FAMC @F0062@
+2 PEDI birth
+1 CHAN
+2 DATE 29 MAR 2024
+3 TIME 19:08:20
+0 @I0189@ INDI
+1 NAME  /சுபாஷிணி/
+2 TYPE birth
+2 SURN சுபாஷிணி
+1 SEX F
+1 FAMS @F0063@
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:18:28
+0 @I0190@ INDI
+1 NAME  /ஸ்ரீராம்/
+2 TYPE birth
+2 SURN ஸ்ரீராம்
+1 SEX M
+1 FAMS @F0064@
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:24:01
+0 @I0191@ INDI
+1 NAME  /தீப்தா/
+2 TYPE birth
+2 SURN தீப்தா
+1 SEX F
+1 FAMC @F0064@
+2 PEDI birth
+1 FAMS @F0067@
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:29:23
+0 @I0192@ INDI
+1 NAME (தீப்தா) /ரமேஷ்/
+2 TYPE birth
+2 GIVN (தீப்தா)
+2 SURN ரமேஷ்
+1 SEX M
+1 FAMS @F0067@
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:29:23
+0 @I0193@ INDI
+1 NAME  /ஸஹானா/
+2 TYPE birth
+2 SURN ஸஹானா
+1 SEX F
+1 FAMC @F0067@
+2 PEDI birth
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:29:23
+0 @I0194@ INDI
+1 NAME  /ஸஞ்சனா/
+2 TYPE birth
+2 SURN ஸஞ்சனா
+1 SEX F
+1 FAMC @F0067@
+2 PEDI birth
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:29:23
+0 @I0195@ INDI
+1 NAME  /ஸ்ரீகாந்த்/
+2 TYPE birth
+2 SURN ஸ்ரீகாந்த்
+1 SEX M
+1 FAMS @F0065@
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:25:01
+0 @I0196@ INDI
+1 NAME  /அஜய்/
+2 TYPE birth
+2 SURN அஜய்
+1 SEX M
+1 FAMC @F0065@
+2 PEDI birth
+1 FAMS @F0068@
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:32:52
+0 @I0197@ INDI
+1 NAME  /நிதின்/
+2 TYPE birth
+2 SURN நிதின்
+1 SEX M
+1 FAMC @F0065@
+2 PEDI birth
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:25:01
+0 @I0198@ INDI
+1 NAME  /புஷ்பா/
+2 TYPE birth
+2 SURN புஷ்பா
+1 SEX F
+1 FAMS @F0066@
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:25:59
+0 @I0199@ INDI
+1 NAME  /விஜய்/
+2 TYPE birth
+2 SURN விஜய்
+1 SEX M
+1 FAMC @F0066@
+2 PEDI birth
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:25:59
+0 @I0200@ INDI
+1 NAME  /அவணி/
+2 TYPE birth
+2 SURN அவணி
+1 SEX F
+1 FAMS @F0068@
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:32:52
+0 @I0201@ INDI
+1 NAME  /ஆனந்தன்/
+2 TYPE birth
+2 SURN ஆனந்தன்
+1 SEX M
+1 FAMC @F0069@
+2 PEDI birth
+1 FAMS @F0070@
+1 CHAN
+2 DATE 21 APR 2024
+3 TIME 17:39:26
+0 @I0202@ INDI
+1 NAME (வேம்பு) /ராஜலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (வேம்பு)
+2 SURN ராஜலக்ஷ்மி
+1 SEX F
+1 FAMS @F0069@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 10:52:52
+0 @I0203@ INDI
+1 NAME  /தாக்ஷாயணி/
+2 TYPE birth
+2 SURN தாக்ஷாயணி
+1 SEX F
+1 FAMS @F0070@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 10:54:07
+0 @I0204@ INDI
+1 NAME (அனந்தன்) /ராமானுஜன்/
+2 TYPE birth
+2 GIVN (அனந்தன்)
+2 SURN ராமானுஜன்
+1 SEX M
+1 FAMC @F0070@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 10:54:07
+0 @I0205@ INDI
+1 NAME  /த்விஜாவந்தி/
+2 TYPE birth
+2 SURN த்விஜாவந்தி
+1 SEX F
+1 FAMC @F0070@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 10:54:07
+0 @I0206@ INDI
+1 NAME  /குமுதவல்லி/
+2 TYPE birth
+2 SURN குமுதவல்லி
+1 SEX F
+1 FAMS @F0071@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 10:57:22
+0 @I0207@ INDI
+1 NAME (அரவிந்த்) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (அரவிந்த்)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0071@
+2 PEDI birth
+1 FAMS @F0072@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:02:22
+0 @I0208@ INDI
+1 NAME  /அனிதா/
+2 TYPE birth
+2 SURN அனிதா
+1 SEX F
+1 FAMC @F0071@
+2 PEDI birth
+1 FAMS @F0073@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:04:38
+0 @I0209@ INDI
+1 NAME  /காமாட்சி/
+2 TYPE birth
+2 SURN காமாட்சி
+1 SEX F
+1 FAMS @F0072@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:02:22
+0 @I0210@ INDI
+1 NAME  /ஹர்ஷவர்த்தினி/
+2 TYPE birth
+2 SURN ஹர்ஷவர்த்தினி
+1 SEX F
+1 FAMC @F0072@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:02:22
+0 @I0211@ INDI
+1 NAME (அரவிந்த்) /மாதவன்/
+2 TYPE birth
+2 GIVN (அரவிந்த்)
+2 SURN மாதவன்
+1 SEX M
+1 FAMC @F0072@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:02:22
+0 @I0212@ INDI
+1 NAME (அனிதா) /பாலாஜி/
+2 TYPE birth
+2 GIVN (அனிதா)
+2 SURN பாலாஜி
+1 SEX M
+1 FAMS @F0073@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:04:38
+0 @I0213@ INDI
+1 NAME  /அநிரூபிதா/
+2 TYPE birth
+2 SURN அநிரூபிதா
+1 SEX F
+1 FAMC @F0073@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:04:38
+0 @I0214@ INDI
+1 NAME  /அணிக்ஷா/
+2 TYPE birth
+2 SURN அணிக்ஷா
+1 SEX F
+1 FAMC @F0073@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:04:38
+0 @I0215@ INDI
+1 NAME (எச்சு) /சுந்தரராஜன்/
+2 TYPE birth
+2 GIVN (எச்சு)
+2 SURN சுந்தரராஜன்
+1 SEX M
+1 FAMS @F0074@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:08:48
+0 @I0216@ INDI
+1 NAME (எச்சு) /பாலாஜி/
+2 TYPE birth
+2 GIVN (எச்சு)
+2 SURN பாலாஜி
+1 SEX M
+1 FAMC @F0074@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:08:48
+0 @I0217@ INDI
+1 NAME (எச்சு) /ஸ்ரீகாந்த்/
+2 TYPE birth
+2 GIVN (எச்சு)
+2 SURN ஸ்ரீகாந்த்
+1 SEX M
+1 FAMC @F0074@
+2 PEDI birth
+1 FAMS @F0075@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:10:03
+0 @I0218@ INDI
+1 NAME  /சுபஸ்ரீ/
+2 TYPE birth
+2 SURN சுபஸ்ரீ
+1 SEX F
+1 FAMS @F0075@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:10:03
+0 @I0219@ INDI
+1 NAME  /அநிருத்/
+2 TYPE birth
+2 SURN அநிருத்
+1 SEX M
+1 FAMC @F0075@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:10:32
+0 @I0220@ INDI
+1 NAME (மன்னார்) /சேஷாத்ரி/
+2 TYPE birth
+2 GIVN (மன்னார்)
+2 SURN சேஷாத்ரி
+1 SEX M
+1 FAMC @F0031@
+2 PEDI birth
+1 FAMS @F0135@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:18:49
+0 @I0221@ INDI
+1 NAME (மன்னார்) /ராமானுஜம்/
+2 TYPE birth
+2 GIVN (மன்னார்)
+2 SURN ராமானுஜம்
+1 SEX M
+1 FAMC @F0031@
+2 PEDI birth
+1 FAMS @F0137@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:26:41
+0 @I0222@ INDI
+1 NAME (மன்னார்) /ராஜலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (மன்னார்)
+2 SURN ராஜலக்ஷ்மி
+1 SEX F
+1 FAMC @F0031@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:16:42
+0 @I0223@ INDI
+1 NAME (மன்னார்) /மோகனவல்லி/
+2 TYPE birth
+2 GIVN (மன்னார்)
+2 SURN மோகனவல்லி
+1 SEX F
+1 FAMC @F0031@
+2 PEDI birth
+1 FAMS @F0139@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:31:01
+0 @I0224@ INDI
+1 NAME  /மைதிலி/
+2 TYPE birth
+2 SURN மைதிலி
+1 SEX F
+1 FAMC @F0031@
+2 PEDI birth
+1 FAMS @F0138@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:29:04
+0 @I0225@ INDI
+1 NAME  /ஸுப்ரஜா/
+2 TYPE birth
+2 SURN ஸுப்ரஜா
+1 SEX F
+1 FAMC @F0076@
+2 PEDI birth
+1 FAMS @F0077@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:39:26
+0 @I0226@ INDI
+1 NAME (ஸுப்ரஜா) /ஸ்ரீராம்/
+2 TYPE birth
+2 GIVN (ஸுப்ரஜா)
+2 SURN ஸ்ரீராம்
+1 SEX M
+1 FAMS @F0077@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:44:39
+0 @I0227@ INDI
+1 NAME  /சுதர்சன ராமானுஜம்/
+2 TYPE birth
+2 SURN சுதர்சன ராமானுஜம்
+1 SEX M
+1 FAMC @F0076@
+2 PEDI birth
+1 FAMS @F0078@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:40:07
+0 @I0228@ INDI
+1 NAME (ராமன்) /வைஷ்ணவி/
+2 TYPE birth
+2 GIVN (ராமன்)
+2 SURN வைஷ்ணவி
+1 SEX F
+1 FAMS @F0078@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:40:07
+0 @I0229@ INDI
+1 NAME  /நளினி/
+2 TYPE birth
+2 SURN நளினி
+1 SEX F
+1 FAMS @F0076@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:38:19
+0 @I0230@ INDI
+1 NAME  /ஸ்ரீஹரி/
+2 TYPE birth
+2 SURN ஸ்ரீஹரி
+1 SEX M
+1 FAMC @F0077@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:39:26
+0 @I0231@ INDI
+1 NAME  /Sidhiksha/
+2 TYPE birth
+2 SURN Sidhiksha
+1 SEX F
+1 FAMC @F0078@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 15:07:22
+0 @I0232@ INDI
+1 NAME (செல்லப்பா) /உஷா/
+2 TYPE birth
+2 GIVN (செல்லப்பா)
+2 SURN உஷா
+1 SEX F
+1 FAMC @F0079@
+2 PEDI birth
+1 FAMS @F0080@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:12:46
+0 @I0233@ INDI
+1 NAME  /ஸ்ரீநிவாஸ் கார்த்திக்/
+2 TYPE birth
+2 SURN ஸ்ரீநிவாஸ் கார்த்திக்
+1 SEX M
+1 FAMC @F0080@
+2 PEDI birth
+1 FAMS @F0081@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:07:30
+0 @I0234@ INDI
+1 NAME (கோபு) /ஸுபஸ்ரீ/
+2 TYPE birth
+2 GIVN (கோபு)
+2 SURN ஸுபஸ்ரீ
+1 SEX F
+1 FAMS @F0081@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:07:30
+0 @I0235@ INDI
+1 NAME  /நரேன்/
+2 TYPE birth
+2 SURN நரேன்
+1 SEX M
+1 FAMC @F0081@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:26:43
+0 @I0236@ INDI
+1 NAME (செல்லப்பா) /சுதா/
+2 TYPE birth
+2 GIVN (செல்லப்பா)
+2 SURN சுதா
+1 SEX F
+1 FAMC @F0079@
+2 PEDI birth
+1 FAMS @F0084@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:22:13
+0 @I0237@ INDI
+1 NAME (செல்லப்பா) /சுந்தரராஜன்/
+2 TYPE birth
+2 GIVN (செல்லப்பா)
+2 SURN சுந்தரராஜன்
+1 SEX M
+1 FAMC @F0079@
+2 PEDI birth
+1 FAMS @F0083@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:20:32
+0 @I0238@ INDI
+1 NAME  /கமலவாசன்/
+2 TYPE birth
+2 SURN கமலவாசன்
+1 SEX M
+1 FAMC @F0082@
+2 PEDI birth
+1 FAMS @F0085@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:23:17
+0 @I0239@ INDI
+1 NAME (செல்லப்பா) /லக்ஷ்மி/
+2 TYPE birth
+2 GIVN (செல்லப்பா)
+2 SURN லக்ஷ்மி
+1 SEX F
+1 FAMS @F0083@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:20:32
+0 @I0240@ INDI
+1 NAME  /ஸ்ரீநிதி/
+2 TYPE birth
+2 SURN ஸ்ரீநிதி
+1 SEX F
+1 FAMC @F0083@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:20:32
+0 @I0241@ INDI
+1 NAME (செல்லப்பா) /சம்பத்/
+2 TYPE birth
+2 GIVN (செல்லப்பா)
+2 SURN சம்பத்
+1 SEX M
+1 FAMS @F0084@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:22:13
+0 @I0242@ INDI
+1 NAME  /ஸ்ருதி/
+2 TYPE birth
+2 SURN ஸ்ருதி
+1 SEX F
+1 FAMC @F0084@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:22:13
+0 @I0243@ INDI
+1 NAME  /சுஷ்மிதா/
+2 TYPE birth
+2 SURN சுஷ்மிதா
+1 SEX F
+1 FAMC @F0084@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:22:13
+0 @I0244@ INDI
+1 NAME  /காயத்ரி/
+2 TYPE birth
+2 SURN காயத்ரி
+1 SEX F
+1 FAMS @F0085@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:23:17
+0 @I0245@ INDI
+1 NAME (செல்லப்பா) /ஸ்ரீராம்/
+2 TYPE birth
+2 GIVN (செல்லப்பா)
+2 SURN ஸ்ரீராம்
+1 SEX M
+1 FAMC @F0085@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:23:17
+0 @I0246@ INDI
+1 NAME  /நித்யா/
+2 TYPE birth
+2 SURN நித்யா
+1 SEX F
+1 FAMS @F0086@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:25:31
+0 @I0247@ INDI
+1 NAME  /மதுரா/
+2 TYPE birth
+2 SURN மதுரா
+1 SEX F
+1 FAMC @F0086@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:25:31
+0 @I0248@ INDI
+1 NAME  /தன்யஸ்ரீ/
+2 TYPE birth
+2 SURN தன்யஸ்ரீ
+1 SEX F
+1 FAMC @F0086@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:25:31
+0 @I0249@ INDI
+1 NAME  /ரோஷினி/
+2 TYPE birth
+2 SURN ரோஷினி
+1 SEX F
+1 FAMC @F0081@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:26:43
+0 @I0250@ INDI
+1 NAME (மனைவி) /சீமானி/
+2 TYPE birth
+2 GIVN (மனைவி)
+2 SURN சீமானி
+1 SEX F
+1 FAMS @F0087@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:29:30
+0 @I0251@ INDI
+1 NAME (ஆனந்தி) /லக்ஷ்மிபிரியா/
+2 TYPE birth
+2 GIVN (ஆனந்தி)
+2 SURN லக்ஷ்மிபிரியா
+1 SEX F
+1 FAMC @F0087@
+2 PEDI birth
+1 FAMS @F0088@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 13:47:14
+0 @I0252@ INDI
+1 NAME (சீமானி) /ரமேஷ்/
+2 TYPE birth
+2 GIVN (சீமானி)
+2 SURN ரமேஷ்
+1 SEX M
+1 FAMS @F0088@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:31:46
+0 @I0253@ INDI
+1 NAME  /யஸ்வினி/
+2 TYPE birth
+2 SURN யஸ்வினி
+1 SEX F
+1 FAMC @F0088@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:31:46
+0 @I0254@ INDI
+1 NAME  /ஸ்ரீகிருதி/
+2 TYPE birth
+2 SURN ஸ்ரீகிருதி
+1 SEX F
+1 FAMC @F0088@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:31:46
+0 @I0255@ INDI
+1 NAME  /சத்யநாராயணன்/
+2 TYPE birth
+2 SURN சத்யநாராயணன்
+1 SEX M
+1 FAMC @F0087@
+2 PEDI birth
+1 FAMS @F0089@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 13:47:14
+0 @I0256@ INDI
+1 NAME (பார்கவி) /தீபா/
+2 TYPE birth
+2 GIVN (பார்கவி)
+2 SURN தீபா
+1 SEX F
+1 FAMS @F0089@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 13:46:51
+0 @I0257@ INDI
+1 NAME (நவநீத்) /மாதவ்/
+2 TYPE birth
+2 GIVN (நவநீத்)
+2 SURN மாதவ்
+1 SEX M
+1 FAMC @F0089@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 13:46:51
+0 @I0258@ INDI
+1 NAME (ஸ்ரீரங்கம்) /வைஷ்ணவி/
+2 TYPE birth
+2 GIVN (ஸ்ரீரங்கம்)
+2 SURN வைஷ்ணவி
+1 SEX F
+1 FAMS @F0090@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 13:56:56
+0 @I0259@ INDI
+1 NAME (ஸ்ரீரங்கம்) /பார்த்தசாரதி/
+2 TYPE birth
+2 GIVN (ஸ்ரீரங்கம்)
+2 SURN பார்த்தசாரதி
+1 SEX M
+1 FAMC @F0019@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 13:58:36
+0 @I0260@ INDI
+1 NAME (அம்பி நானா) /கமலா/
+2 TYPE birth
+2 GIVN (அம்பி நானா)
+2 SURN கமலா
+1 SEX M
+1 FAMC @F0039@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:06:47
+0 @I0261@ INDI
+1 NAME (அம்பி நானா) /பட்டு/
+2 TYPE birth
+2 GIVN (அம்பி நானா)
+2 SURN பட்டு
+1 SEX F
+1 FAMC @F0039@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:06:47
+0 @I0262@ INDI
+1 NAME (அம்பி நானா) /பாலா/
+2 TYPE birth
+2 GIVN (அம்பி நானா)
+2 SURN பாலா
+1 SEX F
+1 FAMC @F0039@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:06:47
+0 @I0263@ INDI
+1 NAME (அம்பி நானா) /லக்ஷ்மி (சந்திரா?)/
+2 TYPE birth
+2 GIVN (அம்பி நானா)
+2 SURN லக்ஷ்மி (சந்திரா?)
+1 SEX F
+1 FAMC @F0039@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:06:47
+0 @I0264@ INDI
+1 NAME (அம்பி நானா) /பாமா/
+2 TYPE birth
+2 GIVN (அம்பி நானா)
+2 SURN பாமா
+1 SEX F
+1 FAMC @F0039@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:06:47
+0 @I0265@ INDI
+1 NAME (அம்பி நானா) /உஷா/
+2 TYPE birth
+2 GIVN (அம்பி நானா)
+2 SURN உஷா
+1 SEX F
+1 FAMC @F0039@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:06:47
+0 @I0266@ INDI
+1 NAME (அம்பி நானா) /ரங்கராஜன்/
+2 TYPE birth
+2 GIVN (அம்பி நானா)
+2 SURN ரங்கராஜன்
+1 SEX M
+1 FAMC @F0039@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:11:19
+0 @I0267@ INDI
+1 NAME (அம்பி நானா) /சம்பத்/
+2 TYPE birth
+2 GIVN (அம்பி நானா)
+2 SURN சம்பத்
+1 SEX M
+1 FAMC @F0039@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:06:47
+0 @I0268@ INDI
+1 NAME (சுதர்சனம் தங்கை) /மதுரவல்லி/
+2 TYPE birth
+2 GIVN (சுதர்சனம் தங்கை)
+2 SURN மதுரவல்லி
+1 SEX F
+1 FAMC @F0056@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:24:25
+0 @I0269@ INDI
+1 NAME (சுதர்சனம்  மாமா) /ராமன்/
+2 TYPE birth
+2 GIVN (சுதர்சனம்  மாமா)
+2 SURN ராமன்
+1 SEX M
+1 FAMC @F0012@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:23:15
+0 @I0270@ INDI
+1 NAME  /ஆஷா/
+2 TYPE birth
+2 SURN ஆஷா
+1 SEX F
+1 FAMS @F0091@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:26:12
+0 @I0271@ INDI
+1 NAME  /ஹரி/
+2 TYPE birth
+2 SURN ஹரி
+1 SEX M
+1 FAMC @F0091@
+2 PEDI birth
+1 FAMS @F0092@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:27:50
+0 @I0272@ INDI
+1 NAME  /அருண்/
+2 TYPE birth
+2 SURN அருண்
+1 SEX M
+1 FAMC @F0091@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:26:12
+0 @I0273@ INDI
+1 NAME (Amy) /ஏமீ/
+2 TYPE birth
+2 GIVN (Amy)
+2 SURN ஏமீ
+1 SEX F
+1 FAMS @F0092@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:27:50
+0 @I0274@ INDI
+1 NAME  /மாயா/
+2 TYPE birth
+2 SURN மாயா
+1 SEX F
+1 FAMC @F0092@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:27:50
+0 @I0275@ INDI
+1 NAME  /வேதா/
+2 TYPE birth
+2 SURN வேதா
+1 SEX F
+1 FAMC @F0092@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:27:50
+0 @I0276@ INDI
+1 NAME  /அனந்தாச்சாரி/
+2 TYPE birth
+2 SURN அனந்தாச்சாரி
+1 SEX M
+1 FAMS @F0093@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:29:28
+0 @I0277@ INDI
+1 NAME  /சௌம்யா/
+2 TYPE birth
+2 SURN சௌம்யா
+1 SEX F
+1 FAMC @F0093@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:29:28
+0 @I0278@ INDI
+1 NAME  /லாவண்யா/
+2 TYPE birth
+2 SURN லாவண்யா
+1 SEX F
+1 FAMC @F0093@
+2 PEDI birth
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:29:28
+0 @I0279@ INDI
+1 NAME (சுதா) /சித்ரா/
+2 TYPE birth
+2 GIVN (சுதா)
+2 SURN சித்ரா
+1 SEX F
+1 FAMS @F0094@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:32:22
+0 @I0280@ INDI
+1 NAME (சோனி) /ஜெயஸ்ரீ/
+2 TYPE birth
+2 GIVN (சோனி)
+2 SURN ஜெயஸ்ரீ
+1 SEX F
+1 FAMS @F0095@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:04:54
+0 @I0281@ INDI
+1 NAME  /நரேஷ் பிரசன்னா/
+2 TYPE birth
+2 SURN நரேஷ் பிரசன்னா
+1 SEX M
+1 FAMC @F0095@
+2 PEDI birth
+1 FAMS @F0096@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:07:29
+0 @I0282@ INDI
+1 NAME (ஹரிஷ்) /சக்கரவர்த்தி/
+2 TYPE birth
+2 GIVN (ஹரிஷ்)
+2 SURN சக்கரவர்த்தி
+1 SEX M
+1 FAMC @F0095@
+2 PEDI birth
+1 FAMS @F0097@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:10:04
+0 @I0283@ INDI
+1 NAME  /Sravishta/
+2 TYPE birth
+2 SURN Sravishta
+1 SEX F
+1 FAMS @F0096@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:07:29
+0 @I0284@ INDI
+1 NAME (ஹரிஷ்) /சௌம்யா/
+2 TYPE birth
+2 GIVN (ஹரிஷ்)
+2 SURN சௌம்யா
+1 SEX F
+1 FAMS @F0097@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:10:04
+0 @I0285@ INDI
+1 NAME  /தன்வி/
+2 TYPE birth
+2 SURN தன்வி
+1 SEX F
+1 FAMC @F0097@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:10:04
+0 @I0286@ INDI
+1 NAME  /தன்யா/
+2 TYPE birth
+2 SURN தன்யா
+1 SEX F
+1 FAMC @F0097@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:10:04
+0 @I0287@ INDI
+1 NAME (டெல்லி) /சந்தானம்/
+2 TYPE birth
+2 GIVN (டெல்லி)
+2 SURN சந்தானம்
+1 SEX M
+1 FAMC @F0099@
+2 PEDI birth
+1 FAMS @F0098@
+1 FAMS @F0102@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 16:19:26
+0 @I0288@ INDI
+1 NAME (சந்தானம்) /அம்புஜம்/
+2 TYPE birth
+2 GIVN (சந்தானம்)
+2 SURN அம்புஜம்
+1 SEX F
+1 FAMS @F0098@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 16:17:21
+0 @I0289@ INDI
+1 NAME  /பத்மஜா/
+2 TYPE birth
+2 SURN பத்மஜா
+1 SEX F
+1 FAMC @F0098@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:21:01
+0 @I0290@ INDI
+1 NAME (சந்தானம்) /கீதா/
+2 TYPE birth
+2 GIVN (சந்தானம்)
+2 SURN கீதா
+1 SEX F
+1 FAMC @F0098@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:21:01
+0 @I0291@ INDI
+1 NAME (சந்தானம் அம்மா) /நாச்சியார்/
+2 TYPE birth
+2 GIVN (சந்தானம் அம்மா)
+2 SURN நாச்சியார்
+1 SEX F
+1 FAMS @F0099@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 16:01:52
+0 @I0292@ INDI
+1 NAME  /கௌசல்யா/
+2 TYPE birth
+2 SURN கௌசல்யா
+1 SEX F
+1 FAMS @F0100@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 15:13:47
+0 @I0293@ INDI
+1 NAME (சோனி அம்மாவின் அப்பா) /ரங்கநாயகி/
+2 TYPE birth
+2 GIVN (சோனி அம்மாவின் அப்பா)
+2 SURN ரங்கநாயகி
+1 SEX M
+1 FAMS @F0101@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 15:19:24
+0 @I0294@ INDI
+1 NAME (சோனி அம்மாவின் அம்மா) /ரங்கநாயகி/
+2 TYPE birth
+2 GIVN (சோனி அம்மாவின் அம்மா)
+2 SURN ரங்கநாயகி
+1 SEX F
+1 FAMS @F0101@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 15:19:24
+0 @I0295@ INDI
+1 NAME (சோனி பெரியம்மா) /அலமேலு/
+2 TYPE birth
+2 GIVN (சோனி பெரியம்மா)
+2 SURN அலமேலு
+1 SEX F
+1 FAMC @F0101@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 15:19:24
+0 @I0296@ INDI
+1 NAME  /செங்கமலம்/
+2 TYPE birth
+2 SURN செங்கமலம்
+1 SEX F
+1 FAMC @F0101@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 15:19:24
+0 @I0297@ INDI
+1 NAME (வாலி சோனி மாமா) /கோபாலன்/
+2 TYPE birth
+2 GIVN (வாலி சோனி மாமா)
+2 SURN கோபாலன்
+1 SEX M
+1 FAMC @F0101@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 15:19:24
+0 @I0298@ INDI
+1 NAME (சோனி மாமா) /பட்டு/
+2 TYPE birth
+2 GIVN (சோனி மாமா)
+2 SURN பட்டு
+1 SEX M
+1 FAMC @F0101@
+2 PEDI birth
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 15:19:24
+0 @I0299@ INDI
+1 NAME (ஏட்டு) /ஆண்டாள்/
+2 TYPE birth
+2 GIVN (ஏட்டு)
+2 SURN ஆண்டாள்
+1 SEX F
+1 FAMC @F0061@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:34:28
+0 @I0300@ INDI
+1 NAME  /ரேவதி/
+2 TYPE birth
+2 SURN ரேவதி
+1 SEX F
+1 FAMC @F0061@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:34:28
+0 @I0301@ INDI
+1 NAME (ஏட்டு) /கண்ணம்மா/
+2 TYPE birth
+2 GIVN (ஏட்டு)
+2 SURN கண்ணம்மா
+1 SEX F
+1 FAMC @F0061@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:34:28
+0 @I0302@ INDI
+1 NAME (ஏட்டு) /திருவேங்கடத்தான்/
+2 TYPE birth
+2 GIVN (ஏட்டு)
+2 SURN திருவேங்கடத்தான்
+1 SEX M
+1 FAMC @F0061@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:34:28
+0 @I0303@ INDI
+1 NAME (ஏட்டு) /கண்ணன்/
+2 TYPE birth
+2 GIVN (ஏட்டு)
+2 SURN கண்ணன்
+1 SEX M
+1 FAMC @F0061@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:34:28
+0 @I0304@ INDI
+1 NAME (சந்தானம்) /ரங்கநாயகி/
+2 TYPE birth
+2 GIVN (சந்தானம்)
+2 SURN ரங்கநாயகி
+1 SEX F
+1 FAMS @F0102@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 16:19:26
+0 @I0305@ INDI
+1 NAME (சேஷன் #1) /அலமேலு/
+2 TYPE birth
+2 GIVN (சேஷன் #1)
+2 SURN அலமேலு
+1 SEX F
+1 FAMS @F0103@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 10:25:04
+0 @I0306@ INDI
+1 NAME (பாம்பே) /கண்ணன்/
+2 TYPE birth
+2 GIVN (பாம்பே)
+2 SURN கண்ணன்
+1 SEX M
+1 FAMC @F0103@
+2 PEDI birth
+1 FAMS @F0130@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 10:36:22
+0 @I0307@ INDI
+1 NAME (சக்கரம்) /மதுரவல்லி/
+2 TYPE birth
+2 GIVN (சக்கரம்)
+2 SURN மதுரவல்லி
+1 SEX F
+1 FAMC @F0051@
+2 PEDI birth
+1 FAMS @F0104@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:42:07
+0 @I0308@ INDI
+1 NAME Patrick /D'Santos/
+2 TYPE birth
+2 GIVN Patrick
+2 SURN D'Santos
+1 SEX M
+1 FAMS @F0104@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:42:07
+0 @I0309@ INDI
+1 NAME Mark /D'Santos/
+2 TYPE birth
+2 GIVN Mark
+2 SURN D'Santos
+1 SEX M
+1 FAMC @F0104@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:42:07
+0 @I0310@ INDI
+1 NAME (கீதா) /பார்த்தசாரதி/
+2 TYPE birth
+2 GIVN (கீதா)
+2 SURN பார்த்தசாரதி
+1 SEX M
+1 FAMS @F0105@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:53:21
+0 @I0311@ INDI
+1 NAME  /அனந்த கிருஷ்ணன்/
+2 TYPE birth
+2 SURN அனந்த கிருஷ்ணன்
+1 SEX M
+1 FAMC @F0105@
+2 PEDI birth
+1 FAMS @F0106@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:54:46
+0 @I0312@ INDI
+1 NAME (பிரியா) /லக்ஷ்மி கல்யாணி/
+2 TYPE birth
+2 GIVN (பிரியா)
+2 SURN லக்ஷ்மி கல்யாணி
+1 SEX F
+1 FAMC @F0105@
+2 PEDI birth
+1 FAMS @F0107@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:58:02
+0 @I0313@ INDI
+1 NAME  /வித்யா/
+2 TYPE birth
+2 SURN வித்யா
+1 SEX F
+1 FAMS @F0106@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:54:46
+0 @I0314@ INDI
+1 NAME  /Vedatrya/
+2 TYPE birth
+2 SURN Vedatrya
+1 SEX M
+1 FAMC @F0106@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:54:46
+0 @I0315@ INDI
+1 NAME (பிரியா) /ரங்கராஜன்/
+2 TYPE birth
+2 GIVN (பிரியா)
+2 SURN ரங்கராஜன்
+1 SEX M
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:56:28
+0 @I0316@ INDI
+1 NAME (பிரியா) /ரங்கராஜன்/
+2 TYPE birth
+2 GIVN (பிரியா)
+2 SURN ரங்கராஜன்
+1 SEX M
+1 FAMS @F0107@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:58:02
+0 @I0317@ INDI
+1 NAME  /Dhanya/
+2 TYPE birth
+2 SURN Dhanya
+1 SEX F
+1 FAMC @F0107@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:58:02
+0 @I0318@ INDI
+1 NAME  /Daivi/
+2 TYPE birth
+2 SURN Daivi
+1 SEX F
+1 FAMC @F0107@
+2 PEDI birth
+1 CHAN
+2 DATE 21 APR 2024
+3 TIME 14:52:28
+0 @I0319@ INDI
+1 NAME  /ஜெயராம்/
+2 TYPE birth
+2 SURN ஜெயராம்
+1 SEX M
+1 FAMS @F0108@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:59:50
+0 @I0320@ INDI
+1 NAME  /Srivanth/
+2 TYPE birth
+2 SURN Srivanth
+1 SEX M
+1 FAMC @F0108@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:59:50
+0 @I0321@ INDI
+1 NAME  /Rishvanth/
+2 TYPE birth
+2 SURN Rishvanth
+1 SEX M
+1 FAMC @F0108@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:59:50
+0 @I0322@ INDI
+1 NAME (சுந்தன்) /சுதர்சன்/
+2 TYPE birth
+2 GIVN (சுந்தன்)
+2 SURN சுதர்சன்
+1 SEX M
+1 FAMC @F0037@
+2 PEDI birth
+1 FAMS @F0109@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:05:29
+0 @I0323@ INDI
+1 NAME (சுந்தன்) /பிரியா/
+2 TYPE birth
+2 GIVN (சுந்தன்)
+2 SURN பிரியா
+1 SEX F
+1 FAMS @F0109@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:01:45
+0 @I0324@ INDI
+1 NAME  /ஸஹஸ்ரா/
+2 TYPE birth
+2 SURN ஸஹஸ்ரா
+1 SEX F
+1 FAMC @F0109@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:03:20
+0 @I0325@ INDI
+1 NAME  /Shardhdha/
+2 TYPE birth
+2 SURN Shardhdha
+1 SEX F
+1 FAMC @F0109@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:03:20
+0 @I0326@ INDI
+1 NAME  /வனஜா/
+2 TYPE birth
+2 SURN வனஜா
+1 SEX F
+1 FAMC @F0027@
+2 PEDI birth
+1 FAMS @F0110@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:26:37
+0 @I0327@ INDI
+1 NAME (வனஜா) /சக்கரபாணி/
+2 TYPE birth
+2 GIVN (வனஜா)
+2 SURN சக்கரபாணி
+1 SEX M
+1 FAMS @F0110@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:26:37
+0 @I0328@ INDI
+1 NAME  /காயத்ரி/
+2 TYPE birth
+2 SURN காயத்ரி
+1 SEX F
+1 FAMC @F0110@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:26:37
+0 @I0329@ INDI
+1 NAME  /சுகுணா/
+2 TYPE birth
+2 SURN சுகுணா
+1 SEX F
+1 FAMC @F0110@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:26:37
+0 @I0330@ INDI
+1 NAME (ஏட்டு) /ஜெயா/
+2 TYPE birth
+2 GIVN (ஏட்டு)
+2 SURN ஜெயா
+1 SEX F
+1 FAMC @F0061@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:35:03
+0 @I0331@ INDI
+1 NAME (பிச்சை வாத்தியார்) /வசந்தா/
+2 TYPE birth
+2 GIVN (பிச்சை வாத்தியார்)
+2 SURN வசந்தா
+1 SEX F
+1 FAMC @F0111@
+2 PEDI birth
+1 FAMS @F0125@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 16:42:16
+0 @I0332@ INDI
+1 NAME (பிச்சை வாத்தியார்) /சரோஜா/
+2 TYPE birth
+2 GIVN (பிச்சை வாத்தியார்)
+2 SURN சரோஜா
+1 SEX F
+1 FAMC @F0111@
+2 PEDI birth
+1 FAMS @F0112@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 16:42:16
+0 @I0333@ INDI
+1 NAME (பிச்சை வாத்தியார்) /பூமா/
+2 TYPE birth
+2 GIVN (பிச்சை வாத்தியார்)
+2 SURN பூமா
+1 SEX F
+1 FAMC @F0111@
+2 PEDI birth
+1 FAMS @F0113@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 16:42:16
+0 @I0334@ INDI
+1 NAME (பிச்சை வாத்தியார்) /பிரேமா/
+2 TYPE birth
+2 GIVN (பிச்சை வாத்தியார்)
+2 SURN பிரேமா
+1 SEX F
+1 FAMC @F0111@
+2 PEDI birth
+1 FAMS @F0126@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 16:42:16
+0 @I0335@ INDI
+1 NAME  /துரைசாமி/
+2 TYPE birth
+2 SURN துரைசாமி
+1 SEX M
+1 FAMS @F0113@
+1 CHAN
+2 DATE 21 APR 2024
+3 TIME 15:15:59
+0 @I0336@ INDI
+1 NAME  /கிருத்திகா/
+2 TYPE birth
+2 SURN கிருத்திகா
+1 SEX F
+1 FAMC @F0113@
+2 PEDI birth
+1 FAMS @F0114@
+1 CHAN
+2 DATE 21 APR 2024
+3 TIME 15:21:22
+0 @I0337@ INDI
+1 NAME (கிருத்திகா) /பாலாஜி/
+2 TYPE birth
+2 GIVN (கிருத்திகா)
+2 SURN பாலாஜி
+1 SEX M
+1 FAMS @F0114@
+1 CHAN
+2 DATE 21 APR 2024
+3 TIME 15:22:37
+0 @I0338@ INDI
+1 NAME (கிருத்திகா) /ஆகாஷ்/
+2 TYPE birth
+2 GIVN (கிருத்திகா)
+2 SURN ஆகாஷ்
+1 SEX M
+1 FAMC @F0114@
+2 PEDI birth
+1 CHAN
+2 DATE 21 APR 2024
+3 TIME 15:21:22
+0 @I0339@ INDI
+1 NAME  /தமஸ்யா/
+2 TYPE birth
+2 SURN தமஸ்யா
+1 SEX F
+1 FAMC @F0114@
+2 PEDI birth
+1 CHAN
+2 DATE 21 APR 2024
+3 TIME 15:21:22
+0 @I0340@ INDI
+1 NAME  /செல்லா/
+2 TYPE birth
+2 SURN செல்லா
+1 SEX F
+1 BIRT
+2 DATE 1940
+1 FAMS @F0115@
+1 CHAN
+2 DATE 22 APR 2024
+3 TIME 19:57:48
+0 @I0341@ INDI
+1 NAME (உம்மாச்சி அய்யங்கார்) /காளமேகம்/
+2 TYPE birth
+2 GIVN (உம்மாச்சி அய்யங்கார்)
+2 SURN காளமேகம்
+1 SEX M
+1 FAMC @F0123@
+2 PEDI birth
+1 FAMS @F0117@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:35:20
+0 @I0342@ INDI
+1 NAME அப்பா /முத்துக்குட்டி/
+2 TYPE birth
+2 GIVN அப்பா
+2 SURN முத்துக்குட்டி
+1 SEX M
+1 FAMS @F0116@
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:25:06
+0 @I0343@ INDI
+1 NAME (அம்மா) /முத்துக்குட்டி/
+2 TYPE birth
+2 GIVN (அம்மா)
+2 SURN முத்துக்குட்டி
+1 SEX F
+1 FAMC @F0011@
+2 PEDI birth
+1 FAMS @F0116@
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:27:15
+0 @I0344@ INDI
+1 NAME  /நாமகிரி லக்ஷ்மி/
+2 TYPE birth
+2 SURN நாமகிரி லக்ஷ்மி
+1 SEX F
+1 FAMS @F0117@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:11:20
+0 @I0345@ INDI
+1 NAME (உம்மாச்சி) /சுந்தரம்/
+2 TYPE birth
+2 GIVN (உம்மாச்சி)
+2 SURN சுந்தரம்
+1 SEX M
+1 FAMC @F0117@
+2 PEDI birth
+1 FAMS @F0118@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:15:05
+0 @I0346@ INDI
+1 NAME (காளை பாட்டி) /செல்லம்மாள்/
+2 TYPE birth
+2 GIVN (காளை பாட்டி)
+2 SURN செல்லம்மாள்
+1 SEX F
+1 FAMS @F0118@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:15:05
+0 @I0347@ INDI
+1 NAME  /ரங்கண்ணா/
+2 TYPE birth
+2 SURN ரங்கண்ணா
+1 SEX M
+1 FAMC @F0118@
+2 PEDI birth
+1 FAMS @F0119@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:24:55
+0 @I0348@ INDI
+1 NAME (ரெங்கன்) /வேதவல்லி/
+2 TYPE birth
+2 GIVN (ரெங்கன்)
+2 SURN வேதவல்லி
+1 SEX F
+1 FAMS @F0119@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:19:56
+0 @I0349@ INDI
+1 NAME (காளை) /காளமேகம்/
+2 TYPE birth
+2 GIVN (காளை)
+2 SURN காளமேகம்
+1 SEX M
+1 FAMC @F0119@
+2 PEDI birth
+1 FAMS @F0120@
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:41:27
+0 @I0350@ INDI
+1 NAME  /முத்து சேஷன்/
+2 TYPE birth
+2 SURN முத்து சேஷன்
+1 SEX M
+1 FAMS @F0128@
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:42:31
+0 @I0351@ INDI
+1 NAME  /ஹேமமாலினி/
+2 TYPE birth
+2 SURN ஹேமமாலினி
+1 SEX F
+1 FAMS @F0120@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:21:47
+0 @I0352@ INDI
+1 NAME (காளை) /ரங்கநாதன்/
+2 TYPE birth
+2 GIVN (காளை)
+2 SURN ரங்கநாதன்
+1 SEX M
+1 FAMC @F0120@
+2 PEDI birth
+1 FAMS @F0121@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:24:36
+0 @I0353@ INDI
+1 NAME (திவ்யா காளை ) /வேதவல்லி/
+2 TYPE birth
+2 GIVN (திவ்யா காளை )
+2 SURN வேதவல்லி
+1 SEX F
+1 FAMC @F0120@
+2 PEDI birth
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:21:47
+0 @I0354@ INDI
+1 NAME  /வர்த்தினி/
+2 TYPE birth
+2 SURN வர்த்தினி
+1 SEX F
+1 FAMS @F0121@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:23:51
+0 @I0355@ INDI
+1 NAME (ராமு தாத்தா அப்பா) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (ராமு தாத்தா அப்பா)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0123@
+2 PEDI birth
+1 FAMS @F0122@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:35:20
+0 @I0356@ INDI
+1 NAME (ராமு தாத்தா அம்மா) /அலமேலு/
+2 TYPE birth
+2 GIVN (ராமு தாத்தா அம்மா)
+2 SURN அலமேலு
+1 SEX F
+1 FAMS @F0122@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:28:55
+0 @I0357@ INDI
+1 NAME (உம்மாச்சி அப்பா) /கோபாலன்/
+2 TYPE birth
+2 GIVN (உம்மாச்சி அப்பா)
+2 SURN கோபாலன்
+1 SEX M
+1 FAMS @F0123@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:35:20
+0 @I0358@ INDI
+1 NAME (உம்மாச்சி அம்மா ) /மதுரவல்லி/
+2 TYPE birth
+2 GIVN (உம்மாச்சி அம்மா )
+2 SURN மதுரவல்லி
+1 SEX F
+1 FAMS @F0123@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:35:56
+0 @I0359@ INDI
+1 NAME (சீமாச்சு) /லக்ஷ்மி/
+2 TYPE birth
+2 GIVN (சீமாச்சு)
+2 SURN லக்ஷ்மி
+1 SEX F
+1 FAMS @F0124@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:39:23
+0 @I0360@ INDI
+1 NAME  /சவிதா/
+2 TYPE birth
+2 SURN சவிதா
+1 SEX M
+1 FAMC @F0124@
+2 PEDI birth
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:39:23
+0 @I0361@ INDI
+1 NAME  /ஸ்ரீகிருஷ்ணா/
+2 TYPE birth
+2 SURN ஸ்ரீகிருஷ்ணா
+1 SEX M
+1 FAMC @F0124@
+2 PEDI birth
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:39:23
+0 @I0362@ INDI
+1 NAME (சீமாச்சு) /ஸ்ரீராம்/
+2 TYPE birth
+2 GIVN (சீமாச்சு)
+2 SURN ஸ்ரீராம்
+1 SEX M
+1 FAMC @F0124@
+2 PEDI birth
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:39:23
+0 @I0363@ INDI
+1 NAME  /ஸ்ரீவித்யா/
+2 TYPE birth
+2 SURN ஸ்ரீவித்யா
+1 SEX F
+1 FAMC @F0124@
+2 PEDI birth
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:39:23
+0 @I0364@ INDI
+1 NAME (கபிஸ்தலம்) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (கபிஸ்தலம்)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMS @F0125@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 16:33:41
+0 @I0365@ INDI
+1 NAME (கீழராஜகுல ராமன்) /ரங்கராஜன்/
+2 TYPE birth
+2 GIVN (கீழராஜகுல ராமன்)
+2 SURN ரங்கராஜன்
+1 SEX M
+1 FAMS @F0126@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:01:30
+0 @I0366@ INDI
+1 NAME (பிச்சை வாத்தியார்) /நாராயணன்/
+2 TYPE birth
+2 GIVN (பிச்சை வாத்தியார்)
+2 SURN நாராயணன்
+1 SEX M
+1 FAMC @F0111@
+2 PEDI birth
+1 FAMS @F0131@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 11:47:23
+0 @I0367@ INDI
+1 NAME (பிச்சை வாத்தியார்) /கிருஷ்ணஸ்வாமி/
+2 TYPE birth
+2 GIVN (பிச்சை வாத்தியார்)
+2 SURN கிருஷ்ணஸ்வாமி
+1 SEX M
+1 FAMC @F0111@
+2 PEDI birth
+1 FAMS @F0132@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 11:50:45
+0 @I0368@ INDI
+1 NAME (பிச்சை வாத்தியார்) /ராகவன் செல்லப்பா/
+2 TYPE birth
+2 GIVN (பிச்சை வாத்தியார்)
+2 SURN ராகவன் செல்லப்பா
+1 SEX M
+1 FAMC @F0111@
+2 PEDI birth
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 16:42:16
+0 @I0369@ INDI
+1 NAME (பிச்சை வாத்தியார்) /சுந்தரராஜன் ராஜா/
+2 TYPE birth
+2 GIVN (பிச்சை வாத்தியார்)
+2 SURN சுந்தரராஜன் ராஜா
+1 SEX M
+1 FAMC @F0111@
+2 PEDI birth
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 16:42:16
+0 @I0370@ INDI
+1 NAME (சுதர்சனம் தாத்தா) /நாராயணன்/
+2 TYPE birth
+2 GIVN (சுதர்சனம் தாத்தா)
+2 SURN நாராயணன்
+1 SEX M
+1 BIRT
+2 DATE 1887
+1 DEAT
+2 DATE 1940
+1 FAMS @F0127@
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:32:10
+0 @I0371@ INDI
+1 NAME  /பெருந்தேவி/
+2 TYPE birth
+2 SURN பெருந்தேவி
+1 SEX F
+1 DEAT
+2 DATE 1963
+1 FAMS @F0127@
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:32:10
+0 @I0372@ INDI
+1 NAME (சேசன்) /சுந்தரராஜன்/
+2 TYPE birth
+2 GIVN (சேசன்)
+2 SURN சுந்தரராஜன்
+1 SEX M
+1 FAMC @F0119@
+2 PEDI birth
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:41:27
+0 @I0373@ INDI
+1 NAME  /பிச்சம்மாள்/
+2 TYPE birth
+2 SURN பிச்சம்மாள்
+1 SEX F
+1 FAMC @F0119@
+2 PEDI birth
+1 FAMS @F0128@
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:42:31
+0 @I0374@ INDI
+1 NAME  /கமலா லக்ஷ்மி/
+2 TYPE birth
+2 SURN கமலா லக்ஷ்மி
+1 SEX F
+1 FAMC @F0119@
+2 PEDI birth
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:41:27
+0 @I0375@ INDI
+1 NAME (செல்லம்) /மதனவல்லி/
+2 TYPE birth
+2 GIVN (செல்லம்)
+2 SURN மதனவல்லி
+1 SEX F
+1 FAMC @F0119@
+2 PEDI birth
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:46:31
+0 @I0376@ INDI
+1 NAME (ரங்கண்ணா) /மதுரவல்லி/
+2 TYPE birth
+2 GIVN (ரங்கண்ணா)
+2 SURN மதுரவல்லி
+1 SEX F
+1 FAMC @F0119@
+2 PEDI birth
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:41:27
+0 @I0377@ INDI
+1 NAME (திருவேங்கடத்தான்) /ராஜன்/
+2 TYPE birth
+2 GIVN (திருவேங்கடத்தான்)
+2 SURN ராஜன்
+1 SEX M
+1 FAMC @F0059@
+2 PEDI birth
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:51:46
+0 @I0378@ INDI
+1 NAME (திருவேங்கடத்தான்) /மோகனவல்லி/
+2 TYPE birth
+2 GIVN (திருவேங்கடத்தான்)
+2 SURN மோகனவல்லி
+1 SEX F
+1 FAMC @F0059@
+2 PEDI birth
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:51:46
+0 @I0379@ INDI
+1 NAME (திருவேங்கடத்தான்) /ஹேமா/
+2 TYPE birth
+2 GIVN (திருவேங்கடத்தான்)
+2 SURN ஹேமா
+1 SEX F
+1 FAMC @F0059@
+2 PEDI birth
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:51:46
+0 @I0380@ INDI
+1 NAME (திருவேங்கடத்தான்) /ரேவதி/
+2 TYPE birth
+2 GIVN (திருவேங்கடத்தான்)
+2 SURN ரேவதி
+1 SEX F
+1 FAMC @F0059@
+2 PEDI birth
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:51:46
+0 @I0381@ INDI
+1 NAME (திருவேங்கடத்தான்) /லக்ஷ்மி/
+2 TYPE birth
+2 GIVN (திருவேங்கடத்தான்)
+2 SURN லக்ஷ்மி
+1 SEX F
+1 FAMC @F0059@
+2 PEDI birth
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:51:46
+0 @I0382@ INDI
+1 NAME (சேஷன் #2) /கோமளவல்லி/
+2 TYPE birth
+2 GIVN (சேஷன் #2)
+2 SURN கோமளவல்லி
+1 SEX F
+1 FAMS @F0129@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 10:33:01
+0 @I0383@ INDI
+1 NAME (சேஷன்) /ராஜம்/
+2 TYPE birth
+2 GIVN (சேஷன்)
+2 SURN ராஜம்
+1 SEX F
+1 FAMC @F0129@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 10:32:08
+0 @I0384@ INDI
+1 NAME (சேஷன்) /பிரேமாவதி/
+2 TYPE birth
+2 GIVN (சேஷன்)
+2 SURN பிரேமாவதி
+1 SEX F
+1 FAMC @F0129@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 10:32:08
+0 @I0385@ INDI
+1 NAME (சேஷன்) /கமலா/
+2 TYPE birth
+2 GIVN (சேஷன்)
+2 SURN கமலா
+1 SEX F
+1 FAMC @F0129@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 10:32:08
+0 @I0386@ INDI
+1 NAME (சேஷன்) /ரங்கராஜன்/
+2 TYPE birth
+2 GIVN (சேஷன்)
+2 SURN ரங்கராஜன்
+1 SEX M
+1 FAMC @F0129@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 10:32:08
+0 @I0387@ INDI
+1 NAME (சேஷன்) /வாசுதேவன்/
+2 TYPE birth
+2 GIVN (சேஷன்)
+2 SURN வாசுதேவன்
+1 SEX M
+1 FAMC @F0129@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 10:32:08
+0 @I0388@ INDI
+1 NAME (சேஷன்) /சுந்தரராஜன்/
+2 TYPE birth
+2 GIVN (சேஷன்)
+2 SURN சுந்தரராஜன்
+1 SEX M
+1 FAMC @F0129@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 10:32:08
+0 @I0389@ INDI
+1 NAME (பாம்பே கண்ணன்) /ரங்கநாயகி/
+2 TYPE birth
+2 GIVN (பாம்பே கண்ணன்)
+2 SURN ரங்கநாயகி
+1 SEX F
+1 FAMS @F0130@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:42:09
+0 @I0390@ INDI
+1 NAME (பாம்பே கண்ணன்) /உஷா/
+2 TYPE birth
+2 GIVN (பாம்பே கண்ணன்)
+2 SURN உஷா
+1 SEX F
+1 FAMC @F0130@
+2 PEDI birth
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:40:01
+0 @I0391@ INDI
+1 NAME (பாம்பே கண்ணன்) /சித்ரா/
+2 TYPE birth
+2 GIVN (பாம்பே கண்ணன்)
+2 SURN சித்ரா
+1 SEX F
+1 FAMC @F0130@
+2 PEDI birth
+1 FAMS @F0140@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:45:09
+0 @I0392@ INDI
+1 NAME (பாம்பே கண்ணன்) /மகாலக்ஷ்மி aka இந்து/
+2 TYPE birth
+2 GIVN (பாம்பே கண்ணன்)
+2 SURN மகாலக்ஷ்மி aka இந்து
+1 SEX F
+1 FAMC @F0130@
+2 PEDI birth
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:47:51
+0 @I0393@ INDI
+1 NAME (பிச்சை) /லக்ஷ்மி/
+2 TYPE birth
+2 GIVN (பிச்சை)
+2 SURN லக்ஷ்மி
+1 SEX F
+1 FAMS @F0131@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 11:47:23
+0 @I0394@ INDI
+1 NAME (பிச்சை) /கோபால்/
+2 TYPE birth
+2 GIVN (பிச்சை)
+2 SURN கோபால்
+1 SEX M
+1 FAMC @F0131@
+2 PEDI birth
+1 FAMS @F0133@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:05:33
+0 @I0395@ INDI
+1 NAME (பிச்சை) /சேஷாத்ரி/
+2 TYPE birth
+2 GIVN (பிச்சை)
+2 SURN சேஷாத்ரி
+1 SEX M
+1 FAMC @F0131@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 11:47:23
+0 @I0396@ INDI
+1 NAME (பிச்சை) /சௌந்தரவல்லி/
+2 TYPE birth
+2 GIVN (பிச்சை)
+2 SURN சௌந்தரவல்லி
+1 SEX F
+1 FAMS @F0132@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 11:50:45
+0 @I0397@ INDI
+1 NAME (பிச்சை) /பத்மாவதி/
+2 TYPE birth
+2 GIVN (பிச்சை)
+2 SURN பத்மாவதி
+1 SEX F
+1 FAMC @F0132@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 11:50:45
+0 @I0398@ INDI
+1 NAME (பிச்சை பேரன்) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (பிச்சை பேரன்)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0132@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 11:50:45
+0 @I0399@ INDI
+1 NAME  /மீனாக்ஷி/
+2 TYPE birth
+2 SURN மீனாக்ஷி
+1 SEX F
+1 FAMS @F0133@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:05:33
+0 @I0400@ INDI
+1 NAME  /லக்ஷ்மி பாரதி/
+2 TYPE birth
+2 SURN லக்ஷ்மி பாரதி
+1 SEX F
+1 FAMC @F0133@
+2 PEDI birth
+1 FAMS @F0134@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:09:59
+0 @I0402@ INDI
+1 NAME  /ராஜீவ் நாராயணன்/
+2 TYPE birth
+2 SURN ராஜீவ் நாராயணன்
+1 SEX M
+1 FAMS @F0134@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:07:12
+0 @I0403@ INDI
+1 NAME  /ஸூர்ய  நாராயணன்/
+2 TYPE birth
+2 SURN ஸூர்ய  நாராயணன்
+1 SEX M
+1 FAMC @F0133@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:12:37
+0 @I0404@ INDI
+1 NAME  /வைதேஹி/
+2 TYPE birth
+2 SURN வைதேஹி
+1 SEX F
+1 FAMS @F0135@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:18:49
+0 @I0405@ INDI
+1 NAME  /ஆர்த்தி/
+2 TYPE birth
+2 SURN ஆர்த்தி
+1 SEX F
+1 FAMC @F0135@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:18:49
+0 @I0406@ INDI
+1 NAME  /பாஷ்யம்/
+2 TYPE birth
+2 SURN பாஷ்யம்
+1 SEX M
+1 FAMC @F0135@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:18:49
+0 @I0407@ INDI
+1 NAME (கணவர்) /கண்ணம்மா/
+2 TYPE birth
+2 GIVN (கணவர்)
+2 SURN கண்ணம்மா
+1 SEX M
+1 FAMS @F0136@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:24:53
+0 @I0408@ INDI
+1 NAME  /ஆனந்த்/
+2 TYPE birth
+2 SURN ஆனந்த்
+1 SEX M
+1 FAMC @F0136@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:24:53
+0 @I0409@ INDI
+1 NAME (கண்ணம்மா) /அஜய்/
+2 TYPE birth
+2 GIVN (கண்ணம்மா)
+2 SURN அஜய்
+1 SEX M
+1 FAMC @F0136@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:24:53
+0 @I0410@ INDI
+1 NAME கண்ணம்மா /அருண்/
+2 TYPE birth
+2 GIVN கண்ணம்மா
+2 SURN அருண்
+1 SEX M
+1 FAMC @F0136@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:24:53
+0 @I0411@ INDI
+1 NAME  /இந்துமதி/
+2 TYPE birth
+2 SURN இந்துமதி
+1 SEX F
+1 FAMS @F0137@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:26:41
+0 @I0412@ INDI
+1 NAME (ராமானுஜம்) /அருண்/
+2 TYPE birth
+2 GIVN (ராமானுஜம்)
+2 SURN அருண்
+1 SEX M
+1 FAMC @F0137@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:26:41
+0 @I0413@ INDI
+1 NAME (ராமானுஜம்) /சந்தியா/
+2 TYPE birth
+2 GIVN (ராமானுஜம்)
+2 SURN சந்தியா
+1 SEX F
+1 FAMC @F0137@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:26:41
+0 @I0414@ INDI
+1 NAME (மைதிலி) /பார்த்தசாரதி/
+2 TYPE birth
+2 GIVN (மைதிலி)
+2 SURN பார்த்தசாரதி
+1 SEX M
+1 FAMS @F0138@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:29:04
+0 @I0415@ INDI
+1 NAME (மோகினி) /சம்பத்/
+2 TYPE birth
+2 GIVN (மோகினி)
+2 SURN சம்பத்
+1 SEX M
+1 FAMS @F0139@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:31:01
+0 @I0416@ INDI
+1 NAME (மோகினி) /சௌமியா/
+2 TYPE birth
+2 GIVN (மோகினி)
+2 SURN சௌமியா
+1 SEX F
+1 FAMC @F0139@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:31:01
+0 @I0417@ INDI
+1 NAME (மோகினி) /சுதர்சன்/
+2 TYPE birth
+2 GIVN (மோகினி)
+2 SURN சுதர்சன்
+1 SEX M
+1 FAMC @F0139@
+2 PEDI birth
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:31:01
+0 @I0418@ INDI
+1 NAME  /விஜய் @@ ஸ்ரீதர்/
+2 TYPE birth
+2 SURN விஜய் @@ ஸ்ரீதர்
+1 SEX M
+1 FAMC @F0138@
+2 PEDI birth
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:36:23
+0 @I0419@ INDI
+1 NAME  /நித்யா @@ ரேவதி/
+2 TYPE birth
+2 SURN நித்யா @@ ரேவதி
+1 SEX F
+1 FAMC @F0138@
+2 PEDI birth
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:36:23
+0 @I0420@ INDI
+1 NAME (பாம்பே கண்ணன்) /ஸ்ரீதர்/
+2 TYPE birth
+2 GIVN (பாம்பே கண்ணன்)
+2 SURN ஸ்ரீதர்
+1 SEX M
+1 FAMC @F0130@
+2 PEDI birth
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:40:01
+0 @I0421@ INDI
+1 NAME (பாம்பே கண்ணன்) /ஸ்ரீநிவாசன்/
+2 TYPE birth
+2 GIVN (பாம்பே கண்ணன்)
+2 SURN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMC @F0130@
+2 PEDI birth
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:40:01
+0 @I0422@ INDI
+1 NAME (பாம்பே கண்ணன்) /மீரா/
+2 TYPE birth
+2 GIVN (பாம்பே கண்ணன்)
+2 SURN மீரா
+1 SEX F
+1 FAMC @F0130@
+2 PEDI birth
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:40:01
+0 @I0423@ INDI
+1 NAME  /முரளி/
+2 TYPE birth
+2 SURN முரளி
+1 SEX M
+1 FAMS @F0140@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:45:09
+0 @I0424@ INDI
+1 NAME  /கவிதா/
+2 TYPE birth
+2 SURN கவிதா
+1 SEX F
+1 FAMC @F0140@
+2 PEDI birth
+1 FAMS @F0141@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:45:47
+0 @I0425@ INDI
+1 NAME  /அங்கித்/
+2 TYPE birth
+2 SURN அங்கித்
+1 SEX M
+1 FAMS @F0141@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:45:47
+0 @F0000@ FAM
+1 HUSB @I0000@
+1 WIFE @I0001@
+1 CHIL @I0004@
+1 CHIL @I0003@
+1 CHIL @I0002@
+1 CHIL @I0005@
+1 CHIL @I0006@
+1 CHAN
+2 DATE 7 MAR 2024
+3 TIME 16:37:01
+0 @F0001@ FAM
+1 HUSB @I0002@
+1 WIFE @I0008@
+1 CHIL @I0007@
+1 CHAN
+2 DATE 7 MAR 2024
+3 TIME 16:36:48
+0 @F0002@ FAM
+1 HUSB @I0007@
+1 WIFE @I0009@
+1 CHIL @I0010@
+1 CHIL @I0011@
+1 CHAN
+2 DATE 7 MAR 2024
+3 TIME 16:44:39
+0 @F0003@ FAM
+1 HUSB @I0003@
+1 WIFE @I0016@
+1 CHIL @I0014@
+1 CHIL @I0013@
+1 CHIL @I0063@
+1 CHIL @I0086@
+1 CHAN
+2 DATE 15 MAR 2024
+3 TIME 17:00:54
+0 @F0004@ FAM
+1 HUSB @I0020@
+1 WIFE @I0005@
+1 CHIL @I0018@
+1 CHAN
+2 DATE 9 MAR 2024
+3 TIME 14:04:35
+0 @F0005@ FAM
+1 HUSB @I0004@
+1 WIFE @I0021@
+1 CHIL @I0019@
+1 CHIL @I0024@
+1 CHIL @I0043@
+1 CHIL @I0042@
+1 CHIL @I0045@
+1 CHIL @I0044@
+1 CHAN
+2 DATE 10 MAR 2024
+3 TIME 14:11:45
+0 @F0006@ FAM
+1 HUSB @I0018@
+1 WIFE @I0019@
+1 CHIL @I0017@
+1 CHAN
+2 DATE 9 MAR 2024
+3 TIME 14:09:45
+0 @F0007@ FAM
+1 HUSB @I0013@
+1 WIFE @I0023@
+1 CHIL @I0022@
+1 CHIL @I0139@
+1 CHIL @I0056@
+1 CHIL @I0057@
+1 CHIL @I0058@
+1 CHIL @I0059@
+1 CHAN
+2 DATE 18 MAR 2024
+3 TIME 12:20:13
+0 @F0008@ FAM
+1 HUSB @I0024@
+1 WIFE @I0026@
+1 CHIL @I0025@
+1 CHIL @I0062@
+1 CHAN
+2 DATE 11 MAR 2024
+3 TIME 14:06:40
+0 @F0009@ FAM
+1 HUSB @I0029@
+1 WIFE @I0030@
+1 CHIL @I0031@
+1 CHIL @I0032@
+1 CHAN
+2 DATE 9 MAR 2024
+3 TIME 14:52:56
+0 @F0010@ FAM
+1 HUSB @I0034@
+1 WIFE @I0035@
+1 CHIL @I0033@
+1 CHIL @I0008@
+1 CHAN
+2 DATE 9 MAR 2024
+3 TIME 14:59:59
+0 @F0011@ FAM
+1 HUSB @I0036@
+1 WIFE @I0032@
+1 CHIL @I0037@
+1 CHIL @I0021@
+1 CHIL @I0067@
+1 CHIL @I0078@
+1 CHIL @I0104@
+1 CHIL @I0105@
+1 CHIL @I0106@
+1 CHIL @I0125@
+1 CHIL @I0133@
+1 CHIL @I0343@
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:27:15
+0 @F0012@ FAM
+1 HUSB @I0037@
+1 WIFE @I0038@
+1 CHIL @I0041@
+1 CHIL @I0269@
+1 CHIL @I0040@
+1 CHIL @I0039@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:23:15
+0 @F0013@ FAM
+1 HUSB @I0031@
+1 WIFE @I0033@
+1 CHIL @I0038@
+1 CHAN
+2 DATE 9 MAR 2024
+3 TIME 15:07:56
+0 @F0014@ FAM
+1 HUSB @I0087@
+1 WIFE @I0042@
+1 CHIL @I0047@
+1 CHAN
+2 DATE 16 MAR 2024
+3 TIME 12:29:53
+0 @F0015@ FAM
+1 HUSB @I0048@
+1 WIFE @I0043@
+1 CHIL @I0049@
+1 CHAN
+2 DATE 10 MAR 2024
+3 TIME 14:17:44
+0 @F0016@ FAM
+1 HUSB @I0077@
+1 WIFE @I0045@
+1 CHIL @I0051@
+1 CHIL @I0052@
+1 CHAN
+2 DATE 15 MAR 2024
+3 TIME 11:06:30
+0 @F0017@ FAM
+1 HUSB @I0014@
+1 WIFE @I0053@
+1 CHIL @I0054@
+1 CHIL @I0055@
+1 CHAN
+2 DATE 10 MAR 2024
+3 TIME 14:27:42
+0 @F0018@ FAM
+1 HUSB @I0056@
+1 WIFE @I0060@
+1 CHIL @I0061@
+1 CHAN
+2 DATE 10 MAR 2024
+3 TIME 14:38:02
+0 @F0019@ FAM
+1 HUSB @I0051@
+1 WIFE @I0062@
+1 CHIL @I0065@
+1 CHIL @I0259@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 13:58:36
+0 @F0020@ FAM
+1 HUSB @I0063@
+1 WIFE @I0064@
+1 CHAN
+2 DATE 11 MAR 2024
+3 TIME 15:08:54
+0 @F0021@ FAM
+1 HUSB @I0066@
+1 WIFE @I0067@
+1 CHIL @I0009@
+1 CHIL @I0073@
+1 CHIL @I0137@
+1 CHIL @I0138@
+1 CHAN
+2 DATE 18 MAR 2024
+3 TIME 12:09:17
+0 @F0022@ FAM
+1 HUSB @I0068@
+1 WIFE @I0069@
+1 CHIL @I0066@
+1 CHAN
+2 DATE 13 MAR 2024
+3 TIME 15:50:38
+0 @F0023@ FAM
+1 HUSB @I0070@
+1 WIFE @I0071@
+1 CHIL @I0053@
+1 CHIL @I0072@
+1 CHAN
+2 DATE 13 MAR 2024
+3 TIME 16:05:35
+0 @F0024@ FAM
+1 HUSB @I0074@
+1 WIFE @I0075@
+1 CHIL @I0076@
+1 CHIL @I0083@
+1 CHIL @I0183@
+1 CHIL @I0184@
+1 CHAN
+2 DATE 29 MAR 2024
+3 TIME 18:52:38
+0 @F0025@ FAM
+1 HUSB @I0079@
+1 WIFE @I0078@
+1 CHIL @I0075@
+1 CHAN
+2 DATE 15 MAR 2024
+3 TIME 12:12:07
+0 @F0026@ FAM
+1 HUSB @I0076@
+1 WIFE @I0047@
+1 CHIL @I0080@
+1 CHIL @I0081@
+1 CHAN
+2 DATE 15 MAR 2024
+3 TIME 12:16:42
+0 @F0027@ FAM
+1 HUSB @I0084@
+1 WIFE @I0083@
+1 CHIL @I0082@
+1 CHIL @I0326@
+1 CHIL @I0085@
+1 CHIL @I0136@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:07:16
+0 @F0028@ FAM
+1 HUSB @I0052@
+1 WIFE @I0088@
+1 CHIL @I0089@
+1 CHIL @I0090@
+1 CHAN
+2 DATE 16 MAR 2024
+3 TIME 19:40:04
+0 @F0029@ FAM
+1 HUSB @I0089@
+1 WIFE @I0091@
+1 CHAN
+2 DATE 16 MAR 2024
+3 TIME 19:42:49
+0 @F0030@ FAM
+1 HUSB @I0090@
+1 WIFE @I0092@
+1 CHIL @I0093@
+1 CHIL @I0094@
+1 CHAN
+2 DATE 16 MAR 2024
+3 TIME 19:44:16
+0 @F0031@ FAM
+1 HUSB @I0095@
+1 WIFE @I0096@
+1 CHIL @I0097@
+1 CHIL @I0220@
+1 CHIL @I0221@
+1 CHIL @I0111@
+1 CHIL @I0222@
+1 CHIL @I0223@
+1 CHIL @I0224@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:14:51
+0 @F0032@ FAM
+1 HUSB @I0098@
+1 WIFE @I0073@
+1 CHIL @I0096@
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 10:24:50
+0 @F0033@ FAM
+1 HUSB @I0101@
+1 WIFE @I0102@
+1 CHIL @I0095@
+1 CHIL @I0103@
+1 CHIL @I0159@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:45:53
+0 @F0034@ FAM
+1 HUSB @I0099@
+1 WIFE @I0100@
+1 CHIL @I0101@
+1 CHIL @I0016@
+1 CHIL @I0113@
+1 CHIL @I0114@
+1 CHIL @I0087@
+1 CHIL @I0116@
+1 CHIL @I0117@
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 15:59:30
+0 @F0035@ FAM
+1 HUSB @I0106@
+1 WIFE @I0107@
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 10:40:57
+0 @F0036@ FAM
+1 HUSB @I0007@
+1 WIFE @I0108@
+1 CHIL @I0109@
+1 CHIL @I0110@
+1 CHIL @I0174@
+1 CHIL @I0173@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:48:39
+0 @F0037@ FAM
+1 HUSB @I0111@
+1 WIFE @I0081@
+1 CHIL @I0322@
+1 CHIL @I0112@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:04:49
+0 @F0038@ FAM
+1 HUSB @I0117@
+1 WIFE @I0118@
+1 CHIL @I0119@
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 16:09:47
+0 @F0039@ FAM
+1 HUSB @I0119@
+1 WIFE @I0011@
+1 CHIL @I0260@
+1 CHIL @I0261@
+1 CHIL @I0262@
+1 CHIL @I0263@
+1 CHIL @I0120@
+1 CHIL @I0264@
+1 CHIL @I0265@
+1 CHIL @I0266@
+1 CHIL @I0267@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:06:47
+0 @F0040@ FAM
+1 HUSB @I0121@
+1 WIFE @I0114@
+1 CHIL @I0122@
+1 CHIL @I0123@
+1 CHIL @I0124@
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 16:21:33
+0 @F0041@ FAM
+1 HUSB @I0126@
+1 WIFE @I0125@
+1 CHIL @I0127@
+1 CHIL @I0128@
+1 CHIL @I0130@
+1 CHIL @I0129@
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 16:45:17
+0 @F0042@ FAM
+1 HUSB @I0132@
+1 WIFE @I0131@
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 16:47:43
+0 @F0043@ FAM
+1 HUSB @I0133@
+1 WIFE @I0134@
+1 CHIL @I0084@
+1 CHIL @I0135@
+1 CHAN
+2 DATE 18 MAR 2024
+3 TIME 12:01:30
+0 @F0044@ FAM
+1 HUSB @I0140@
+1 WIFE @I0139@
+1 CHIL @I0141@
+1 CHAN
+2 DATE 18 MAR 2024
+3 TIME 12:33:25
+0 @F0045@ FAM
+1 HUSB @I0142@
+1 WIFE @I0143@
+1 CHIL @I0144@
+1 CHAN
+2 DATE 18 MAR 2024
+3 TIME 12:49:25
+0 @F0046@ FAM
+1 HUSB @I0145@
+1 WIFE @I0146@
+1 CHIL @I0142@
+1 CHAN
+2 DATE 18 MAR 2024
+3 TIME 12:51:54
+0 @F0047@ FAM
+1 HUSB @I0137@
+1 WIFE @I0147@
+1 CHIL @I0148@
+1 CHIL @I0149@
+1 CHIL @I0060@
+1 CHIL @I0150@
+1 CHIL @I0151@
+1 CHAN
+2 DATE 18 MAR 2024
+3 TIME 14:03:23
+0 @F0048@ FAM
+1 HUSB @I0152@
+1 WIFE @I0153@
+1 CHIL @I0020@
+1 CHIL @I0074@
+1 CHAN
+2 DATE 19 MAR 2024
+3 TIME 12:53:32
+0 @F0049@ FAM
+1 HUSB @I0154@
+1 WIFE @I0138@
+1 CHIL @I0155@
+1 CHAN
+2 DATE 19 MAR 2024
+3 TIME 12:56:16
+0 @F0050@ FAM
+1 HUSB @I0137@
+1 WIFE @I0155@
+1 CHAN
+2 DATE 19 MAR 2024
+3 TIME 12:58:32
+0 @F0051@ FAM
+1 HUSB @I0123@
+1 WIFE @I0156@
+1 CHIL @I0157@
+1 CHIL @I0307@
+1 NOTE @N0001@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:37:59
+0 @F0052@ FAM
+1 HUSB @I0159@
+1 WIFE @I0086@
+1 CHIL @I0158@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:50:52
+0 @F0053@ FAM
+1 HUSB @I0123@
+1 WIFE @I0158@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 09:52:48
+0 @F0054@ FAM
+1 HUSB @I0157@
+1 WIFE @I0160@
+1 CHIL @I0161@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 10:00:48
+0 @F0055@ FAM
+1 HUSB @I0122@
+1 WIFE @I0162@
+1 CHIL @I0163@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 10:08:03
+0 @F0056@ FAM
+1 HUSB @I0164@
+1 WIFE @I0039@
+1 MARR
+2 DATE 31 AUG 1958
+2 PLAC மதுரை
+3 MAP
+4 LATI N9.939093
+4 LONG E78.1198
+2 ADDR
+3 CITY மதுரை
+1 CHIL @I0165@
+1 CHIL @I0268@
+1 CHIL @I0166@
+1 CHIL @I0167@
+1 CHIL @I0168@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:21:30
+0 @F0057@ FAM
+1 HUSB @I0041@
+1 WIFE @I0171@
+1 CHIL @I0172@
+1 CHIL @I0169@
+1 CHIL @I0170@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 12:41:27
+0 @F0058@ FAM
+1 HUSB @I0027@
+1 WIFE @I0028@
+1 CHIL @I0036@
+1 CHAN
+2 DATE 20 MAR 2024
+3 TIME 14:51:26
+0 @F0059@ FAM
+1 HUSB @I0010@
+1 WIFE @I0176@
+1 CHIL @I0177@
+1 CHIL @I0175@
+1 CHIL @I0377@
+1 CHIL @I0378@
+1 CHIL @I0379@
+1 CHIL @I0380@
+1 CHIL @I0381@
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:51:46
+0 @F0060@ FAM
+1 HUSB @I0178@
+1 WIFE @I0179@
+1 CHIL @I0152@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 17:10:35
+0 @F0061@ FAM
+1 HUSB @I0018@
+1 WIFE @I0180@
+1 CHIL @I0182@
+1 CHIL @I0299@
+1 CHIL @I0300@
+1 CHIL @I0301@
+1 CHIL @I0302@
+1 CHIL @I0181@
+1 CHIL @I0303@
+1 CHIL @I0330@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:34:28
+0 @F0062@ FAM
+1 HUSB @I0186@
+1 WIFE @I0185@
+1 CHIL @I0153@
+1 CHIL @I0187@
+1 CHIL @I0188@
+1 CHAN
+2 DATE 29 MAR 2024
+3 TIME 19:08:20
+0 @F0063@ FAM
+1 HUSB @I0165@
+1 WIFE @I0189@
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:18:28
+0 @F0064@ FAM
+1 HUSB @I0190@
+1 WIFE @I0167@
+1 CHIL @I0191@
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:24:01
+0 @F0065@ FAM
+1 HUSB @I0195@
+1 WIFE @I0168@
+1 CHIL @I0196@
+1 CHIL @I0197@
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:25:01
+0 @F0066@ FAM
+1 HUSB @I0166@
+1 WIFE @I0198@
+1 CHIL @I0199@
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:25:59
+0 @F0067@ FAM
+1 HUSB @I0192@
+1 WIFE @I0191@
+1 CHIL @I0193@
+1 CHIL @I0194@
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:29:23
+0 @F0068@ FAM
+1 HUSB @I0196@
+1 WIFE @I0200@
+1 CHAN
+2 DATE 15 APR 2024
+3 TIME 17:32:52
+0 @F0069@ FAM
+1 HUSB @I0017@
+1 WIFE @I0202@
+1 CHIL @I0201@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 10:52:52
+0 @F0070@ FAM
+1 HUSB @I0201@
+1 WIFE @I0203@
+1 CHIL @I0205@
+1 CHIL @I0204@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 10:54:07
+0 @F0071@ FAM
+1 HUSB @I0110@
+1 WIFE @I0206@
+1 CHIL @I0207@
+1 CHIL @I0208@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 10:57:22
+0 @F0072@ FAM
+1 HUSB @I0207@
+1 WIFE @I0209@
+1 CHIL @I0210@
+1 CHIL @I0211@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:02:22
+0 @F0073@ FAM
+1 HUSB @I0212@
+1 WIFE @I0208@
+1 CHIL @I0213@
+1 CHIL @I0214@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:04:38
+0 @F0074@ FAM
+1 HUSB @I0215@
+1 WIFE @I0109@
+1 CHIL @I0216@
+1 CHIL @I0217@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:08:48
+0 @F0075@ FAM
+1 HUSB @I0217@
+1 WIFE @I0218@
+1 CHIL @I0219@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:10:32
+0 @F0076@ FAM
+1 HUSB @I0054@
+1 WIFE @I0229@
+1 CHIL @I0225@
+1 CHIL @I0227@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:38:19
+0 @F0077@ FAM
+1 HUSB @I0226@
+1 WIFE @I0225@
+1 CHIL @I0230@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:39:26
+0 @F0078@ FAM
+1 HUSB @I0227@
+1 WIFE @I0228@
+1 CHIL @I0231@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 11:43:01
+0 @F0079@ FAM
+1 HUSB @I0022@
+1 WIFE @I0148@
+1 CHIL @I0232@
+1 CHIL @I0237@
+1 CHIL @I0236@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:12:46
+0 @F0080@ FAM
+1 HUSB @I0150@
+1 WIFE @I0232@
+1 CHIL @I0233@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:05:48
+0 @F0081@ FAM
+1 HUSB @I0233@
+1 WIFE @I0234@
+1 CHIL @I0235@
+1 CHIL @I0249@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:26:43
+0 @F0082@ FAM
+1 HUSB @I0022@
+1 WIFE @I0149@
+1 CHIL @I0238@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:14:17
+0 @F0083@ FAM
+1 HUSB @I0237@
+1 WIFE @I0239@
+1 CHIL @I0240@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:20:32
+0 @F0084@ FAM
+1 HUSB @I0241@
+1 WIFE @I0236@
+1 CHIL @I0242@
+1 CHIL @I0243@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:22:13
+0 @F0085@ FAM
+1 HUSB @I0238@
+1 WIFE @I0244@
+1 CHIL @I0245@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:23:17
+0 @F0086@ FAM
+1 HUSB @I0061@
+1 WIFE @I0246@
+1 CHIL @I0247@
+1 CHIL @I0248@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:25:31
+0 @F0087@ FAM
+1 HUSB @I0055@
+1 WIFE @I0250@
+1 CHIL @I0251@
+1 CHIL @I0255@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 13:47:14
+0 @F0088@ FAM
+1 HUSB @I0252@
+1 WIFE @I0251@
+1 CHIL @I0253@
+1 CHIL @I0254@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 12:31:46
+0 @F0089@ FAM
+1 HUSB @I0255@
+1 WIFE @I0256@
+1 CHIL @I0257@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 13:46:51
+0 @F0090@ FAM
+1 HUSB @I0065@
+1 WIFE @I0258@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 13:56:56
+0 @F0091@ FAM
+1 HUSB @I0170@
+1 WIFE @I0270@
+1 CHIL @I0271@
+1 CHIL @I0272@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:26:12
+0 @F0092@ FAM
+1 HUSB @I0271@
+1 WIFE @I0273@
+1 CHIL @I0274@
+1 CHIL @I0275@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:27:50
+0 @F0093@ FAM
+1 HUSB @I0276@
+1 WIFE @I0172@
+1 CHIL @I0277@
+1 CHIL @I0278@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:29:28
+0 @F0094@ FAM
+1 HUSB @I0169@
+1 WIFE @I0279@
+1 CHAN
+2 DATE 16 APR 2024
+3 TIME 14:32:22
+0 @F0095@ FAM
+1 HUSB @I0173@
+1 WIFE @I0280@
+1 CHIL @I0281@
+1 CHIL @I0282@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:04:54
+0 @F0096@ FAM
+1 HUSB @I0281@
+1 WIFE @I0283@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:07:29
+0 @F0097@ FAM
+1 HUSB @I0282@
+1 WIFE @I0284@
+1 CHIL @I0285@
+1 CHIL @I0286@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:10:04
+0 @F0098@ FAM
+1 HUSB @I0287@
+1 WIFE @I0288@
+1 CHIL @I0289@
+1 CHIL @I0290@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:21:01
+0 @F0099@ FAM
+1 HUSB @I0116@
+1 WIFE @I0291@
+1 CHIL @I0287@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 10:35:48
+0 @F0100@ FAM
+1 HUSB @I0163@
+1 WIFE @I0292@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 15:13:47
+0 @F0101@ FAM
+1 HUSB @I0293@
+1 WIFE @I0294@
+1 CHIL @I0295@
+1 CHIL @I0108@
+1 CHIL @I0296@
+1 CHIL @I0297@
+1 CHIL @I0298@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 15:19:24
+0 @F0102@ FAM
+1 HUSB @I0287@
+1 WIFE @I0304@
+1 CHAN
+2 DATE 17 APR 2024
+3 TIME 16:19:26
+0 @F0103@ FAM
+1 HUSB @I0113@
+1 WIFE @I0305@
+1 CHIL @I0306@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 10:33:32
+0 @F0104@ FAM
+1 HUSB @I0308@
+1 WIFE @I0307@
+1 CHIL @I0309@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:42:07
+0 @F0105@ FAM
+1 HUSB @I0310@
+1 WIFE @I0080@
+1 CHIL @I0311@
+1 CHIL @I0312@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:53:21
+0 @F0106@ FAM
+1 HUSB @I0311@
+1 WIFE @I0313@
+1 CHIL @I0314@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:54:46
+0 @F0107@ FAM
+1 HUSB @I0316@
+1 WIFE @I0312@
+1 CHIL @I0317@
+1 CHIL @I0318@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:58:02
+0 @F0108@ FAM
+1 HUSB @I0319@
+1 WIFE @I0112@
+1 CHIL @I0320@
+1 CHIL @I0321@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 16:59:50
+0 @F0109@ FAM
+1 HUSB @I0322@
+1 WIFE @I0323@
+1 CHIL @I0324@
+1 CHIL @I0325@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:03:20
+0 @F0110@ FAM
+1 HUSB @I0327@
+1 WIFE @I0326@
+1 CHIL @I0328@
+1 CHIL @I0329@
+1 CHAN
+2 DATE 19 APR 2024
+3 TIME 17:26:37
+0 @F0111@ FAM
+1 HUSB @I0103@
+1 WIFE @I0124@
+1 CHIL @I0331@
+1 CHIL @I0332@
+1 CHIL @I0333@
+1 CHIL @I0334@
+1 CHIL @I0366@
+1 CHIL @I0367@
+1 CHIL @I0368@
+1 CHIL @I0369@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 16:42:16
+0 @F0112@ FAM
+1 HUSB @I0057@
+1 WIFE @I0332@
+1 CHAN
+2 DATE 21 APR 2024
+3 TIME 15:10:47
+0 @F0113@ FAM
+1 HUSB @I0335@
+1 WIFE @I0333@
+1 CHIL @I0336@
+1 CHAN
+2 DATE 21 APR 2024
+3 TIME 15:15:59
+0 @F0114@ FAM
+1 HUSB @I0337@
+1 WIFE @I0336@
+1 CHIL @I0338@
+1 CHIL @I0339@
+1 CHAN
+2 DATE 21 APR 2024
+3 TIME 15:21:22
+0 @F0115@ FAM
+1 HUSB @I0072@
+1 WIFE @I0340@
+1 CHAN
+2 DATE 22 APR 2024
+3 TIME 19:57:48
+0 @F0116@ FAM
+1 HUSB @I0342@
+1 WIFE @I0343@
+1 CHIL @I0107@
+1 CHAN
+2 DATE 24 APR 2024
+3 TIME 13:25:06
+0 @F0117@ FAM
+1 HUSB @I0341@
+1 WIFE @I0344@
+1 CHIL @I0345@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:12:21
+0 @F0118@ FAM
+1 HUSB @I0345@
+1 WIFE @I0346@
+1 CHIL @I0347@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:15:05
+0 @F0119@ FAM
+1 HUSB @I0347@
+1 WIFE @I0348@
+1 CHIL @I0373@
+1 CHIL @I0374@
+1 CHIL @I0372@
+1 CHIL @I0349@
+1 CHIL @I0375@
+1 CHIL @I0376@
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:41:27
+0 @F0120@ FAM
+1 HUSB @I0349@
+1 WIFE @I0351@
+1 CHIL @I0352@
+1 CHIL @I0353@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:21:47
+0 @F0121@ FAM
+1 HUSB @I0352@
+1 WIFE @I0354@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:23:51
+0 @F0122@ FAM
+1 HUSB @I0355@
+1 WIFE @I0356@
+1 CHIL @I0098@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:30:32
+0 @F0123@ FAM
+1 HUSB @I0357@
+1 WIFE @I0358@
+1 CHIL @I0341@
+1 CHIL @I0355@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:35:20
+0 @F0124@ FAM
+1 HUSB @I0097@
+1 WIFE @I0359@
+1 CHIL @I0360@
+1 CHIL @I0361@
+1 CHIL @I0362@
+1 CHIL @I0363@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 15:39:23
+0 @F0125@ FAM
+1 HUSB @I0364@
+1 WIFE @I0331@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 16:33:41
+0 @F0126@ FAM
+1 HUSB @I0365@
+1 WIFE @I0334@
+1 CHAN
+2 DATE 26 APR 2024
+3 TIME 16:35:10
+0 @F0127@ FAM
+1 HUSB @I0370@
+1 WIFE @I0371@
+1 CHIL @I0164@
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:32:10
+0 @F0128@ FAM
+1 HUSB @I0350@
+1 WIFE @I0373@
+1 CHAN
+2 DATE 27 APR 2024
+3 TIME 16:42:31
+0 @F0129@ FAM
+1 HUSB @I0113@
+1 WIFE @I0382@
+1 CHIL @I0383@
+1 CHIL @I0384@
+1 CHIL @I0385@
+1 CHIL @I0386@
+1 CHIL @I0387@
+1 CHIL @I0388@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 10:32:08
+0 @F0130@ FAM
+1 HUSB @I0306@
+1 WIFE @I0389@
+1 CHIL @I0390@
+1 CHIL @I0420@
+1 CHIL @I0421@
+1 CHIL @I0392@
+1 CHIL @I0422@
+1 CHIL @I0391@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:40:01
+0 @F0131@ FAM
+1 HUSB @I0366@
+1 WIFE @I0393@
+1 CHIL @I0394@
+1 CHIL @I0395@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 11:47:23
+0 @F0132@ FAM
+1 HUSB @I0367@
+1 WIFE @I0396@
+1 CHIL @I0397@
+1 CHIL @I0398@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 11:50:45
+0 @F0133@ FAM
+1 HUSB @I0394@
+1 WIFE @I0399@
+1 CHIL @I0400@
+1 CHIL @I0403@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:09:59
+0 @F0134@ FAM
+1 HUSB @I0402@
+1 WIFE @I0400@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:12:37
+0 @F0135@ FAM
+1 HUSB @I0220@
+1 WIFE @I0404@
+1 CHIL @I0405@
+1 CHIL @I0406@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:18:49
+0 @F0136@ FAM
+1 HUSB @I0407@
+1 WIFE @I0174@
+1 CHIL @I0408@
+1 CHIL @I0409@
+1 CHIL @I0410@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:24:53
+0 @F0137@ FAM
+1 HUSB @I0221@
+1 WIFE @I0411@
+1 CHIL @I0412@
+1 CHIL @I0413@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:26:41
+0 @F0138@ FAM
+1 HUSB @I0414@
+1 WIFE @I0224@
+1 CHIL @I0418@
+1 CHIL @I0419@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:36:23
+0 @F0139@ FAM
+1 HUSB @I0415@
+1 WIFE @I0223@
+1 CHIL @I0416@
+1 CHIL @I0417@
+1 CHAN
+2 DATE 29 APR 2024
+3 TIME 15:31:01
+0 @F0140@ FAM
+1 HUSB @I0423@
+1 WIFE @I0391@
+1 CHIL @I0424@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:45:09
+0 @F0141@ FAM
+1 HUSB @I0425@
+1 WIFE @I0424@
+1 CHAN
+2 DATE 2 MAY 2024
+3 TIME 14:45:47
+0 @N0000@ NOTE அச்சங்குளம் ஸ்வீகாரம்
+0 @N0001@ NOTE Second wife
+0 @N0002@ NOTE Also known as ஸ்ரீநிவாசன்?
+0 TRLR
