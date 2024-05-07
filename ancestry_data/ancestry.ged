@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.2-r1-f905d14
 2 NAME Gramps
-1 DATE 3 MAY 2024
-2 TIME 15:01:28
+1 DATE 7 MAY 2024
+2 TIME 16:20:33
 1 SUBM @SUBM@
 1 FILE C:\Users\sucha\Dropbox\r.data\ged\ancestry.ged
 1 COPR Copyright (c) 2024 .
@@ -2273,16 +2273,16 @@
 2 DATE 16 APR 2024
 3 TIME 10:54:07
 0 @I0204@ INDI
-1 NAME (அனந்தன்) /ராமானுஜன்/
+1 NAME (ஆனந்தன்) /ராமானுஜன்/
 2 TYPE birth
-2 GIVN (அனந்தன்)
+2 GIVN (ஆனந்தன்)
 2 SURN ராமானுஜன்
 1 SEX M
 1 FAMC @F0070@
 2 PEDI birth
 1 CHAN
-2 DATE 16 APR 2024
-3 TIME 10:54:07
+2 DATE 3 MAY 2024
+3 TIME 17:07:12
 0 @I0205@ INDI
 1 NAME  /த்விஜாவந்தி/
 2 TYPE birth
@@ -3709,17 +3709,17 @@
 2 DATE 22 APR 2024
 3 TIME 19:57:48
 0 @I0341@ INDI
-1 NAME (உம்மாச்சி அய்யங்கார்) /காளமேகம்/
+1 NAME (ரங்கண்ணா தாத்தா) /காளமேகம்/
 2 TYPE birth
-2 GIVN (உம்மாச்சி அய்யங்கார்)
+2 GIVN (ரங்கண்ணா தாத்தா)
 2 SURN காளமேகம்
 1 SEX M
 1 FAMC @F0123@
 2 PEDI birth
 1 FAMS @F0117@
 1 CHAN
-2 DATE 26 APR 2024
-3 TIME 15:35:20
+2 DATE 7 MAY 2024
+3 TIME 12:12:43
 0 @I0342@ INDI
 1 NAME அப்பா /முத்துக்குட்டி/
 2 TYPE birth
@@ -3752,17 +3752,17 @@
 2 DATE 26 APR 2024
 3 TIME 15:11:20
 0 @I0345@ INDI
-1 NAME (உம்மாச்சி) /சுந்தரம்/
+1 NAME (ரங்கண்ணா அப்பா) /சுந்தரம்/
 2 TYPE birth
-2 GIVN (உம்மாச்சி)
+2 GIVN (ரங்கண்ணா அப்பா)
 2 SURN சுந்தரம்
 1 SEX M
 1 FAMC @F0117@
 2 PEDI birth
 1 FAMS @F0118@
 1 CHAN
-2 DATE 26 APR 2024
-3 TIME 15:15:05
+2 DATE 7 MAY 2024
+3 TIME 12:08:08
 0 @I0346@ INDI
 1 NAME (காளை பாட்டி) /செல்லம்மாள்/
 2 TYPE birth
@@ -3866,8 +3866,8 @@
 2 PEDI birth
 1 FAMS @F0122@
 1 CHAN
-2 DATE 26 APR 2024
-3 TIME 15:35:20
+2 DATE 7 MAY 2024
+3 TIME 12:11:18
 0 @I0356@ INDI
 1 NAME (ராமு தாத்தா அம்மா) /அலமேலு/
 2 TYPE birth
@@ -3909,25 +3909,28 @@
 2 DATE 26 APR 2024
 3 TIME 15:39:23
 0 @I0360@ INDI
-1 NAME  /சவிதா/
+1 NAME (சவிதா) /மதுரவல்லி/
 2 TYPE birth
-2 SURN சவிதா
-1 SEX M
+2 GIVN (சவிதா)
+2 SURN மதுரவல்லி
+1 SEX F
 1 FAMC @F0124@
 2 PEDI birth
+1 FAMS @F0164@
 1 CHAN
-2 DATE 26 APR 2024
-3 TIME 15:39:23
+2 DATE 6 MAY 2024
+3 TIME 17:14:17
 0 @I0361@ INDI
-1 NAME  /ஸ்ரீகிருஷ்ணா/
+1 NAME  /கிருஷ்ணா/
 2 TYPE birth
-2 SURN ஸ்ரீகிருஷ்ணா
+2 SURN கிருஷ்ணா
 1 SEX M
 1 FAMC @F0124@
 2 PEDI birth
+1 FAMS @F0166@
 1 CHAN
-2 DATE 26 APR 2024
-3 TIME 15:39:23
+2 DATE 6 MAY 2024
+3 TIME 17:17:35
 0 @I0362@ INDI
 1 NAME (சீமாச்சு) /ஸ்ரீராம்/
 2 TYPE birth
@@ -3936,19 +3939,22 @@
 1 SEX M
 1 FAMC @F0124@
 2 PEDI birth
+1 FAMS @F0165@
 1 CHAN
-2 DATE 26 APR 2024
-3 TIME 15:39:23
+2 DATE 6 MAY 2024
+3 TIME 17:15:57
 0 @I0363@ INDI
-1 NAME  /ஸ்ரீவித்யா/
+1 NAME (சீமாச்சு) /வித்யா/
 2 TYPE birth
-2 SURN ஸ்ரீவித்யா
+2 GIVN (சீமாச்சு)
+2 SURN வித்யா
 1 SEX F
 1 FAMC @F0124@
 2 PEDI birth
+1 FAMS @F0167@
 1 CHAN
-2 DATE 26 APR 2024
-3 TIME 15:39:23
+2 DATE 6 MAY 2024
+3 TIME 17:20:58
 0 @I0364@ INDI
 1 NAME (கபிஸ்தலம்) /ஸ்ரீநிவாசன்/
 2 TYPE birth
@@ -4050,9 +4056,10 @@
 1 SEX M
 1 FAMC @F0119@
 2 PEDI birth
+1 FAMS @F0168@
 1 CHAN
-2 DATE 27 APR 2024
-3 TIME 16:41:27
+2 DATE 7 MAY 2024
+3 TIME 12:18:47
 0 @I0373@ INDI
 1 NAME  /பிச்சம்மாள்/
 2 TYPE birth
@@ -5163,6 +5170,137 @@
 1 CHAN
 2 DATE 3 MAY 2024
 3 TIME 14:57:49
+0 @I0480@ INDI
+1 NAME  /முரளிதரன்/
+2 TYPE birth
+2 SURN முரளிதரன்
+1 SEX M
+1 FAMS @F0164@
+1 CHAN
+2 DATE 6 MAY 2024
+3 TIME 17:14:17
+0 @I0481@ INDI
+1 NAME  /அநிருத்/
+2 TYPE birth
+2 SURN அநிருத்
+1 SEX M
+1 FAMC @F0164@
+2 PEDI birth
+1 CHAN
+2 DATE 6 MAY 2024
+3 TIME 17:14:17
+0 @I0482@ INDI
+1 NAME  /அஷ்வின்/
+2 TYPE birth
+2 SURN அஷ்வின்
+1 SEX M
+1 FAMC @F0164@
+2 PEDI birth
+1 CHAN
+2 DATE 6 MAY 2024
+3 TIME 17:14:17
+0 @I0483@ INDI
+1 NAME (ஸ்ரீராம்) /ஆர்த்தி/
+2 TYPE birth
+2 GIVN (ஸ்ரீராம்)
+2 SURN ஆர்த்தி
+1 SEX F
+1 FAMS @F0165@
+1 CHAN
+2 DATE 6 MAY 2024
+3 TIME 17:15:57
+0 @I0484@ INDI
+1 NAME (ஸ்ரீராம்) /ஸஹானா/
+2 TYPE birth
+2 GIVN (ஸ்ரீராம்)
+2 SURN ஸஹானா
+1 SEX F
+1 FAMC @F0165@
+2 PEDI birth
+1 CHAN
+2 DATE 6 MAY 2024
+3 TIME 17:15:57
+0 @I0485@ INDI
+1 NAME  /அனுஷா/
+2 TYPE birth
+2 SURN அனுஷா
+1 SEX F
+1 FAMS @F0166@
+1 CHAN
+2 DATE 6 MAY 2024
+3 TIME 17:17:35
+0 @I0486@ INDI
+1 NAME  /லயா/
+2 TYPE birth
+2 SURN லயா
+1 SEX F
+1 FAMC @F0166@
+2 PEDI birth
+1 CHAN
+2 DATE 6 MAY 2024
+3 TIME 17:17:35
+0 @I0487@ INDI
+1 NAME (வித்யா) /ராமானுஜம்/
+2 TYPE birth
+2 GIVN (வித்யா)
+2 SURN ராமானுஜம்
+1 SEX M
+1 FAMS @F0167@
+1 CHAN
+2 DATE 6 MAY 2024
+3 TIME 17:20:58
+0 @I0488@ INDI
+1 NAME  /மீரா/
+2 TYPE birth
+2 SURN மீரா
+1 SEX F
+1 FAMC @F0167@
+2 PEDI birth
+1 CHAN
+2 DATE 6 MAY 2024
+3 TIME 17:20:58
+0 @I0489@ INDI
+1 NAME  /உம்மாச்சி/
+2 TYPE birth
+2 SURN உம்மாச்சி
+1 SEX M
+1 FAMC @F0123@
+2 PEDI birth
+1 CHAN
+2 DATE 7 MAY 2024
+3 TIME 12:11:18
+0 @I0490@ INDI
+1 NAME (சேசன்) /ஆண்டாள்/
+2 TYPE birth
+2 GIVN (சேசன்)
+2 SURN ஆண்டாள்
+1 SEX F
+1 FAMS @F0168@
+1 CHAN
+2 DATE 7 MAY 2024
+3 TIME 12:18:47
+0 @I0491@ INDI
+1 NAME (சேசன்) /ரங்கராஜன்/
+2 TYPE birth
+2 GIVN (சேசன்)
+2 SURN ரங்கராஜன்
+1 SEX M
+1 FAMC @F0168@
+2 PEDI birth
+1 CHAN
+2 DATE 7 MAY 2024
+3 TIME 12:19:28
+0 @I0492@ INDI
+1 NAME (சேசன்) /ரங்கநாதன்/
+2 TYPE birth
+2 GIVN (சேசன்)
+2 SURN ரங்கநாதன்
+1 SEX M
+1 FAMC @F0168@
+2 PEDI birth
+1 CHAN
+2 DATE 7 MAY 2024
+3 TIME 12:19:28
 0 @F0000@ FAM
 1 HUSB @I0000@
 1 WIFE @I0001@
@@ -6127,8 +6265,8 @@
 1 WIFE @I0344@
 1 CHIL @I0345@
 1 CHAN
-2 DATE 26 APR 2024
-3 TIME 15:12:21
+2 DATE 7 MAY 2024
+3 TIME 12:08:08
 0 @F0118@ FAM
 1 HUSB @I0345@
 1 WIFE @I0346@
@@ -6172,11 +6310,12 @@
 0 @F0123@ FAM
 1 HUSB @I0357@
 1 WIFE @I0358@
+1 CHIL @I0489@
 1 CHIL @I0341@
 1 CHIL @I0355@
 1 CHAN
-2 DATE 26 APR 2024
-3 TIME 15:35:20
+2 DATE 7 MAY 2024
+3 TIME 12:11:18
 0 @F0124@ FAM
 1 HUSB @I0097@
 1 WIFE @I0359@
@@ -6478,6 +6617,43 @@
 1 CHAN
 2 DATE 3 MAY 2024
 3 TIME 14:57:49
+0 @F0164@ FAM
+1 HUSB @I0480@
+1 WIFE @I0360@
+1 CHIL @I0481@
+1 CHIL @I0482@
+1 CHAN
+2 DATE 6 MAY 2024
+3 TIME 17:14:17
+0 @F0165@ FAM
+1 HUSB @I0362@
+1 WIFE @I0483@
+1 CHIL @I0484@
+1 CHAN
+2 DATE 6 MAY 2024
+3 TIME 17:15:57
+0 @F0166@ FAM
+1 HUSB @I0361@
+1 WIFE @I0485@
+1 CHIL @I0486@
+1 CHAN
+2 DATE 6 MAY 2024
+3 TIME 17:17:35
+0 @F0167@ FAM
+1 HUSB @I0487@
+1 WIFE @I0363@
+1 CHIL @I0488@
+1 CHAN
+2 DATE 6 MAY 2024
+3 TIME 17:20:58
+0 @F0168@ FAM
+1 HUSB @I0372@
+1 WIFE @I0490@
+1 CHIL @I0491@
+1 CHIL @I0492@
+1 CHAN
+2 DATE 7 MAY 2024
+3 TIME 12:19:28
 0 @N0000@ NOTE அச்சங்குளம் ஸ்வீகாரம்
 0 @N0001@ NOTE Second wife
 0 @N0002@ NOTE Also known as ஸ்ரீநிவாசன்?
