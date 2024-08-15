@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 13 AUG 2024
-2 TIME 15:42:53
+1 DATE 14 AUG 2024
+2 TIME 18:21:59
 1 SUBM @SUBM@
 1 FILE C:\Users\sucha\Dropbox\r.data\ged\ancestry.ged
 1 COPR Copyright (c) 2024 .
@@ -568,8 +568,8 @@
 2 PEDI birth
 1 FAMS @F0026@
 1 CHAN
-2 DATE 22 APR 2024
-3 TIME 07:31:54
+2 DATE 14 AUG 2024
+3 TIME 18:13:20
 0 @I0048@ INDI
 1 NAME (வெங்கடசேஷன் அப்பா) /திருவேங்கடம்/
 2 TYPE birth
@@ -4516,16 +4516,16 @@
 2 DATE 29 APR 2024
 3 TIME 03:01:01
 0 @I0416@ INDI
-1 NAME (மோகினி) /சௌமியா/
+1 NAME (மோகினி) /சௌம்யா/
 2 TYPE birth
 2 GIVN (மோகினி)
-2 SURN சௌமியா
+2 SURN சௌம்யா
 1 SEX F
 1 FAMC @F0139@
 2 PEDI birth
 1 CHAN
-2 DATE 29 APR 2024
-3 TIME 03:01:01
+2 DATE 13 AUG 2024
+3 TIME 15:49:22
 0 @I0417@ INDI
 1 NAME (மோகினி) /சுதர்சன்/
 2 TYPE birth
@@ -5569,14 +5569,14 @@
 2 DATE 13 AUG 2024
 3 TIME 15:14:58
 0 @I0518@ INDI
-1 NAME  /அஷோக் ஜல்டு/
+1 NAME  /அஷோக் ஜல்து/
 2 TYPE birth
-2 SURN அஷோக் ஜல்டு
+2 SURN அஷோக் ஜல்து
 1 SEX M
 1 FAMS @F0179@
 1 CHAN
 2 DATE 13 AUG 2024
-3 TIME 15:12:43
+3 TIME 19:19:17
 0 @I0519@ INDI
 1 NAME (Dhanya) /நாக தன்யா/
 2 TYPE birth
@@ -5677,6 +5677,17 @@
 1 CHAN
 2 DATE 13 AUG 2024
 3 TIME 15:41:38
+0 @I0529@ INDI
+1 NAME (கண்ணன்) /வெங்கடகிருஷ்ணன்/
+2 TYPE birth
+2 GIVN (கண்ணன்)
+2 SURN வெங்கடகிருஷ்ணன்
+1 SEX M
+1 FAMC @F0014@
+2 PEDI birth
+1 CHAN
+2 DATE 14 AUG 2024
+3 TIME 18:13:20
 0 @F0000@ FAM
 1 HUSB @I0000@
 1 WIFE @I0001@
@@ -5811,10 +5822,11 @@
 0 @F0014@ FAM
 1 HUSB @I0087@
 1 WIFE @I0042@
+1 CHIL @I0529@
 1 CHIL @I0047@
 1 CHAN
-2 DATE 15 MAR 2024
-3 TIME 23:59:53
+2 DATE 14 AUG 2024
+3 TIME 18:13:20
 0 @F0015@ FAM
 1 HUSB @I0048@
 1 WIFE @I0043@
