@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.2.3-r1-aa03f5a
 2 NAME Gramps
-1 DATE 14 AUG 2024
-2 TIME 18:21:59
+1 DATE 16 AUG 2024
+2 TIME 17:05:32
 1 SUBM @SUBM@
 1 FILE C:\Users\sucha\Dropbox\r.data\ged\ancestry.ged
 1 COPR Copyright (c) 2024 .
@@ -267,8 +267,8 @@
 2 PEDI birth
 1 FAMS @F0005@
 1 CHAN
-2 DATE 24 APR 2024
-3 TIME 00:57:15
+2 DATE 16 AUG 2024
+3 TIME 15:19:55
 0 @I0022@ INDI
 1 NAME (செல்லப்பா) /ஸ்ரீநிவாசன்/
 2 TYPE birth
@@ -455,8 +455,8 @@
 2 PEDI birth
 1 FAMS @F0012@
 1 CHAN
-2 DATE 24 APR 2024
-3 TIME 00:57:15
+2 DATE 16 AUG 2024
+3 TIME 15:19:55
 0 @I0038@ INDI
 1 NAME (செல்லாளி சுதர்சனம் பாட்டி) /செல்லம்மாள்/
 2 TYPE birth
@@ -771,8 +771,8 @@
 2 PEDI birth
 1 FAMS @F0021@
 1 CHAN
-2 DATE 21 MAR 2024
-3 TIME 03:46:51
+2 DATE 16 AUG 2024
+3 TIME 15:37:47
 0 @I0067@ INDI
 1 NAME (தாத்தாவின் சகோதரி) /மதுரவல்லி/
 2 TYPE birth
@@ -783,8 +783,8 @@
 2 PEDI birth
 1 FAMS @F0021@
 1 CHAN
-2 DATE 24 APR 2024
-3 TIME 00:57:15
+2 DATE 16 AUG 2024
+3 TIME 15:19:55
 0 @I0068@ INDI
 1 NAME (சீதா சித்தி தாத்தா அப்பா வழி) /ஸ்ரீநிவாசன்/
 2 TYPE birth
@@ -813,10 +813,12 @@
 1 SEX M
 1 BIRT
 2 DATE 1889
+1 FAMC @F0022@
+2 PEDI birth
 1 FAMS @F0023@
 1 CHAN
-2 DATE 22 APR 2024
-3 TIME 07:25:01
+2 DATE 16 AUG 2024
+3 TIME 15:37:47
 0 @I0071@ INDI
 1 NAME (சீதா சித்தி அம்மா) /ஆண்டாள்/
 2 TYPE birth
@@ -912,8 +914,8 @@
 2 PEDI birth
 1 FAMS @F0025@
 1 CHAN
-2 DATE 24 APR 2024
-3 TIME 00:57:15
+2 DATE 16 AUG 2024
+3 TIME 15:19:55
 0 @I0079@ INDI
 1 NAME (குப்பு முத்தா தாத்தாஅம்மா வழி) /ஸ்ரீநிவாசன்/
 2 TYPE birth
@@ -1199,8 +1201,8 @@
 1 FAMC @F0011@
 2 PEDI birth
 1 CHAN
-2 DATE 24 APR 2024
-3 TIME 00:57:15
+2 DATE 16 AUG 2024
+3 TIME 15:19:55
 0 @I0105@ INDI
 1 NAME (காந்தி) /வெங்கடகிருஷ்ணன்/
 2 TYPE birth
@@ -1210,8 +1212,8 @@
 1 FAMC @F0011@
 2 PEDI birth
 1 CHAN
-2 DATE 24 APR 2024
-3 TIME 00:57:15
+2 DATE 16 AUG 2024
+3 TIME 15:19:55
 0 @I0106@ INDI
 1 NAME (முத்துக்குட்டி கணவர்) /ராமஸ்வாமி/
 2 TYPE birth
@@ -1222,8 +1224,8 @@
 2 PEDI birth
 1 FAMS @F0035@
 1 CHAN
-2 DATE 24 APR 2024
-3 TIME 00:57:15
+2 DATE 16 AUG 2024
+3 TIME 15:19:55
 0 @I0107@ INDI
 1 NAME  /முத்துக்குட்டி/
 2 TYPE birth
@@ -1433,8 +1435,8 @@
 2 PEDI birth
 1 FAMS @F0041@
 1 CHAN
-2 DATE 24 APR 2024
-3 TIME 00:57:15
+2 DATE 16 AUG 2024
+3 TIME 15:19:55
 0 @I0126@ INDI
 1 NAME (கொக்கு தாத்தா) /லக்ஷ்மி/
 2 TYPE birth
@@ -1519,8 +1521,8 @@
 2 PEDI birth
 1 FAMS @F0043@
 1 CHAN
-2 DATE 24 APR 2024
-3 TIME 00:57:15
+2 DATE 16 AUG 2024
+3 TIME 15:19:55
 0 @I0134@ INDI
 1 NAME (கோண்டு பாட்டி) /கோதண்டராமன்/
 2 TYPE birth
@@ -3744,8 +3746,8 @@
 2 PEDI birth
 1 FAMS @F0116@
 1 CHAN
-2 DATE 24 APR 2024
-3 TIME 00:57:15
+2 DATE 16 AUG 2024
+3 TIME 15:19:55
 0 @I0344@ INDI
 1 NAME  /நாமகிரி லக்ஷ்மி/
 2 TYPE birth
@@ -5688,6 +5690,93 @@
 1 CHAN
 2 DATE 14 AUG 2024
 3 TIME 18:13:20
+0 @I0530@ INDI
+1 NAME  /வெங்கட பாட்டி/
+2 TYPE birth
+2 SURN வெங்கட பாட்டி
+1 SEX F
+1 FAMC @F0011@
+2 PEDI birth
+1 CHAN
+2 DATE 16 AUG 2024
+3 TIME 15:19:55
+0 @I0531@ INDI
+1 NAME (தாத்தாவின் சகோதரி) /கமலா/
+2 TYPE birth
+2 GIVN (தாத்தாவின் சகோதரி)
+2 SURN கமலா
+1 SEX F
+1 FAMC @F0011@
+2 PEDI birth
+1 CHAN
+2 DATE 16 AUG 2024
+3 TIME 15:29:33
+0 @I0532@ INDI
+1 NAME (தாத்தாவின் சகோதரி) /சீதாலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (தாத்தாவின் சகோதரி)
+2 SURN சீதாலக்ஷ்மி
+1 SEX F
+1 FAMC @F0011@
+2 PEDI birth
+1 CHAN
+2 DATE 16 AUG 2024
+3 TIME 15:32:09
+0 @I0533@ INDI
+1 NAME (சீதா சித்தி) /திருவேங்கடம்/
+2 TYPE birth
+2 GIVN (சீதா சித்தி)
+2 SURN திருவேங்கடம்
+1 SEX M
+1 FAMC @F0022@
+2 PEDI birth
+1 FAMS @F0183@
+1 CHAN
+2 DATE 16 AUG 2024
+3 TIME 15:39:15
+0 @I0534@ INDI
+1 NAME (திருவேங்கடம்) /லக்ஷ்மி/
+2 TYPE birth
+2 GIVN (திருவேங்கடம்)
+2 SURN லக்ஷ்மி
+1 SEX F
+1 FAMS @F0183@
+1 CHAN
+2 DATE 16 AUG 2024
+3 TIME 15:39:15
+0 @I0535@ INDI
+1 NAME (சீதா சித்தி) /வரதராஜன்/
+2 TYPE birth
+2 GIVN (சீதா சித்தி)
+2 SURN வரதராஜன்
+1 SEX M
+1 FAMC @F0183@
+2 PEDI birth
+1 FAMS @F0184@
+1 CHAN
+2 DATE 16 AUG 2024
+3 TIME 15:40:23
+0 @I0536@ INDI
+1 NAME (மனைவி) /வரதராஜன்/
+2 TYPE birth
+2 GIVN (மனைவி)
+2 SURN வரதராஜன்
+1 SEX F
+1 FAMS @F0184@
+1 CHAN
+2 DATE 16 AUG 2024
+3 TIME 15:40:23
+0 @I0537@ INDI
+1 NAME (வரதராஜன்) /கண்ணன்/
+2 TYPE birth
+2 GIVN (வரதராஜன்)
+2 SURN கண்ணன்
+1 SEX M
+1 FAMC @F0184@
+2 PEDI birth
+1 CHAN
+2 DATE 16 AUG 2024
+3 TIME 15:41:18
 0 @F0000@ FAM
 1 HUSB @I0000@
 1 WIFE @I0001@
@@ -5799,9 +5888,12 @@
 1 CHIL @I0125@
 1 CHIL @I0133@
 1 CHIL @I0343@
+1 CHIL @I0530@
+1 CHIL @I0531@
+1 CHIL @I0532@
 1 CHAN
-2 DATE 24 APR 2024
-3 TIME 00:57:15
+2 DATE 16 AUG 2024
+3 TIME 15:19:55
 0 @F0012@ FAM
 1 HUSB @I0037@
 1 WIFE @I0038@
@@ -5886,9 +5978,11 @@
 1 HUSB @I0068@
 1 WIFE @I0069@
 1 CHIL @I0066@
+1 CHIL @I0070@
+1 CHIL @I0533@
 1 CHAN
-2 DATE 13 MAR 2024
-3 TIME 03:20:38
+2 DATE 16 AUG 2024
+3 TIME 15:37:47
 0 @F0023@ FAM
 1 HUSB @I0070@
 1 WIFE @I0071@
@@ -7148,6 +7242,20 @@
 1 CHAN
 2 DATE 13 AUG 2024
 3 TIME 15:41:38
+0 @F0183@ FAM
+1 HUSB @I0533@
+1 WIFE @I0534@
+1 CHIL @I0535@
+1 CHAN
+2 DATE 16 AUG 2024
+3 TIME 15:39:15
+0 @F0184@ FAM
+1 HUSB @I0535@
+1 WIFE @I0536@
+1 CHIL @I0537@
+1 CHAN
+2 DATE 16 AUG 2024
+3 TIME 15:41:18
 0 @N0000@ NOTE அச்சங்குளம் ஸ்வீகாரம்
 0 @N0001@ NOTE Second wife
 0 @N0002@ NOTE Also known as ஸ்ரீநிவாசன்?
