@@ -1,9 +1,9 @@
 0 HEAD
 1 SOUR Gramps
-2 VERS AIO64-6.0.4--1
+2 VERS AIO64-6.0.0--1
 2 NAME Gramps
-1 DATE 16 AUG 2025
-2 TIME 12:25:43
+1 DATE 20 AUG 2025
+2 TIME 18:02:22
 1 SUBM @SUBM@
 1 FILE C:\Users\sucha\Dropbox\r.data\ged\ancestry.ged
 1 COPR Copyright (c) 2025 .
@@ -1428,17 +1428,17 @@
 2 DATE 21 APR 2024
 3 TIME 15:09:46
 0 @I0125@ INDI
-1 NAME (தாத்தாவின் சகோதரி?) /லக்ஷ்மி/
+1 NAME (தாத்தாவின் அக்கா) /லக்ஷ்மி/
 2 TYPE birth
-2 GIVN (தாத்தாவின் சகோதரி?)
+2 GIVN (தாத்தாவின் அக்கா)
 2 SURN லக்ஷ்மி
 1 SEX F
 1 FAMC @F0011@
 2 PEDI birth
 1 FAMS @F0041@
 1 CHAN
-2 DATE 17 AUG 2024
-3 TIME 03:49:55
+2 DATE 20 AUG 2025
+3 TIME 14:43:03
 0 @I0126@ INDI
 1 NAME (கொக்கு தாத்தா) /லக்ஷ்மி/
 2 TYPE birth
@@ -1491,9 +1491,10 @@
 1 SEX F
 1 FAMC @F0041@
 2 PEDI birth
+1 FAMS @F0205@
 1 CHAN
-2 DATE 20 MAR 2024
-3 TIME 09:47:07
+2 DATE 20 AUG 2025
+3 TIME 14:19:17
 0 @I0131@ INDI
 1 NAME (காரைக்குடி) /கல்யாணி/
 2 TYPE birth
@@ -1504,18 +1505,18 @@
 2 PEDI birth
 1 FAMS @F0042@
 1 CHAN
-2 DATE 16 AUG 2025
-3 TIME 12:17:44
+2 DATE 20 AUG 2025
+3 TIME 14:15:00
 0 @I0132@ INDI
-1 NAME (காரைக்குடி கணவர்) /கல்யாணி/
+1 NAME (கல்யாணி) /ராஜகோபால்/
 2 TYPE birth
-2 GIVN (காரைக்குடி கணவர்)
-2 SURN கல்யாணி
+2 GIVN (கல்யாணி)
+2 SURN ராஜகோபால்
 1 SEX M
 1 FAMS @F0042@
 1 CHAN
-2 DATE 20 MAR 2024
-3 TIME 12:28:49
+2 DATE 20 AUG 2025
+3 TIME 13:41:55
 0 @I0133@ INDI
 1 NAME (கோண்டு தாத்தா முத்தப்பன்?) /கோதண்டராமன்/
 2 TYPE birth
@@ -6173,14 +6174,15 @@
 2 DATE 20 MAY 2025
 3 TIME 16:26:53
 0 @I0578@ INDI
-1 NAME  /ஆண்டாள் கணவர்/
+1 NAME (ஆண்டாள்) /புருஷோத்தமன்/
 2 TYPE birth
-2 SURN ஆண்டாள் கணவர்
+2 GIVN (ஆண்டாள்)
+2 SURN புருஷோத்தமன்
 1 SEX M
 1 FAMS @F0201@
 1 CHAN
-2 DATE 16 AUG 2025
-3 TIME 12:17:12
+2 DATE 20 AUG 2025
+3 TIME 13:40:15
 0 @I0579@ INDI
 1 NAME (கல்யாணி) /கீதா/
 2 TYPE birth
@@ -6189,9 +6191,257 @@
 1 SEX F
 1 FAMC @F0042@
 2 PEDI birth
+1 FAMS @F0204@
 1 CHAN
-2 DATE 16 AUG 2025
-3 TIME 12:21:34
+2 DATE 20 AUG 2025
+3 TIME 14:06:21
+0 @I0580@ INDI
+1 NAME (கல்யாணி) /லக்ஷ்மி/
+2 TYPE birth
+2 GIVN (கல்யாணி)
+2 SURN லக்ஷ்மி
+1 SEX F
+1 FAMC @F0042@
+2 PEDI birth
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 13:42:45
+0 @I0581@ INDI
+1 NAME (கீதா) /பாலாஜி/
+2 TYPE birth
+2 GIVN (கீதா)
+2 SURN பாலாஜி
+1 SEX M
+1 FAMS @F0204@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:06:21
+0 @I0582@ INDI
+1 NAME  /ஸ்ரீநிமலன்/
+2 TYPE birth
+2 SURN ஸ்ரீநிமலன்
+1 SEX M
+1 FAMC @F0204@
+2 PEDI birth
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:06:21
+0 @I0583@ INDI
+1 NAME  /ஸ்ரீநவ்யா/
+2 TYPE birth
+2 SURN ஸ்ரீநவ்யா
+1 SEX F
+1 FAMC @F0204@
+2 PEDI birth
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:06:21
+0 @I0584@ INDI
+1 NAME (காரைக்குடி) /பார்த்தசாரதி/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN பார்த்தசாரதி
+1 SEX M
+1 FAMC @F0201@
+2 PEDI birth
+1 FAMS @F0206@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:25:05
+0 @I0585@ INDI
+1 NAME (காரைக்குடி) /வைதேஹி/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN வைதேஹி
+1 SEX F
+1 FAMC @F0201@
+2 PEDI birth
+1 FAMS @F0207@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:30:23
+0 @I0586@ INDI
+1 NAME (காரைக்குடி) /கனகம்/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN கனகம்
+1 SEX F
+1 FAMC @F0201@
+2 PEDI birth
+1 FAMS @F0208@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:32:31
+0 @I0587@ INDI
+1 NAME (காரைக்குடி) /சுபத்ரா/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN சுபத்ரா
+1 SEX F
+1 FAMC @F0201@
+2 PEDI birth
+1 FAMS @F0209@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:33:38
+0 @I0588@ INDI
+1 NAME (காரைக்குடி) /செல்லம்மாள்/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN செல்லம்மாள்
+1 SEX F
+1 FAMC @F0201@
+2 PEDI birth
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:15:00
+0 @I0589@ INDI
+1 NAME  /ஜெகந்நாதன்/
+2 TYPE birth
+2 SURN ஜெகந்நாதன்
+1 SEX M
+1 FAMS @F0205@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:19:17
+0 @I0590@ INDI
+1 NAME (காரைக்குடி) /ரங்கராஜன்/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN ரங்கராஜன்
+1 SEX F
+1 FAMC @F0205@
+2 PEDI birth
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:19:17
+0 @I0591@ INDI
+1 NAME (காரைக்குடி) /குமுதா/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN குமுதா
+1 SEX F
+1 FAMS @F0206@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:25:05
+0 @I0592@ INDI
+1 NAME (காரைக்குடி) /விஜயலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN விஜயலக்ஷ்மி
+1 SEX F
+1 FAMC @F0206@
+2 PEDI birth
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:25:05
+0 @I0593@ INDI
+1 NAME (காரைக்குடி) /கண்ணன்/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN கண்ணன்
+1 SEX M
+1 FAMC @F0206@
+2 PEDI birth
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:25:05
+0 @I0594@ INDI
+1 NAME (காரைக்குடி) /புருஷோத்தமன்/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN புருஷோத்தமன்
+1 SEX M
+1 FAMC @F0206@
+2 PEDI birth
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:25:05
+0 @I0595@ INDI
+1 NAME  /தவசயனம்/
+2 TYPE birth
+2 SURN தவசயனம்
+1 SEX M
+1 FAMS @F0207@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:30:23
+0 @I0596@ INDI
+1 NAME (தவசயனம்) /பாலாஜி/
+2 TYPE birth
+2 GIVN (தவசயனம்)
+2 SURN பாலாஜி
+1 SEX M
+1 FAMC @F0207@
+2 PEDI birth
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:30:23
+0 @I0597@ INDI
+1 NAME (தவசயனம்) /ராஜலக்ஷ்மி/
+2 TYPE birth
+2 GIVN (தவசயனம்)
+2 SURN ராஜலக்ஷ்மி
+1 SEX F
+1 FAMC @F0207@
+2 PEDI birth
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:41:46
+0 @I0598@ INDI
+1 NAME (காரைக்குடி) /செல்லப்பா/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN செல்லப்பா
+1 SEX M
+1 FAMS @F0208@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:32:31
+0 @I0599@ INDI
+1 NAME (காரைக்குடி) /சக்கரவர்த்தி/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN சக்கரவர்த்தி
+1 SEX M
+1 FAMC @F0208@
+2 PEDI birth
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:32:31
+0 @I0600@ INDI
+1 NAME (காரைக்குடி) /பரணீதரன்/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN பரணீதரன்
+1 SEX M
+1 FAMC @F0208@
+2 PEDI birth
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:32:31
+0 @I0601@ INDI
+1 NAME (காரைக்குடி) /சடகோபன்/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN சடகோபன்
+1 SEX M
+1 FAMS @F0209@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:33:38
+0 @I0602@ INDI
+1 NAME (காரைக்குடி) /சுதர்சன்/
+2 TYPE birth
+2 GIVN (காரைக்குடி)
+2 SURN சுதர்சன்
+1 SEX M
+1 FAMC @F0209@
+2 PEDI birth
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:33:38
 0 @F0000@ FAM
 1 HUSB @I0000@
 1 WIFE @I0001@
@@ -6574,9 +6824,10 @@
 1 HUSB @I0132@
 1 WIFE @I0131@
 1 CHIL @I0579@
+1 CHIL @I0580@
 1 CHAN
-2 DATE 16 AUG 2025
-3 TIME 12:20:55
+2 DATE 20 AUG 2025
+3 TIME 13:42:45
 0 @F0043@ FAM
 1 HUSB @I0133@
 1 WIFE @I0134@
@@ -7791,10 +8042,62 @@
 0 @F0201@ FAM
 1 HUSB @I0578@
 1 WIFE @I0128@
+1 CHIL @I0584@
+1 CHIL @I0585@
 1 CHIL @I0131@
+1 CHIL @I0586@
+1 CHIL @I0587@
+1 CHIL @I0588@
 1 CHAN
-2 DATE 16 AUG 2025
-3 TIME 12:17:12
+2 DATE 20 AUG 2025
+3 TIME 14:15:00
+0 @F0204@ FAM
+1 HUSB @I0581@
+1 WIFE @I0579@
+1 CHIL @I0582@
+1 CHIL @I0583@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:06:21
+0 @F0205@ FAM
+1 HUSB @I0589@
+1 WIFE @I0130@
+1 CHIL @I0590@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:19:17
+0 @F0206@ FAM
+1 HUSB @I0584@
+1 WIFE @I0591@
+1 CHIL @I0592@
+1 CHIL @I0593@
+1 CHIL @I0594@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:25:05
+0 @F0207@ FAM
+1 HUSB @I0595@
+1 WIFE @I0585@
+1 CHIL @I0596@
+1 CHIL @I0597@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:30:23
+0 @F0208@ FAM
+1 HUSB @I0598@
+1 WIFE @I0586@
+1 CHIL @I0599@
+1 CHIL @I0600@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:32:31
+0 @F0209@ FAM
+1 HUSB @I0601@
+1 WIFE @I0587@
+1 CHIL @I0602@
+1 CHAN
+2 DATE 20 AUG 2025
+3 TIME 14:33:38
 0 @N0000@ NOTE அச்சங்குளம் ஸ்வீகாரம்
 0 @N0001@ NOTE Second wife
 0 @N0002@ NOTE Also known as ஸ்ரீநிவாசன்?
