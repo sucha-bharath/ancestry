@@ -5,7 +5,7 @@
 2 NAME The 'gedcomS7' package for the R language
 2 CORP Jamie Lendrum
 3 EMAIL jalendrum@gmail.com
-1 DATE 28 APR 2026
+1 DATE 24 JUL 2026
 1 LANG en
 0 @I0027@ INDI
 1 NAME (அச்சங்குளம் ஆரம்பம்) /வெங்கடராமன்/
@@ -223,36 +223,22 @@
 2 SURN அலமேலு
 1 SEX M
 1 FAMS @F0058@
-0 @I0029@ INDI
-1 NAME (அப்பா குராயூர்) /முத்தப்பன்/
-2 TYPE BIRTH
-2 GIVN (அப்பா குராயூர்)
-2 SURN முத்தப்பன்
-1 SEX M
-1 FAMS @F0009@
-0 @I0030@ INDI
-1 NAME (அம்மா குராயூர்) /முத்தப்பன்/
-2 TYPE BIRTH
-2 GIVN (அம்மா குராயூர்)
-2 SURN முத்தப்பன்
-1 SEX M
-1 FAMS @F0009@
 0 @I0031@ INDI
 1 NAME (பாட்டி அப்பா) /முத்தப்பன்/
 2 TYPE BIRTH
 2 GIVN (பாட்டி அப்பா)
 2 SURN முத்தப்பன்
 1 SEX M
-1 FAMC @F0009@
 1 FAMS @F0013@
+1 FAMC @F0191@
 0 @I0032@ INDI
 1 NAME (தாத்தாவின் அம்மா) /நாச்சியார்/
 2 TYPE BIRTH
 2 GIVN (தாத்தாவின் அம்மா)
 2 SURN நாச்சியார்
 1 SEX M
-1 FAMC @F0009@
 1 FAMS @F0011@
+1 FAMC @F0191@
 0 @I0033@ INDI
 1 NAME (எச்சம்மாள்) /சீதாலக்ஷ்மி/
 2 TYPE BIRTH
@@ -923,9 +909,9 @@
 1 FAMC @F0040@
 1 FAMS @F0111@
 0 @I0125@ INDI
-1 NAME (தாத்தாவின் சகோதரி?) /லக்ஷ்மி/
+1 NAME (தாத்தாவின் அக்கா) /லக்ஷ்மி/
 2 TYPE BIRTH
-2 GIVN (தாத்தாவின் சகோதரி?)
+2 GIVN (தாத்தாவின் அக்கா)
 2 SURN லக்ஷ்மி
 1 SEX M
 1 FAMC @F0011@
@@ -951,6 +937,7 @@
 2 SURN ஆண்டாள்
 1 SEX M
 1 FAMC @F0041@
+1 FAMS @F0201@
 0 @I0129@ INDI
 1 NAME (அண்ணன் கோயில்) /ராஜம்/
 2 TYPE BIRTH
@@ -965,6 +952,7 @@
 2 SURN மதுரவல்லி
 1 SEX M
 1 FAMC @F0041@
+1 FAMS @F0205@
 0 @I0131@ INDI
 1 NAME (காரைக்குடி) /கல்யாணி/
 2 TYPE BIRTH
@@ -972,11 +960,12 @@
 2 SURN கல்யாணி
 1 SEX M
 1 FAMS @F0042@
+1 FAMC @F0201@
 0 @I0132@ INDI
-1 NAME (காரைக்குடி கணவர்) /கல்யாணி/
+1 NAME (கல்யாணி) /ராஜகோபால்/
 2 TYPE BIRTH
-2 GIVN (காரைக்குடி கணவர்)
-2 SURN கல்யாணி
+2 GIVN (கல்யாணி)
+2 SURN ராஜகோபால்
 1 SEX M
 1 FAMS @F0042@
 0 @I0133@ INDI
@@ -1450,6 +1439,7 @@
 2 SURN நிதின்
 1 SEX M
 1 FAMC @F0065@
+1 FAMS @F0210@
 0 @I0198@ INDI
 1 NAME  /புஷ்பா/
 2 TYPE BIRTH
@@ -4019,6 +4009,409 @@
 2 SURN ஸ்ரீநாத்
 1 SEX M
 1 FAMS @F0200@
+0 @I0578@ INDI
+1 NAME (ஆண்டாள்) /புருஷோத்தமன்/
+2 TYPE BIRTH
+2 GIVN (ஆண்டாள்)
+2 SURN புருஷோத்தமன்
+1 SEX M
+1 FAMS @F0201@
+0 @I0579@ INDI
+1 NAME (கல்யாணி) /கீதா/
+2 TYPE BIRTH
+2 GIVN (கல்யாணி)
+2 SURN கீதா
+1 SEX M
+1 FAMC @F0042@
+1 FAMS @F0204@
+0 @I0580@ INDI
+1 NAME (கல்யாணி) /லக்ஷ்மி/
+2 TYPE BIRTH
+2 GIVN (கல்யாணி)
+2 SURN லக்ஷ்மி
+1 SEX M
+1 FAMC @F0042@
+0 @I0581@ INDI
+1 NAME (கீதா) /பாலாஜி/
+2 TYPE BIRTH
+2 GIVN (கீதா)
+2 SURN பாலாஜி
+1 SEX M
+1 FAMS @F0204@
+0 @I0582@ INDI
+1 NAME  /ஸ்ரீநிமலன்/
+2 TYPE BIRTH
+2 SURN ஸ்ரீநிமலன்
+1 SEX M
+1 FAMC @F0204@
+0 @I0583@ INDI
+1 NAME  /ஸ்ரீநவ்யா/
+2 TYPE BIRTH
+2 SURN ஸ்ரீநவ்யா
+1 SEX M
+1 FAMC @F0204@
+0 @I0584@ INDI
+1 NAME (காரைக்குடி) /பார்த்தசாரதி/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN பார்த்தசாரதி
+1 SEX M
+1 FAMC @F0201@
+1 FAMS @F0206@
+0 @I0585@ INDI
+1 NAME (காரைக்குடி) /வைதேஹி/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN வைதேஹி
+1 SEX M
+1 FAMC @F0201@
+1 FAMS @F0207@
+0 @I0586@ INDI
+1 NAME (காரைக்குடி) /கனகம்/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN கனகம்
+1 SEX M
+1 FAMC @F0201@
+1 FAMS @F0208@
+0 @I0587@ INDI
+1 NAME (காரைக்குடி) /சுபத்ரா/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN சுபத்ரா
+1 SEX M
+1 FAMC @F0201@
+1 FAMS @F0209@
+0 @I0588@ INDI
+1 NAME (காரைக்குடி) /செல்லம்மாள்/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN செல்லம்மாள்
+1 SEX M
+1 FAMC @F0201@
+0 @I0589@ INDI
+1 NAME  /ஜெகந்நாதன்/
+2 TYPE BIRTH
+2 SURN ஜெகந்நாதன்
+1 SEX M
+1 FAMS @F0205@
+0 @I0590@ INDI
+1 NAME (காரைக்குடி) /ரங்கராஜன்/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN ரங்கராஜன்
+1 SEX M
+1 FAMC @F0205@
+0 @I0591@ INDI
+1 NAME (காரைக்குடி) /குமுதா/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN குமுதா
+1 SEX M
+1 FAMS @F0206@
+0 @I0592@ INDI
+1 NAME (காரைக்குடி) /விஜயலக்ஷ்மி/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN விஜயலக்ஷ்மி
+1 SEX M
+1 FAMC @F0206@
+0 @I0593@ INDI
+1 NAME (காரைக்குடி) /கண்ணன்/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN கண்ணன்
+1 SEX M
+1 FAMC @F0206@
+0 @I0594@ INDI
+1 NAME (காரைக்குடி) /புருஷோத்தமன்/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN புருஷோத்தமன்
+1 SEX M
+1 FAMC @F0206@
+0 @I0595@ INDI
+1 NAME  /தவசயனம்/
+2 TYPE BIRTH
+2 SURN தவசயனம்
+1 SEX M
+1 FAMS @F0207@
+0 @I0596@ INDI
+1 NAME (தவசயனம்) /பாலாஜி/
+2 TYPE BIRTH
+2 GIVN (தவசயனம்)
+2 SURN பாலாஜி
+1 SEX M
+1 FAMC @F0207@
+0 @I0597@ INDI
+1 NAME (தவசயனம்) /ராஜலக்ஷ்மி/
+2 TYPE BIRTH
+2 GIVN (தவசயனம்)
+2 SURN ராஜலக்ஷ்மி
+1 SEX M
+1 FAMC @F0207@
+0 @I0598@ INDI
+1 NAME (காரைக்குடி) /செல்லப்பா/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN செல்லப்பா
+1 SEX M
+1 FAMS @F0208@
+0 @I0599@ INDI
+1 NAME (காரைக்குடி) /சக்கரவர்த்தி/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN சக்கரவர்த்தி
+1 SEX M
+1 FAMC @F0208@
+0 @I0600@ INDI
+1 NAME (காரைக்குடி) /பரணீதரன்/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN பரணீதரன்
+1 SEX M
+1 FAMC @F0208@
+0 @I0601@ INDI
+1 NAME (காரைக்குடி) /சடகோபன்/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN சடகோபன்
+1 SEX M
+1 FAMS @F0209@
+0 @I0602@ INDI
+1 NAME (காரைக்குடி) /சுதர்சன்/
+2 TYPE BIRTH
+2 GIVN (காரைக்குடி)
+2 SURN சுதர்சன்
+1 SEX M
+1 FAMC @F0209@
+0 @I0603@ INDI
+1 NAME (நிதின்) /வர்ஷினி/
+2 TYPE BIRTH
+2 GIVN (நிதின்)
+2 SURN வர்ஷினி
+1 SEX M
+1 FAMS @F0210@
+0 @I0604@ INDI
+1 NAME (பெரியப்பா) /சந்தானம்/
+2 TYPE BIRTH
+2 GIVN (பெரியப்பா)
+2 SURN சந்தானம்
+1 SEX M
+1 FAMS @F0211@
+1 FAMC @F0212@
+0 @I0605@ INDI
+1 NAME (பெரியம்மா) /பங்கஜம்/
+2 TYPE BIRTH
+2 GIVN (பெரியம்மா)
+2 SURN பங்கஜம்
+1 SEX M
+1 FAMS @F0211@
+0 @I0606@ INDI
+1 NAME (பெரியப்பா) /ஜெயா/
+2 TYPE BIRTH
+2 GIVN (பெரியப்பா)
+2 SURN ஜெயா
+1 SEX M
+1 FAMC @F0211@
+1 FAMS @F0217@
+0 @I0607@ INDI
+1 NAME (பெரியப்பா) /ஸ்ரீதரன்/
+2 TYPE BIRTH
+2 GIVN (பெரியப்பா)
+2 SURN ஸ்ரீதரன்
+1 SEX M
+1 FAMC @F0211@
+1 FAMS @F0213@
+0 @I0608@ INDI
+1 NAME (பெரியப்பா) /மோகன கிருஷ்ணன்/
+2 TYPE BIRTH
+2 GIVN (பெரியப்பா)
+2 SURN மோகன கிருஷ்ணன்
+1 SEX M
+1 FAMC @F0211@
+1 FAMS @F0215@
+0 @I0609@ INDI
+1 NAME  /சேஷம்மாள்/
+2 TYPE BIRTH
+2 SURN சேஷம்மாள்
+1 SEX M
+1 FAMC @F0177@
+1 FAMS @F0212@
+0 @I0610@ INDI
+1 NAME  /பெருந்தேவி அக்கா/
+2 TYPE BIRTH
+2 SURN பெருந்தேவி அக்கா
+1 SEX M
+1 FAMC @F0177@
+0 @I0611@ INDI
+1 NAME  /அனந்த ராமன்/
+2 TYPE BIRTH
+2 SURN அனந்த ராமன்
+1 SEX M
+1 FAMS @F0212@
+0 @I0612@ INDI
+1 NAME (ஸ்ரீதர்) /கீதா/
+2 TYPE BIRTH
+2 GIVN (ஸ்ரீதர்)
+2 SURN கீதா
+1 SEX M
+1 FAMS @F0213@
+0 @I0613@ INDI
+1 NAME (ஸ்ரீதர்) /அருண்/
+2 TYPE BIRTH
+2 GIVN (ஸ்ரீதர்)
+2 SURN அருண்
+1 SEX M
+1 FAMC @F0213@
+1 FAMS @F0214@
+0 @I0614@ INDI
+1 NAME  /ஸ்நிக்தா/
+2 TYPE BIRTH
+2 SURN ஸ்நிக்தா
+1 SEX M
+1 FAMS @F0214@
+0 @I0615@ INDI
+1 NAME (ஸ்ரீதர்) /ஆயூஷ்/
+2 TYPE BIRTH
+2 GIVN (ஸ்ரீதர்)
+2 SURN ஆயூஷ்
+1 SEX M
+1 FAMC @F0214@
+0 @I0616@ INDI
+1 NAME  /சகஸ்ரா/
+2 TYPE BIRTH
+2 SURN சகஸ்ரா
+1 SEX M
+1 FAMC @F0214@
+0 @I0617@ INDI
+1 NAME (மோகன்) /தமயந்தி/
+2 TYPE BIRTH
+2 GIVN (மோகன்)
+2 SURN தமயந்தி
+1 SEX M
+1 FAMS @F0215@
+0 @I0618@ INDI
+1 NAME (மோகன்) /அனிருத்/
+2 TYPE BIRTH
+2 GIVN (மோகன்)
+2 SURN அனிருத்
+1 SEX M
+1 FAMC @F0215@
+1 FAMS @F0216@
+0 @I0619@ INDI
+1 NAME (மோகன்) /விஜய்/
+2 TYPE BIRTH
+2 GIVN (மோகன்)
+2 SURN விஜய்
+1 SEX M
+1 FAMC @F0215@
+0 @I0620@ INDI
+1 NAME (மோகன்) /ராஜலக்ஷ்மி/
+2 TYPE BIRTH
+2 GIVN (மோகன்)
+2 SURN ராஜலக்ஷ்மி
+1 SEX M
+1 FAMS @F0216@
+0 @I0621@ INDI
+1 NAME (மோகன்) /கேஷவ்/
+2 TYPE BIRTH
+2 GIVN (மோகன்)
+2 SURN கேஷவ்
+1 SEX M
+1 FAMC @F0216@
+0 @I0622@ INDI
+1 NAME (ஜெயா அக்கா) /ஆராவமுதன்/
+2 TYPE BIRTH
+2 GIVN (ஜெயா அக்கா)
+2 SURN ஆராவமுதன்
+1 SEX M
+1 FAMS @F0217@
+0 @I0623@ INDI
+1 NAME (ஜெயா) /கல்பனா/
+2 TYPE BIRTH
+2 GIVN (ஜெயா)
+2 SURN கல்பனா
+1 SEX M
+1 FAMC @F0217@
+1 FAMS @F0218@
+0 @I0624@ INDI
+1 NAME (ஜெயா) /ஷோபனா/
+2 TYPE BIRTH
+2 GIVN (ஜெயா)
+2 SURN ஷோபனா
+1 SEX M
+1 FAMC @F0217@
+1 FAMS @F0219@
+0 @I0625@ INDI
+1 NAME (ஜெயா) /வந்தனா/
+2 TYPE BIRTH
+2 GIVN (ஜெயா)
+2 SURN வந்தனா
+1 SEX M
+1 FAMC @F0217@
+1 FAMS @F0220@
+0 @I0626@ INDI
+1 NAME (ஜெயா) /விஸ்வநாதன்/
+2 TYPE BIRTH
+2 GIVN (ஜெயா)
+2 SURN விஸ்வநாதன்
+1 SEX M
+1 FAMS @F0218@
+0 @I0627@ INDI
+1 NAME (ஜெயா) /ராம்/
+2 TYPE BIRTH
+2 GIVN (ஜெயா)
+2 SURN ராம்
+1 SEX M
+1 FAMC @F0218@
+0 @I0628@ INDI
+1 NAME (ஜெயா) /நந்திதா/
+2 TYPE BIRTH
+2 GIVN (ஜெயா)
+2 SURN நந்திதா
+1 SEX M
+1 FAMC @F0218@
+0 @I0629@ INDI
+1 NAME  /நந்தகுமார்/
+2 TYPE BIRTH
+2 SURN நந்தகுமார்
+1 SEX M
+1 FAMS @F0219@
+0 @I0630@ INDI
+1 NAME  /திரிஷா/
+2 TYPE BIRTH
+2 SURN திரிஷா
+1 SEX M
+1 FAMC @F0219@
+0 @I0631@ INDI
+1 NAME (ஜெயா) /நவ்யா/
+2 TYPE BIRTH
+2 GIVN (ஜெயா)
+2 SURN நவ்யா
+1 SEX M
+1 FAMC @F0219@
+0 @I0632@ INDI
+1 NAME (ஜெயா) /பாஸ்கர்/
+2 TYPE BIRTH
+2 GIVN (ஜெயா)
+2 SURN பாஸ்கர்
+1 SEX M
+1 FAMS @F0220@
+0 @I0633@ INDI
+1 NAME (ஜெயா) /தியா/
+2 TYPE BIRTH
+2 GIVN (ஜெயா)
+2 SURN தியா
+1 SEX M
+1 FAMC @F0220@
+0 @I0634@ INDI
+1 NAME (ஜெயா) /தேவ்/
+2 TYPE BIRTH
+2 GIVN (ஜெயா)
+2 SURN தேவ்
+1 SEX M
+1 FAMC @F0220@
 0 @F0000@ FAM
 1 HUSB @I0000@
 1 WIFE @I0001@
@@ -4074,11 +4467,6 @@
 1 WIFE @I0026@
 1 CHIL @I0025@
 1 CHIL @I0062@
-0 @F0009@ FAM
-1 HUSB @I0029@
-1 WIFE @I0030@
-1 CHIL @I0031@
-1 CHIL @I0032@
 0 @F0010@ FAM
 1 HUSB @I0034@
 1 WIFE @I0035@
@@ -4274,6 +4662,8 @@
 0 @F0042@ FAM
 1 HUSB @I0132@
 1 WIFE @I0131@
+1 CHIL @I0579@
+1 CHIL @I0580@
 0 @F0043@ FAM
 1 HUSB @I0133@
 1 WIFE @I0134@
@@ -4904,6 +5294,8 @@
 0 @F0177@ FAM
 1 HUSB @I0513@
 1 WIFE @I0514@
+1 CHIL @I0610@
+1 CHIL @I0609@
 1 CHIL @I0371@
 0 @F0178@ FAM
 1 HUSB @I0025@
@@ -4972,6 +5364,8 @@
 1 HUSB @I0555@
 1 WIFE @I0556@
 1 CHIL @I0553@
+1 CHIL @I0031@
+1 CHIL @I0032@
 0 @F0192@ FAM
 1 HUSB @I0557@
 1 WIFE @I0558@
@@ -5007,4 +5401,94 @@
 0 @F0200@ FAM
 1 HUSB @I0573@
 1 WIFE @I0548@
+0 @F0201@ FAM
+1 HUSB @I0578@
+1 WIFE @I0128@
+1 CHIL @I0584@
+1 CHIL @I0585@
+1 CHIL @I0131@
+1 CHIL @I0586@
+1 CHIL @I0587@
+1 CHIL @I0588@
+0 @F0204@ FAM
+1 HUSB @I0581@
+1 WIFE @I0579@
+1 CHIL @I0582@
+1 CHIL @I0583@
+0 @F0205@ FAM
+1 HUSB @I0589@
+1 WIFE @I0130@
+1 CHIL @I0590@
+0 @F0206@ FAM
+1 HUSB @I0584@
+1 WIFE @I0591@
+1 CHIL @I0592@
+1 CHIL @I0593@
+1 CHIL @I0594@
+0 @F0207@ FAM
+1 HUSB @I0595@
+1 WIFE @I0585@
+1 CHIL @I0596@
+1 CHIL @I0597@
+0 @F0208@ FAM
+1 HUSB @I0598@
+1 WIFE @I0586@
+1 CHIL @I0599@
+1 CHIL @I0600@
+0 @F0209@ FAM
+1 HUSB @I0601@
+1 WIFE @I0587@
+1 CHIL @I0602@
+0 @F0210@ FAM
+1 HUSB @I0197@
+1 WIFE @I0603@
+0 @F0211@ FAM
+1 HUSB @I0604@
+1 WIFE @I0605@
+1 CHIL @I0606@
+1 CHIL @I0607@
+1 CHIL @I0608@
+0 @F0212@ FAM
+1 HUSB @I0611@
+1 WIFE @I0609@
+1 CHIL @I0604@
+0 @F0213@ FAM
+1 HUSB @I0607@
+1 WIFE @I0612@
+1 CHIL @I0613@
+0 @F0214@ FAM
+1 HUSB @I0613@
+1 WIFE @I0614@
+1 CHIL @I0615@
+1 CHIL @I0616@
+0 @F0215@ FAM
+1 HUSB @I0608@
+1 WIFE @I0617@
+1 CHIL @I0618@
+1 CHIL @I0619@
+0 @F0216@ FAM
+1 HUSB @I0618@
+1 WIFE @I0620@
+1 CHIL @I0621@
+0 @F0217@ FAM
+1 HUSB @I0622@
+1 WIFE @I0606@
+1 CHIL @I0623@
+1 CHIL @I0624@
+1 CHIL @I0625@
+0 @F0218@ FAM
+1 HUSB @I0626@
+1 WIFE @I0623@
+1 CHIL @I0627@
+1 CHIL @I0628@
+0 @F0219@ FAM
+1 HUSB @I0629@
+1 WIFE @I0624@
+1 CHIL @I0630@
+1 CHIL @I0631@
+0 @F0220@ FAM
+1 HUSB @I0632@
+1 WIFE @I0625@
+1 CHIL @I0633@
+1 CHIL @I0634@
 0 TRLR
