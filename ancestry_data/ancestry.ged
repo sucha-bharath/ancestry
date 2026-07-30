@@ -5,7 +5,7 @@
 2 NAME The 'gedcomS7' package for the R language
 2 CORP Jamie Lendrum
 3 EMAIL jalendrum@gmail.com
-1 DATE 24 JUL 2026
+1 DATE 30 JUL 2026
 1 LANG en
 0 @I0027@ INDI
 1 NAME (அச்சங்குளம் ஆரம்பம்) /வெங்கடராமன்/
@@ -4306,6 +4306,7 @@
 2 SURN விஜய்
 1 SEX M
 1 FAMC @F0215@
+1 FAMS @F0221@
 0 @I0620@ INDI
 1 NAME (மோகன்) /ராஜலக்ஷ்மி/
 2 TYPE BIRTH
@@ -4412,6 +4413,13 @@
 2 SURN தேவ்
 1 SEX M
 1 FAMC @F0220@
+0 @I0635@ INDI
+1 NAME (மோகன்) /நீரஜா/
+2 TYPE BIRTH
+2 GIVN (மோகன்)
+2 SURN நீரஜா
+1 SEX M
+1 FAMS @F0221@
 0 @F0000@ FAM
 1 HUSB @I0000@
 1 WIFE @I0001@
@@ -5491,4 +5499,7 @@
 1 WIFE @I0625@
 1 CHIL @I0633@
 1 CHIL @I0634@
+0 @F0221@ FAM
+1 HUSB @I0619@
+1 WIFE @I0635@
 0 TRLR
