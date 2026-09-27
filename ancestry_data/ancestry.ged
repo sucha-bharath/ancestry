@@ -5,7 +5,7 @@
 2 NAME The 'gedcomS7' package for the R language
 2 CORP Jamie Lendrum
 3 EMAIL jalendrum@gmail.com
-1 DATE 30 JUL 2026
+1 DATE 27 SEP 2026
 1 LANG en
 0 @I0027@ INDI
 1 NAME (அச்சங்குளம் ஆரம்பம்) /வெங்கடராமன்/
@@ -876,6 +876,7 @@
 2 SURN நாராயணன்
 1 SEX M
 1 FAMC @F0039@
+1 FAMS @F0227@
 0 @I0121@ INDI
 1 NAME (பட்டு பெரியப்பா அப்பா) /ராகவன்/
 2 TYPE BIRTH
@@ -1868,9 +1869,11 @@
 1 NAME (அம்பி நானா) /பட்டு/
 2 TYPE BIRTH
 2 GIVN (அம்பி நானா)
+2 NICK ரெங்கம்மாள்
 2 SURN பட்டு
 1 SEX M
 1 FAMC @F0039@
+1 FAMS @F0223@
 0 @I0262@ INDI
 1 NAME (அம்பி நானா) /பாலா/
 2 TYPE BIRTH
@@ -1885,6 +1888,7 @@
 2 SURN லக்ஷ்மி (சந்திரா?)
 1 SEX M
 1 FAMC @F0039@
+1 FAMS @F0225@
 0 @I0264@ INDI
 1 NAME (அம்பி நானா) /பாமா/
 2 TYPE BIRTH
@@ -1892,6 +1896,7 @@
 2 SURN பாமா
 1 SEX M
 1 FAMC @F0039@
+1 FAMS @F0229@
 0 @I0265@ INDI
 1 NAME (அம்பி நானா) /உஷா/
 2 TYPE BIRTH
@@ -1899,6 +1904,7 @@
 2 SURN உஷா
 1 SEX M
 1 FAMC @F0039@
+1 FAMS @F0230@
 0 @I0266@ INDI
 1 NAME (அம்பி நானா) /ரங்கராஜன்/
 2 TYPE BIRTH
@@ -1906,6 +1912,7 @@
 2 SURN ரங்கராஜன்
 1 SEX M
 1 FAMC @F0039@
+1 FAMS @F0231@
 0 @I0267@ INDI
 1 NAME (அம்பி நானா) /சம்பத்/
 2 TYPE BIRTH
@@ -4420,6 +4427,167 @@
 2 SURN நீரஜா
 1 SEX M
 1 FAMS @F0221@
+0 @I0637@ INDI
+1 NAME ஸ்ரீநிவாசன் //
+2 TYPE BIRTH
+2 NPFX (பட்டு)
+2 GIVN ஸ்ரீநிவாசன்
+1 SEX M
+1 FAMS @F0223@
+0 @I0638@ INDI
+1 NAME (பட்டு) /ஜெயந்தி/
+2 TYPE BIRTH
+2 GIVN (பட்டு)
+2 NICK ருக்மிணி
+2 SURN ஜெயந்தி
+1 SEX M
+1 FAMC @F0223@
+1 FAMS @F0224@
+0 @I0639@ INDI
+1 NAME (பட்டு) /தருண்/
+2 TYPE BIRTH
+2 GIVN (பட்டு)
+2 SURN தருண்
+1 SEX M
+1 FAMC @F0224@
+0 @I0640@ INDI
+1 NAME (பட்டு) /ஸஹானா/
+2 TYPE BIRTH
+2 GIVN (பட்டு)
+2 SURN ஸஹானா
+1 SEX M
+1 FAMC @F0224@
+0 @I0641@ INDI
+1 NAME (பட்டு) /பாலாஜி/
+2 TYPE BIRTH
+2 GIVN (பட்டு)
+2 SURN பாலாஜி
+1 SEX M
+1 FAMC @F0223@
+0 @I0642@ INDI
+1 NAME (பட்டு) /பிரசன்னா/
+2 TYPE BIRTH
+2 GIVN (பட்டு)
+2 SURN பிரசன்னா
+1 SEX M
+1 FAMS @F0224@
+0 @I0643@ INDI
+1 NAME  /குருநாதன் அய்யர்/
+2 TYPE BIRTH
+2 SURN குருநாதன் அய்யர்
+1 SEX M
+1 FAMS @F0225@
+0 @I0644@ INDI
+1 NAME (பட்டு) /கார்த்திக் @@@ ராமபத்ரன்/
+2 TYPE BIRTH
+2 GIVN (பட்டு)
+2 SURN கார்த்திக் @@@ ராமபத்ரன்
+1 SEX M
+1 FAMC @F0225@
+1 FAMS @F0226@
+0 @I0645@ INDI
+1 NAME (கார்த்திக்) /உமா/
+2 TYPE BIRTH
+2 GIVN (கார்த்திக்)
+2 SURN உமா
+1 SEX M
+1 FAMS @F0226@
+0 @I0646@ INDI
+1 NAME (கார்த்திக்) /ஆதிரா/
+2 TYPE BIRTH
+2 GIVN (கார்த்திக்)
+2 SURN ஆதிரா
+1 SEX M
+1 FAMC @F0226@
+0 @I0647@ INDI
+1 NAME கார்த்திக் /ஸஞ்சீவ் கிருஷ்ணா/
+2 TYPE BIRTH
+2 GIVN கார்த்திக்
+2 SURN ஸஞ்சீவ் கிருஷ்ணா
+1 SEX M
+1 FAMC @F0226@
+0 @I0648@ INDI
+1 NAME (நானா) /சித்ரா/
+2 TYPE BIRTH
+2 GIVN (நானா)
+2 SURN சித்ரா
+1 SEX M
+1 FAMS @F0227@
+0 @I0649@ INDI
+1 NAME (அம்பி) /ஆகாஷ்/
+2 TYPE BIRTH
+2 GIVN (அம்பி)
+2 SURN ஆகாஷ்
+1 SEX M
+1 FAMC @F0227@
+1 FAMS @F0228@
+0 @I0650@ INDI
+1 NAME  /பத்மா திவேதி/
+2 TYPE BIRTH
+2 SURN பத்மா திவேதி
+1 SEX M
+1 FAMS @F0228@
+0 @I0651@ INDI
+1 NAME  /பாமா கணவர்/
+2 TYPE BIRTH
+2 SURN பாமா கணவர்
+1 SEX M
+1 FAMS @F0229@
+0 @I0652@ INDI
+1 NAME (பாமா) /திருவேங்கடம் @@@ சீனு/
+2 TYPE BIRTH
+2 GIVN (பாமா)
+2 SURN திருவேங்கடம் @@@ சீனு
+1 SEX M
+1 FAMC @F0229@
+0 @I0653@ INDI
+1 NAME  /உஷா கணவர்/
+2 TYPE BIRTH
+2 SURN உஷா கணவர்
+1 SEX M
+1 FAMS @F0230@
+0 @I0654@ INDI
+1 NAME (உஷா) /சுந்தர்/
+2 TYPE BIRTH
+2 GIVN (உஷா)
+2 SURN சுந்தர்
+1 SEX M
+1 FAMC @F0230@
+0 @I0655@ INDI
+1 NAME (உஷா) /அம்புஜா/
+2 TYPE BIRTH
+2 GIVN (உஷா)
+2 SURN அம்புஜா
+1 SEX M
+1 FAMC @F0230@
+0 @I0656@ INDI
+1 NAME (ரங்கராஜன்) /சுரேஷ் கிருஷ்ணா/
+2 TYPE BIRTH
+2 GIVN (ரங்கராஜன்)
+2 SURN சுரேஷ் கிருஷ்ணா
+1 SEX M
+1 FAMC @F0231@
+1 FAMS @F0232@
+0 @I0657@ INDI
+1 NAME (ரங்கராஜன்) /ரகு/
+2 TYPE BIRTH
+2 GIVN (ரங்கராஜன்)
+2 SURN ரகு
+1 SEX M
+1 FAMC @F0231@
+0 @I0658@ INDI
+1 NAME (ரங்கராஜன்) /பாமா/
+2 TYPE BIRTH
+2 GIVN (ரங்கராஜன்)
+2 SURN பாமா
+1 SEX M
+1 FAMS @F0231@
+0 @I0659@ INDI
+1 NAME  /பிரதிக்ஷா/
+2 TYPE BIRTH
+2 SURN பிரதிக்ஷா
+1 SEX M
+1 FAMS @F0232@
 0 @F0000@ FAM
 1 HUSB @I0000@
 1 WIFE @I0001@
@@ -4645,8 +4813,8 @@
 0 @F0039@ FAM
 1 HUSB @I0119@
 1 WIFE @I0011@
-1 CHIL @I0260@
 1 CHIL @I0261@
+1 CHIL @I0260@
 1 CHIL @I0262@
 1 CHIL @I0263@
 1 CHIL @I0120@
@@ -5502,4 +5670,47 @@
 0 @F0221@ FAM
 1 HUSB @I0619@
 1 WIFE @I0635@
+0 @F0223@ FAM
+1 HUSB @I0637@
+1 WIFE @I0261@
+1 CHIL @I0638@
+1 CHIL @I0641@
+0 @F0224@ FAM
+1 HUSB @I0642@
+1 WIFE @I0638@
+1 CHIL @I0639@
+1 CHIL @I0640@
+0 @F0225@ FAM
+1 HUSB @I0643@
+1 WIFE @I0263@
+1 CHIL @I0644@
+0 @F0226@ FAM
+1 HUSB @I0644@
+1 WIFE @I0645@
+1 CHIL @I0646@
+1 CHIL @I0647@
+0 @F0227@ FAM
+1 HUSB @I0120@
+1 WIFE @I0648@
+1 CHIL @I0649@
+0 @F0228@ FAM
+1 HUSB @I0649@
+1 WIFE @I0650@
+0 @F0229@ FAM
+1 HUSB @I0651@
+1 WIFE @I0264@
+1 CHIL @I0652@
+0 @F0230@ FAM
+1 HUSB @I0653@
+1 WIFE @I0265@
+1 CHIL @I0654@
+1 CHIL @I0655@
+0 @F0231@ FAM
+1 HUSB @I0266@
+1 WIFE @I0658@
+1 CHIL @I0656@
+1 CHIL @I0657@
+0 @F0232@ FAM
+1 HUSB @I0656@
+1 WIFE @I0659@
 0 TRLR
