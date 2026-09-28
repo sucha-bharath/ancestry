@@ -5,7 +5,7 @@
 2 NAME The 'gedcomS7' package for the R language
 2 CORP Jamie Lendrum
 3 EMAIL jalendrum@gmail.com
-1 DATE 27 SEP 2026
+1 DATE 28 SEP 2026
 1 LANG en
 0 @I0027@ INDI
 1 NAME (அச்சங்குளம் ஆரம்பம்) /வெங்கடராமன்/
@@ -4252,9 +4252,9 @@
 1 SEX M
 1 FAMC @F0177@
 0 @I0611@ INDI
-1 NAME  /அனந்த ராமன்/
+1 NAME  /அனந்த நாராயணன்/
 2 TYPE BIRTH
-2 SURN அனந்த ராமன்
+2 SURN அனந்த நாராயணன்
 1 SEX M
 1 FAMS @F0212@
 0 @I0612@ INDI
@@ -4464,6 +4464,7 @@
 2 SURN பாலாஜி
 1 SEX M
 1 FAMC @F0223@
+1 FAMS @F0234@
 0 @I0642@ INDI
 1 NAME (பட்டு) /பிரசன்னா/
 2 TYPE BIRTH
@@ -4528,9 +4529,10 @@
 1 SEX M
 1 FAMS @F0228@
 0 @I0651@ INDI
-1 NAME  /பாமா கணவர்/
+1 NAME (பாமா) /கிருஷ்ணன்/
 2 TYPE BIRTH
-2 SURN பாமா கணவர்
+2 GIVN (பாமா)
+2 SURN கிருஷ்ணன்
 1 SEX M
 1 FAMS @F0229@
 0 @I0652@ INDI
@@ -4541,9 +4543,10 @@
 1 SEX M
 1 FAMC @F0229@
 0 @I0653@ INDI
-1 NAME  /உஷா கணவர்/
+1 NAME (உஷா) /ஸ்ரீதரன்/
 2 TYPE BIRTH
-2 SURN உஷா கணவர்
+2 GIVN (உஷா)
+2 SURN ஸ்ரீதரன்
 1 SEX M
 1 FAMS @F0230@
 0 @I0654@ INDI
@@ -4588,6 +4591,45 @@
 2 SURN பிரதிக்ஷா
 1 SEX M
 1 FAMS @F0232@
+0 @I0660@ INDI
+1 NAME (உஷா) /ஸ்ரீதரன்/
+2 TYPE BIRTH
+2 GIVN (உஷா)
+2 SURN ஸ்ரீதரன்
+1 SEX M
+0 @I0661@ INDI
+1 NAME (அம்பி நானா) /கல்யாணி/
+2 TYPE BIRTH
+2 GIVN (அம்பி நானா)
+2 SURN கல்யாணி
+1 SEX M
+1 FAMC @F0039@
+1 FAMS @F0233@
+0 @I0662@ INDI
+1 NAME (கல்யாணி) /கோபாலன்/
+2 TYPE BIRTH
+2 GIVN (கல்யாணி)
+2 SURN கோபாலன்
+1 SEX M
+1 FAMS @F0233@
+0 @I0663@ INDI
+1 NAME  /காயத்ரி/
+2 TYPE BIRTH
+2 SURN காயத்ரி
+1 SEX M
+1 FAMS @F0234@
+0 @I0664@ INDI
+1 NAME  /Smithika/
+2 TYPE BIRTH
+2 SURN Smithika 
+1 SEX M
+1 FAMC @F0234@
+0 @I0665@ INDI
+1 NAME  /Vidyuth/
+2 TYPE BIRTH
+2 SURN Vidyuth 
+1 SEX M
+1 FAMC @F0234@
 0 @F0000@ FAM
 1 HUSB @I0000@
 1 WIFE @I0001@
@@ -4817,6 +4859,7 @@
 1 CHIL @I0260@
 1 CHIL @I0262@
 1 CHIL @I0263@
+1 CHIL @I0661@
 1 CHIL @I0120@
 1 CHIL @I0264@
 1 CHIL @I0265@
@@ -5713,4 +5756,12 @@
 0 @F0232@ FAM
 1 HUSB @I0656@
 1 WIFE @I0659@
+0 @F0233@ FAM
+1 HUSB @I0662@
+1 WIFE @I0661@
+0 @F0234@ FAM
+1 HUSB @I0641@
+1 WIFE @I0663@
+1 CHIL @I0664@
+1 CHIL @I0665@
 0 TRLR
